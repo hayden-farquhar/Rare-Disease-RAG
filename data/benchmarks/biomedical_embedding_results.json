@@ -1,0 +1,1170 @@
+{
+  "models": [
+    "all-MiniLM-L6-v2",
+    "BioLORD-2023",
+    "BiomedBERT"
+  ],
+  "results": {
+    "all-MiniLM-L6-v2": [
+      {
+        "case_id": "test_001",
+        "target": "Ataxia-telangiectasia",
+        "rarity": "rare",
+        "recall_at_20": true,
+        "first_rank": 1
+      },
+      {
+        "case_id": "test_002",
+        "target": "Wilson disease",
+        "rarity": "rare",
+        "recall_at_20": true,
+        "first_rank": 1
+      },
+      {
+        "case_id": "test_003",
+        "target": "Ehlers-Danlos syndrome, hypermobility type",
+        "rarity": "uncommon",
+        "recall_at_20": true,
+        "first_rank": 18
+      },
+      {
+        "case_id": "test_004",
+        "target": "Niemann-Pick disease type C",
+        "rarity": "rare",
+        "recall_at_20": true,
+        "first_rank": 14
+      },
+      {
+        "case_id": "test_005",
+        "target": "Hereditary hemorrhagic telangiectasia",
+        "rarity": "rare",
+        "recall_at_20": true,
+        "first_rank": 1
+      },
+      {
+        "case_id": "nejm_001",
+        "target": "Granulomatosis with polyangiitis",
+        "rarity": "rare",
+        "recall_at_20": false,
+        "first_rank": null
+      },
+      {
+        "case_id": "nejm_002",
+        "target": "Light chain amyloidosis",
+        "rarity": "rare",
+        "recall_at_20": false,
+        "first_rank": null
+      },
+      {
+        "case_id": "nejm_003",
+        "target": "Hereditary hemochromatosis",
+        "rarity": "uncommon",
+        "recall_at_20": true,
+        "first_rank": 1
+      },
+      {
+        "case_id": "nejm_004",
+        "target": "Dermatomyositis",
+        "rarity": "rare",
+        "recall_at_20": true,
+        "first_rank": 9
+      },
+      {
+        "case_id": "nejm_005",
+        "target": "Gaucher disease",
+        "rarity": "rare",
+        "recall_at_20": false,
+        "first_rank": null
+      },
+      {
+        "case_id": "nejm_006",
+        "target": "Pheochromocytoma",
+        "rarity": "rare",
+        "recall_at_20": true,
+        "first_rank": 5
+      },
+      {
+        "case_id": "nejm_007",
+        "target": "Fabry disease",
+        "rarity": "rare",
+        "recall_at_20": false,
+        "first_rank": null
+      },
+      {
+        "case_id": "nejm_008",
+        "target": "Systemic mastocytosis",
+        "rarity": "rare",
+        "recall_at_20": true,
+        "first_rank": 1
+      },
+      {
+        "case_id": "nejm_009",
+        "target": "Sarcoidosis",
+        "rarity": "uncommon",
+        "recall_at_20": true,
+        "first_rank": 5
+      },
+      {
+        "case_id": "nejm_010",
+        "target": "Tuberous sclerosis complex",
+        "rarity": "rare",
+        "recall_at_20": true,
+        "first_rank": 1
+      },
+      {
+        "case_id": "curated_235",
+        "target": "Dubowitz syndrome",
+        "rarity": "ultra-rare",
+        "recall_at_20": false,
+        "first_rank": null
+      },
+      {
+        "case_id": "curated_2273",
+        "target": "Ichthyosis follicularis-alopecia-photophobia syndrome",
+        "rarity": "ultra-rare",
+        "recall_at_20": true,
+        "first_rank": 8
+      },
+      {
+        "case_id": "curated_3455",
+        "target": "Wiedemann-Rautenstrauch syndrome",
+        "rarity": "ultra-rare",
+        "recall_at_20": true,
+        "first_rank": 1
+      },
+      {
+        "case_id": "curated_819",
+        "target": "Smith-Magenis syndrome",
+        "rarity": "ultra-rare",
+        "recall_at_20": false,
+        "first_rank": null
+      },
+      {
+        "case_id": "curated_550",
+        "target": "MELAS",
+        "rarity": "ultra-rare",
+        "recall_at_20": false,
+        "first_rank": null
+      },
+      {
+        "case_id": "curated_2044",
+        "target": "Floating-Harbor syndrome",
+        "rarity": "ultra-rare",
+        "recall_at_20": false,
+        "first_rank": null
+      },
+      {
+        "case_id": "curated_709",
+        "target": "Peters plus syndrome",
+        "rarity": "ultra-rare",
+        "recall_at_20": false,
+        "first_rank": null
+      },
+      {
+        "case_id": "curated_2308",
+        "target": "Jacobsen syndrome",
+        "rarity": "ultra-rare",
+        "recall_at_20": false,
+        "first_rank": null
+      },
+      {
+        "case_id": "curated_2745",
+        "target": "Opitz GBBB syndrome",
+        "rarity": "ultra-rare",
+        "recall_at_20": false,
+        "first_rank": null
+      },
+      {
+        "case_id": "curated_221",
+        "target": "Dermatomyositis",
+        "rarity": "ultra-rare",
+        "recall_at_20": true,
+        "first_rank": 5
+      },
+      {
+        "case_id": "curated_740",
+        "target": "Hutchinson-Gilford progeria syndrome",
+        "rarity": "ultra-rare",
+        "recall_at_20": true,
+        "first_rank": 6
+      },
+      {
+        "case_id": "curated_99226",
+        "target": "Monosomy X syndrome",
+        "rarity": "ultra-rare",
+        "recall_at_20": true,
+        "first_rank": 12
+      },
+      {
+        "case_id": "curated_3261",
+        "target": "Autoimmune lymphoproliferative syndrome",
+        "rarity": "ultra-rare",
+        "recall_at_20": false,
+        "first_rank": null
+      },
+      {
+        "case_id": "curated_466768",
+        "target": "Autosomal dominant Charcot-Marie-Tooth disease type 2Z",
+        "rarity": "ultra-rare",
+        "recall_at_20": false,
+        "first_rank": null
+      },
+      {
+        "case_id": "curated_900",
+        "target": "Granulomatosis with polyangiitis",
+        "rarity": "ultra-rare",
+        "recall_at_20": false,
+        "first_rank": null
+      },
+      {
+        "case_id": "curated_2495",
+        "target": "Meningioma",
+        "rarity": "ultra-rare",
+        "recall_at_20": true,
+        "first_rank": 17
+      },
+      {
+        "case_id": "curated_356961",
+        "target": "SLC35A2-CDG",
+        "rarity": "ultra-rare",
+        "recall_at_20": false,
+        "first_rank": null
+      },
+      {
+        "case_id": "curated_2162",
+        "target": "Holoprosencephaly",
+        "rarity": "ultra-rare",
+        "recall_at_20": true,
+        "first_rank": 10
+      },
+      {
+        "case_id": "curated_2710",
+        "target": "Oculodentodigital dysplasia",
+        "rarity": "ultra-rare",
+        "recall_at_20": true,
+        "first_rank": 13
+      },
+      {
+        "case_id": "curated_818",
+        "target": "Smith-Lemli-Opitz syndrome",
+        "rarity": "ultra-rare",
+        "recall_at_20": false,
+        "first_rank": null
+      },
+      {
+        "case_id": "curated_3107",
+        "target": "Autosomal dominant Robinow syndrome",
+        "rarity": "ultra-rare",
+        "recall_at_20": false,
+        "first_rank": null
+      },
+      {
+        "case_id": "curated_261349",
+        "target": "2p15p16.1 microdeletion syndrome",
+        "rarity": "ultra-rare",
+        "recall_at_20": false,
+        "first_rank": null
+      },
+      {
+        "case_id": "curated_828",
+        "target": "Stickler syndrome",
+        "rarity": "ultra-rare",
+        "recall_at_20": false,
+        "first_rank": null
+      },
+      {
+        "case_id": "curated_464306",
+        "target": "DYRK1A-related intellectual disability syndrome",
+        "rarity": "ultra-rare",
+        "recall_at_20": true,
+        "first_rank": 4
+      },
+      {
+        "case_id": "curated_273",
+        "target": "Steinert myotonic dystrophy",
+        "rarity": "ultra-rare",
+        "recall_at_20": false,
+        "first_rank": null
+      },
+      {
+        "case_id": "curated_175",
+        "target": "Cartilage-hair hypoplasia",
+        "rarity": "ultra-rare",
+        "recall_at_20": false,
+        "first_rank": null
+      },
+      {
+        "case_id": "curated_845",
+        "target": "Tay-Sachs disease",
+        "rarity": "ultra-rare",
+        "recall_at_20": false,
+        "first_rank": null
+      },
+      {
+        "case_id": "curated_567",
+        "target": "22q11.2 deletion syndrome",
+        "rarity": "ultra-rare",
+        "recall_at_20": false,
+        "first_rank": null
+      },
+      {
+        "case_id": "curated_534",
+        "target": "Oculocerebrorenal syndrome of Lowe",
+        "rarity": "ultra-rare",
+        "recall_at_20": false,
+        "first_rank": null
+      },
+      {
+        "case_id": "curated_64",
+        "target": "Alstr\u00f6m syndrome",
+        "rarity": "ultra-rare",
+        "recall_at_20": false,
+        "first_rank": null
+      },
+      {
+        "case_id": "curated_744",
+        "target": "Proteus syndrome",
+        "rarity": "ultra-rare",
+        "recall_at_20": true,
+        "first_rank": 3
+      },
+      {
+        "case_id": "curated_800",
+        "target": "Schwartz-Jampel syndrome",
+        "rarity": "ultra-rare",
+        "recall_at_20": false,
+        "first_rank": null
+      },
+      {
+        "case_id": "curated_821",
+        "target": "Sotos syndrome",
+        "rarity": "ultra-rare",
+        "recall_at_20": false,
+        "first_rank": null
+      },
+      {
+        "case_id": "curated_84",
+        "target": "Fanconi anemia",
+        "rarity": "ultra-rare",
+        "recall_at_20": false,
+        "first_rank": null
+      },
+      {
+        "case_id": "curated_500150",
+        "target": "ZTTK syndrome",
+        "rarity": "ultra-rare",
+        "recall_at_20": false,
+        "first_rank": null
+      },
+      {
+        "case_id": "curated_199",
+        "target": "Cornelia de Lange syndrome",
+        "rarity": "ultra-rare",
+        "recall_at_20": false,
+        "first_rank": null
+      },
+      {
+        "case_id": "curated_672",
+        "target": "Pallister-Hall syndrome",
+        "rarity": "ultra-rare",
+        "recall_at_20": false,
+        "first_rank": null
+      },
+      {
+        "case_id": "curated_1606",
+        "target": "1p36 deletion syndrome",
+        "rarity": "ultra-rare",
+        "recall_at_20": true,
+        "first_rank": 5
+      },
+      {
+        "case_id": "curated_506",
+        "target": "Leigh syndrome",
+        "rarity": "ultra-rare",
+        "recall_at_20": false,
+        "first_rank": null
+      },
+      {
+        "case_id": "curated_280",
+        "target": "Wolf-Hirschhorn syndrome",
+        "rarity": "ultra-rare",
+        "recall_at_20": false,
+        "first_rank": null
+      }
+    ],
+    "BioLORD-2023": [
+      {
+        "case_id": "test_001",
+        "target": "Ataxia-telangiectasia",
+        "rarity": "rare",
+        "recall_at_20": true,
+        "first_rank": 1
+      },
+      {
+        "case_id": "test_002",
+        "target": "Wilson disease",
+        "rarity": "rare",
+        "recall_at_20": true,
+        "first_rank": 1
+      },
+      {
+        "case_id": "test_003",
+        "target": "Ehlers-Danlos syndrome, hypermobility type",
+        "rarity": "uncommon",
+        "recall_at_20": true,
+        "first_rank": 13
+      },
+      {
+        "case_id": "test_004",
+        "target": "Niemann-Pick disease type C",
+        "rarity": "rare",
+        "recall_at_20": true,
+        "first_rank": 3
+      },
+      {
+        "case_id": "test_005",
+        "target": "Hereditary hemorrhagic telangiectasia",
+        "rarity": "rare",
+        "recall_at_20": true,
+        "first_rank": 1
+      },
+      {
+        "case_id": "nejm_001",
+        "target": "Granulomatosis with polyangiitis",
+        "rarity": "rare",
+        "recall_at_20": false,
+        "first_rank": null
+      },
+      {
+        "case_id": "nejm_002",
+        "target": "Light chain amyloidosis",
+        "rarity": "rare",
+        "recall_at_20": true,
+        "first_rank": 1
+      },
+      {
+        "case_id": "nejm_003",
+        "target": "Hereditary hemochromatosis",
+        "rarity": "uncommon",
+        "recall_at_20": true,
+        "first_rank": 1
+      },
+      {
+        "case_id": "nejm_004",
+        "target": "Dermatomyositis",
+        "rarity": "rare",
+        "recall_at_20": false,
+        "first_rank": null
+      },
+      {
+        "case_id": "nejm_005",
+        "target": "Gaucher disease",
+        "rarity": "rare",
+        "recall_at_20": false,
+        "first_rank": null
+      },
+      {
+        "case_id": "nejm_006",
+        "target": "Pheochromocytoma",
+        "rarity": "rare",
+        "recall_at_20": true,
+        "first_rank": 1
+      },
+      {
+        "case_id": "nejm_007",
+        "target": "Fabry disease",
+        "rarity": "rare",
+        "recall_at_20": true,
+        "first_rank": 6
+      },
+      {
+        "case_id": "nejm_008",
+        "target": "Systemic mastocytosis",
+        "rarity": "rare",
+        "recall_at_20": true,
+        "first_rank": 3
+      },
+      {
+        "case_id": "nejm_009",
+        "target": "Sarcoidosis",
+        "rarity": "uncommon",
+        "recall_at_20": true,
+        "first_rank": 7
+      },
+      {
+        "case_id": "nejm_010",
+        "target": "Tuberous sclerosis complex",
+        "rarity": "rare",
+        "recall_at_20": true,
+        "first_rank": 1
+      },
+      {
+        "case_id": "curated_235",
+        "target": "Dubowitz syndrome",
+        "rarity": "ultra-rare",
+        "recall_at_20": false,
+        "first_rank": null
+      },
+      {
+        "case_id": "curated_2273",
+        "target": "Ichthyosis follicularis-alopecia-photophobia syndrome",
+        "rarity": "ultra-rare",
+        "recall_at_20": false,
+        "first_rank": null
+      },
+      {
+        "case_id": "curated_3455",
+        "target": "Wiedemann-Rautenstrauch syndrome",
+        "rarity": "ultra-rare",
+        "recall_at_20": true,
+        "first_rank": 1
+      },
+      {
+        "case_id": "curated_819",
+        "target": "Smith-Magenis syndrome",
+        "rarity": "ultra-rare",
+        "recall_at_20": false,
+        "first_rank": null
+      },
+      {
+        "case_id": "curated_550",
+        "target": "MELAS",
+        "rarity": "ultra-rare",
+        "recall_at_20": false,
+        "first_rank": null
+      },
+      {
+        "case_id": "curated_2044",
+        "target": "Floating-Harbor syndrome",
+        "rarity": "ultra-rare",
+        "recall_at_20": false,
+        "first_rank": null
+      },
+      {
+        "case_id": "curated_709",
+        "target": "Peters plus syndrome",
+        "rarity": "ultra-rare",
+        "recall_at_20": false,
+        "first_rank": null
+      },
+      {
+        "case_id": "curated_2308",
+        "target": "Jacobsen syndrome",
+        "rarity": "ultra-rare",
+        "recall_at_20": false,
+        "first_rank": null
+      },
+      {
+        "case_id": "curated_2745",
+        "target": "Opitz GBBB syndrome",
+        "rarity": "ultra-rare",
+        "recall_at_20": false,
+        "first_rank": null
+      },
+      {
+        "case_id": "curated_221",
+        "target": "Dermatomyositis",
+        "rarity": "ultra-rare",
+        "recall_at_20": true,
+        "first_rank": 17
+      },
+      {
+        "case_id": "curated_740",
+        "target": "Hutchinson-Gilford progeria syndrome",
+        "rarity": "ultra-rare",
+        "recall_at_20": true,
+        "first_rank": 2
+      },
+      {
+        "case_id": "curated_99226",
+        "target": "Monosomy X syndrome",
+        "rarity": "ultra-rare",
+        "recall_at_20": false,
+        "first_rank": null
+      },
+      {
+        "case_id": "curated_3261",
+        "target": "Autoimmune lymphoproliferative syndrome",
+        "rarity": "ultra-rare",
+        "recall_at_20": false,
+        "first_rank": null
+      },
+      {
+        "case_id": "curated_466768",
+        "target": "Autosomal dominant Charcot-Marie-Tooth disease type 2Z",
+        "rarity": "ultra-rare",
+        "recall_at_20": false,
+        "first_rank": null
+      },
+      {
+        "case_id": "curated_900",
+        "target": "Granulomatosis with polyangiitis",
+        "rarity": "ultra-rare",
+        "recall_at_20": false,
+        "first_rank": null
+      },
+      {
+        "case_id": "curated_2495",
+        "target": "Meningioma",
+        "rarity": "ultra-rare",
+        "recall_at_20": true,
+        "first_rank": 12
+      },
+      {
+        "case_id": "curated_356961",
+        "target": "SLC35A2-CDG",
+        "rarity": "ultra-rare",
+        "recall_at_20": false,
+        "first_rank": null
+      },
+      {
+        "case_id": "curated_2162",
+        "target": "Holoprosencephaly",
+        "rarity": "ultra-rare",
+        "recall_at_20": false,
+        "first_rank": null
+      },
+      {
+        "case_id": "curated_2710",
+        "target": "Oculodentodigital dysplasia",
+        "rarity": "ultra-rare",
+        "recall_at_20": false,
+        "first_rank": null
+      },
+      {
+        "case_id": "curated_818",
+        "target": "Smith-Lemli-Opitz syndrome",
+        "rarity": "ultra-rare",
+        "recall_at_20": false,
+        "first_rank": null
+      },
+      {
+        "case_id": "curated_3107",
+        "target": "Autosomal dominant Robinow syndrome",
+        "rarity": "ultra-rare",
+        "recall_at_20": false,
+        "first_rank": null
+      },
+      {
+        "case_id": "curated_261349",
+        "target": "2p15p16.1 microdeletion syndrome",
+        "rarity": "ultra-rare",
+        "recall_at_20": true,
+        "first_rank": 12
+      },
+      {
+        "case_id": "curated_828",
+        "target": "Stickler syndrome",
+        "rarity": "ultra-rare",
+        "recall_at_20": true,
+        "first_rank": 2
+      },
+      {
+        "case_id": "curated_464306",
+        "target": "DYRK1A-related intellectual disability syndrome",
+        "rarity": "ultra-rare",
+        "recall_at_20": false,
+        "first_rank": null
+      },
+      {
+        "case_id": "curated_273",
+        "target": "Steinert myotonic dystrophy",
+        "rarity": "ultra-rare",
+        "recall_at_20": false,
+        "first_rank": null
+      },
+      {
+        "case_id": "curated_175",
+        "target": "Cartilage-hair hypoplasia",
+        "rarity": "ultra-rare",
+        "recall_at_20": false,
+        "first_rank": null
+      },
+      {
+        "case_id": "curated_845",
+        "target": "Tay-Sachs disease",
+        "rarity": "ultra-rare",
+        "recall_at_20": false,
+        "first_rank": null
+      },
+      {
+        "case_id": "curated_567",
+        "target": "22q11.2 deletion syndrome",
+        "rarity": "ultra-rare",
+        "recall_at_20": false,
+        "first_rank": null
+      },
+      {
+        "case_id": "curated_534",
+        "target": "Oculocerebrorenal syndrome of Lowe",
+        "rarity": "ultra-rare",
+        "recall_at_20": false,
+        "first_rank": null
+      },
+      {
+        "case_id": "curated_64",
+        "target": "Alstr\u00f6m syndrome",
+        "rarity": "ultra-rare",
+        "recall_at_20": false,
+        "first_rank": null
+      },
+      {
+        "case_id": "curated_744",
+        "target": "Proteus syndrome",
+        "rarity": "ultra-rare",
+        "recall_at_20": true,
+        "first_rank": 1
+      },
+      {
+        "case_id": "curated_800",
+        "target": "Schwartz-Jampel syndrome",
+        "rarity": "ultra-rare",
+        "recall_at_20": false,
+        "first_rank": null
+      },
+      {
+        "case_id": "curated_821",
+        "target": "Sotos syndrome",
+        "rarity": "ultra-rare",
+        "recall_at_20": false,
+        "first_rank": null
+      },
+      {
+        "case_id": "curated_84",
+        "target": "Fanconi anemia",
+        "rarity": "ultra-rare",
+        "recall_at_20": true,
+        "first_rank": 6
+      },
+      {
+        "case_id": "curated_500150",
+        "target": "ZTTK syndrome",
+        "rarity": "ultra-rare",
+        "recall_at_20": false,
+        "first_rank": null
+      },
+      {
+        "case_id": "curated_199",
+        "target": "Cornelia de Lange syndrome",
+        "rarity": "ultra-rare",
+        "recall_at_20": false,
+        "first_rank": null
+      },
+      {
+        "case_id": "curated_672",
+        "target": "Pallister-Hall syndrome",
+        "rarity": "ultra-rare",
+        "recall_at_20": false,
+        "first_rank": null
+      },
+      {
+        "case_id": "curated_1606",
+        "target": "1p36 deletion syndrome",
+        "rarity": "ultra-rare",
+        "recall_at_20": false,
+        "first_rank": null
+      },
+      {
+        "case_id": "curated_506",
+        "target": "Leigh syndrome",
+        "rarity": "ultra-rare",
+        "recall_at_20": false,
+        "first_rank": null
+      },
+      {
+        "case_id": "curated_280",
+        "target": "Wolf-Hirschhorn syndrome",
+        "rarity": "ultra-rare",
+        "recall_at_20": false,
+        "first_rank": null
+      }
+    ],
+    "BiomedBERT": [
+      {
+        "case_id": "test_001",
+        "target": "Ataxia-telangiectasia",
+        "rarity": "rare",
+        "recall_at_20": true,
+        "first_rank": 1
+      },
+      {
+        "case_id": "test_002",
+        "target": "Wilson disease",
+        "rarity": "rare",
+        "recall_at_20": false,
+        "first_rank": null
+      },
+      {
+        "case_id": "test_003",
+        "target": "Ehlers-Danlos syndrome, hypermobility type",
+        "rarity": "uncommon",
+        "recall_at_20": true,
+        "first_rank": 6
+      },
+      {
+        "case_id": "test_004",
+        "target": "Niemann-Pick disease type C",
+        "rarity": "rare",
+        "recall_at_20": false,
+        "first_rank": null
+      },
+      {
+        "case_id": "test_005",
+        "target": "Hereditary hemorrhagic telangiectasia",
+        "rarity": "rare",
+        "recall_at_20": true,
+        "first_rank": 4
+      },
+      {
+        "case_id": "nejm_001",
+        "target": "Granulomatosis with polyangiitis",
+        "rarity": "rare",
+        "recall_at_20": false,
+        "first_rank": null
+      },
+      {
+        "case_id": "nejm_002",
+        "target": "Light chain amyloidosis",
+        "rarity": "rare",
+        "recall_at_20": true,
+        "first_rank": 9
+      },
+      {
+        "case_id": "nejm_003",
+        "target": "Hereditary hemochromatosis",
+        "rarity": "uncommon",
+        "recall_at_20": true,
+        "first_rank": 1
+      },
+      {
+        "case_id": "nejm_004",
+        "target": "Dermatomyositis",
+        "rarity": "rare",
+        "recall_at_20": false,
+        "first_rank": null
+      },
+      {
+        "case_id": "nejm_005",
+        "target": "Gaucher disease",
+        "rarity": "rare",
+        "recall_at_20": false,
+        "first_rank": null
+      },
+      {
+        "case_id": "nejm_006",
+        "target": "Pheochromocytoma",
+        "rarity": "rare",
+        "recall_at_20": false,
+        "first_rank": null
+      },
+      {
+        "case_id": "nejm_007",
+        "target": "Fabry disease",
+        "rarity": "rare",
+        "recall_at_20": false,
+        "first_rank": null
+      },
+      {
+        "case_id": "nejm_008",
+        "target": "Systemic mastocytosis",
+        "rarity": "rare",
+        "recall_at_20": false,
+        "first_rank": null
+      },
+      {
+        "case_id": "nejm_009",
+        "target": "Sarcoidosis",
+        "rarity": "uncommon",
+        "recall_at_20": false,
+        "first_rank": null
+      },
+      {
+        "case_id": "nejm_010",
+        "target": "Tuberous sclerosis complex",
+        "rarity": "rare",
+        "recall_at_20": true,
+        "first_rank": 3
+      },
+      {
+        "case_id": "curated_235",
+        "target": "Dubowitz syndrome",
+        "rarity": "ultra-rare",
+        "recall_at_20": false,
+        "first_rank": null
+      },
+      {
+        "case_id": "curated_2273",
+        "target": "Ichthyosis follicularis-alopecia-photophobia syndrome",
+        "rarity": "ultra-rare",
+        "recall_at_20": false,
+        "first_rank": null
+      },
+      {
+        "case_id": "curated_3455",
+        "target": "Wiedemann-Rautenstrauch syndrome",
+        "rarity": "ultra-rare",
+        "recall_at_20": false,
+        "first_rank": null
+      },
+      {
+        "case_id": "curated_819",
+        "target": "Smith-Magenis syndrome",
+        "rarity": "ultra-rare",
+        "recall_at_20": false,
+        "first_rank": null
+      },
+      {
+        "case_id": "curated_550",
+        "target": "MELAS",
+        "rarity": "ultra-rare",
+        "recall_at_20": false,
+        "first_rank": null
+      },
+      {
+        "case_id": "curated_2044",
+        "target": "Floating-Harbor syndrome",
+        "rarity": "ultra-rare",
+        "recall_at_20": false,
+        "first_rank": null
+      },
+      {
+        "case_id": "curated_709",
+        "target": "Peters plus syndrome",
+        "rarity": "ultra-rare",
+        "recall_at_20": false,
+        "first_rank": null
+      },
+      {
+        "case_id": "curated_2308",
+        "target": "Jacobsen syndrome",
+        "rarity": "ultra-rare",
+        "recall_at_20": false,
+        "first_rank": null
+      },
+      {
+        "case_id": "curated_2745",
+        "target": "Opitz GBBB syndrome",
+        "rarity": "ultra-rare",
+        "recall_at_20": false,
+        "first_rank": null
+      },
+      {
+        "case_id": "curated_221",
+        "target": "Dermatomyositis",
+        "rarity": "ultra-rare",
+        "recall_at_20": true,
+        "first_rank": 2
+      },
+      {
+        "case_id": "curated_740",
+        "target": "Hutchinson-Gilford progeria syndrome",
+        "rarity": "ultra-rare",
+        "recall_at_20": false,
+        "first_rank": null
+      },
+      {
+        "case_id": "curated_99226",
+        "target": "Monosomy X syndrome",
+        "rarity": "ultra-rare",
+        "recall_at_20": true,
+        "first_rank": 9
+      },
+      {
+        "case_id": "curated_3261",
+        "target": "Autoimmune lymphoproliferative syndrome",
+        "rarity": "ultra-rare",
+        "recall_at_20": false,
+        "first_rank": null
+      },
+      {
+        "case_id": "curated_466768",
+        "target": "Autosomal dominant Charcot-Marie-Tooth disease type 2Z",
+        "rarity": "ultra-rare",
+        "recall_at_20": false,
+        "first_rank": null
+      },
+      {
+        "case_id": "curated_900",
+        "target": "Granulomatosis with polyangiitis",
+        "rarity": "ultra-rare",
+        "recall_at_20": false,
+        "first_rank": null
+      },
+      {
+        "case_id": "curated_2495",
+        "target": "Meningioma",
+        "rarity": "ultra-rare",
+        "recall_at_20": false,
+        "first_rank": null
+      },
+      {
+        "case_id": "curated_356961",
+        "target": "SLC35A2-CDG",
+        "rarity": "ultra-rare",
+        "recall_at_20": false,
+        "first_rank": null
+      },
+      {
+        "case_id": "curated_2162",
+        "target": "Holoprosencephaly",
+        "rarity": "ultra-rare",
+        "recall_at_20": true,
+        "first_rank": 10
+      },
+      {
+        "case_id": "curated_2710",
+        "target": "Oculodentodigital dysplasia",
+        "rarity": "ultra-rare",
+        "recall_at_20": false,
+        "first_rank": null
+      },
+      {
+        "case_id": "curated_818",
+        "target": "Smith-Lemli-Opitz syndrome",
+        "rarity": "ultra-rare",
+        "recall_at_20": false,
+        "first_rank": null
+      },
+      {
+        "case_id": "curated_3107",
+        "target": "Autosomal dominant Robinow syndrome",
+        "rarity": "ultra-rare",
+        "recall_at_20": false,
+        "first_rank": null
+      },
+      {
+        "case_id": "curated_261349",
+        "target": "2p15p16.1 microdeletion syndrome",
+        "rarity": "ultra-rare",
+        "recall_at_20": false,
+        "first_rank": null
+      },
+      {
+        "case_id": "curated_828",
+        "target": "Stickler syndrome",
+        "rarity": "ultra-rare",
+        "recall_at_20": false,
+        "first_rank": null
+      },
+      {
+        "case_id": "curated_464306",
+        "target": "DYRK1A-related intellectual disability syndrome",
+        "rarity": "ultra-rare",
+        "recall_at_20": true,
+        "first_rank": 17
+      },
+      {
+        "case_id": "curated_273",
+        "target": "Steinert myotonic dystrophy",
+        "rarity": "ultra-rare",
+        "recall_at_20": false,
+        "first_rank": null
+      },
+      {
+        "case_id": "curated_175",
+        "target": "Cartilage-hair hypoplasia",
+        "rarity": "ultra-rare",
+        "recall_at_20": false,
+        "first_rank": null
+      },
+      {
+        "case_id": "curated_845",
+        "target": "Tay-Sachs disease",
+        "rarity": "ultra-rare",
+        "recall_at_20": false,
+        "first_rank": null
+      },
+      {
+        "case_id": "curated_567",
+        "target": "22q11.2 deletion syndrome",
+        "rarity": "ultra-rare",
+        "recall_at_20": false,
+        "first_rank": null
+      },
+      {
+        "case_id": "curated_534",
+        "target": "Oculocerebrorenal syndrome of Lowe",
+        "rarity": "ultra-rare",
+        "recall_at_20": false,
+        "first_rank": null
+      },
+      {
+        "case_id": "curated_64",
+        "target": "Alstr\u00f6m syndrome",
+        "rarity": "ultra-rare",
+        "recall_at_20": false,
+        "first_rank": null
+      },
+      {
+        "case_id": "curated_744",
+        "target": "Proteus syndrome",
+        "rarity": "ultra-rare",
+        "recall_at_20": false,
+        "first_rank": null
+      },
+      {
+        "case_id": "curated_800",
+        "target": "Schwartz-Jampel syndrome",
+        "rarity": "ultra-rare",
+        "recall_at_20": false,
+        "first_rank": null
+      },
+      {
+        "case_id": "curated_821",
+        "target": "Sotos syndrome",
+        "rarity": "ultra-rare",
+        "recall_at_20": false,
+        "first_rank": null
+      },
+      {
+        "case_id": "curated_84",
+        "target": "Fanconi anemia",
+        "rarity": "ultra-rare",
+        "recall_at_20": true,
+        "first_rank": 11
+      },
+      {
+        "case_id": "curated_500150",
+        "target": "ZTTK syndrome",
+        "rarity": "ultra-rare",
+        "recall_at_20": false,
+        "first_rank": null
+      },
+      {
+        "case_id": "curated_199",
+        "target": "Cornelia de Lange syndrome",
+        "rarity": "ultra-rare",
+        "recall_at_20": false,
+        "first_rank": null
+      },
+      {
+        "case_id": "curated_672",
+        "target": "Pallister-Hall syndrome",
+        "rarity": "ultra-rare",
+        "recall_at_20": false,
+        "first_rank": null
+      },
+      {
+        "case_id": "curated_1606",
+        "target": "1p36 deletion syndrome",
+        "rarity": "ultra-rare",
+        "recall_at_20": false,
+        "first_rank": null
+      },
+      {
+        "case_id": "curated_506",
+        "target": "Leigh syndrome",
+        "rarity": "ultra-rare",
+        "recall_at_20": false,
+        "first_rank": null
+      },
+      {
+        "case_id": "curated_280",
+        "target": "Wolf-Hirschhorn syndrome",
+        "rarity": "ultra-rare",
+        "recall_at_20": false,
+        "first_rank": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,67 @@
+[
+  {
+    "case_id": "test_001",
+    "title": "Ataxia-Telangiectasia",
+    "clinical_vignette": "A 5-year-old girl presents with progressive difficulty walking that began at age 2. Her parents report frequent stumbling and an increasingly unsteady gait. On examination, she has cerebellar ataxia, oculomotor apraxia, and small dilated blood vessels (telangiectasias) visible on the conjunctivae and ears. Laboratory testing reveals markedly elevated alpha-fetoprotein (AFP) and low immunoglobulin levels. She has had recurrent sinopulmonary infections since infancy.",
+    "final_diagnosis": "Ataxia-telangiectasia",
+    "orpha_code": "100",
+    "omim_id": "208900",
+    "rarity": "rare",
+    "systems_involved": ["neurological", "immunological", "vascular"],
+    "key_discriminating_features": ["cerebellar ataxia", "oculomotor apraxia", "telangiectasias", "elevated AFP", "immunodeficiency"],
+    "difficulty_rating": "easy",
+    "aliases": ["Louis-Bar syndrome", "AT"]
+  },
+  {
+    "case_id": "test_002",
+    "title": "Wilson Disease",
+    "clinical_vignette": "A 14-year-old boy presents with a 6-month history of deteriorating school performance, personality changes, and tremor of the hands. Examination reveals a resting and intention tremor, dysarthria, and drooling. Slit-lamp examination shows golden-brown deposits at the periphery of the cornea (Kayser-Fleischer rings). Liver function tests are mildly abnormal. Serum ceruloplasmin is markedly low and 24-hour urinary copper excretion is elevated.",
+    "final_diagnosis": "Wilson disease",
+    "orpha_code": "905",
+    "omim_id": "277900",
+    "rarity": "rare",
+    "systems_involved": ["neurological", "hepatic", "ophthalmological"],
+    "key_discriminating_features": ["Kayser-Fleischer rings", "low ceruloplasmin", "elevated urinary copper", "neuropsychiatric symptoms", "hepatic dysfunction"],
+    "difficulty_rating": "easy",
+    "aliases": ["Hepatolenticular degeneration"]
+  },
+  {
+    "case_id": "test_003",
+    "title": "Ehlers-Danlos Syndrome, Hypermobile Type",
+    "clinical_vignette": "A 22-year-old woman presents with chronic widespread joint pain and recurrent joint dislocations. She reports that her joints have always been 'loose' and that she could do 'party tricks' as a child. She has a history of easy bruising, chronic fatigue, and poor wound healing with wide atrophic scars. On examination, there is marked joint hypermobility (Beighton score 8/9), soft velvety skin that is mildly hyperextensible, and several papyraceous scars over the knees and shins.",
+    "final_diagnosis": "Ehlers-Danlos syndrome, hypermobility type",
+    "orpha_code": "285",
+    "omim_id": "130020",
+    "rarity": "uncommon",
+    "systems_involved": ["musculoskeletal", "dermatological"],
+    "key_discriminating_features": ["joint hypermobility", "skin hyperextensibility", "easy bruising", "atrophic scarring", "chronic pain"],
+    "difficulty_rating": "easy",
+    "aliases": ["Ehlers-Danlos syndrome type III", "hEDS", "Hypermobile EDS"]
+  },
+  {
+    "case_id": "test_004",
+    "title": "Niemann-Pick Disease Type C",
+    "clinical_vignette": "A 7-year-old boy presents with progressive cognitive decline and clumsiness over the past year. His parents note he has become increasingly clumsy and has difficulty with fine motor tasks. He had unexplained neonatal jaundice and hepatosplenomegaly as an infant that resolved spontaneously. On examination, he has vertical supranuclear gaze palsy (inability to look downward voluntarily), cerebellar ataxia, and mild splenomegaly. His speech has become slurred over the past 6 months.",
+    "final_diagnosis": "Niemann-Pick disease type C",
+    "orpha_code": "646",
+    "omim_id": "257220",
+    "rarity": "rare",
+    "systems_involved": ["neurological", "hepatic"],
+    "key_discriminating_features": ["vertical supranuclear gaze palsy", "cerebellar ataxia", "hepatosplenomegaly", "cognitive decline", "neonatal jaundice"],
+    "difficulty_rating": "moderate",
+    "aliases": ["NPC", "NP-C"]
+  },
+  {
+    "case_id": "test_005",
+    "title": "Hereditary Hemorrhagic Telangiectasia",
+    "clinical_vignette": "A 35-year-old man presents with recurrent severe epistaxis since adolescence. He reports nosebleeds occurring almost daily, sometimes lasting over 30 minutes. His mother and maternal grandfather had similar problems. On examination, multiple small telangiectasias are visible on the lips, tongue, fingertips, and nasal mucosa. A CT of the chest incidentally reveals a pulmonary arteriovenous malformation in the right lower lobe. His hemoglobin is 9.2 g/dL consistent with iron deficiency anemia.",
+    "final_diagnosis": "Hereditary hemorrhagic telangiectasia",
+    "orpha_code": "774",
+    "omim_id": "187300",
+    "rarity": "rare",
+    "systems_involved": ["vascular", "pulmonary", "haematological"],
+    "key_discriminating_features": ["recurrent epistaxis", "mucocutaneous telangiectasias", "pulmonary AVM", "family history", "iron deficiency anemia"],
+    "difficulty_rating": "easy",
+    "aliases": ["Osler-Weber-Rendu disease", "HHT", "Osler-Weber-Rendu syndrome"]
+  }
+]

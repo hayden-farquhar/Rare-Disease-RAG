@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+.venv/
+venv/
+dist/
+build/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# Data (large files - download separately)
+data/raw/orphanet/*.xml
+data/raw/pubmed_cases/case_reports.json
+data/hpo/hp.obo
+data/hpo/hpo_index.json
+data/processed/indices/*/index.faiss
+data/processed/indices/*/chunks.json
+data/processed/indices/*/bm25_*.pkl
+data/processed/indices/*/config.json
+
+# Caches
+data/benchmarks/query_cache.json
+data/benchmarks/hyde_cache.json
+
+# Environment
+.env
+*.env
+
+# Project management (not needed for replication)
+CLAUDE.md
+PROGRESS.md

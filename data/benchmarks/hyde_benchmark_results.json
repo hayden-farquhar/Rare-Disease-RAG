@@ -1,0 +1,445 @@
+{
+  "results": [
+    {
+      "case_id": "test_001",
+      "target": "Ataxia-telangiectasia",
+      "rarity": "rare",
+      "rank": 1,
+      "retrieval_recall_20": true,
+      "hyde_preview": "Disease: Ataxia-Telangiectasia (A-T)\nSynonyms: Louis-Bar syndrome, Ataxia-Telangiectasia Syndrome\nIn"
+    },
+    {
+      "case_id": "test_002",
+      "target": "Wilson disease",
+      "rarity": "rare",
+      "rank": 1,
+      "retrieval_recall_20": true,
+      "hyde_preview": "Disease: Wilson Disease\nSynonyms: Hepatolenticular degeneration, Wilson's disease\nInheritance: Autos"
+    },
+    {
+      "case_id": "test_003",
+      "target": "Ehlers-Danlos syndrome, hypermobility type",
+      "rarity": "uncommon",
+      "rank": null,
+      "retrieval_recall_20": true,
+      "hyde_preview": "Disease: Ehlers-Danlos Syndrome, Classical Type\nSynonyms: EDS Classical, Gravis Type, cEDS\nInheritan"
+    },
+    {
+      "case_id": "test_004",
+      "target": "Niemann-Pick disease type C",
+      "rarity": "rare",
+      "rank": 1,
+      "retrieval_recall_20": true,
+      "hyde_preview": "Disease: Niemann-Pick disease type C\nSynonyms: NP-C, Niemann-Pick disease type C1, Niemann-Pick dise"
+    },
+    {
+      "case_id": "test_005",
+      "target": "Hereditary hemorrhagic telangiectasia",
+      "rarity": "rare",
+      "rank": 1,
+      "retrieval_recall_20": true,
+      "hyde_preview": "Disease: Hereditary Hemorrhagic Telangiectasia (HHT)\n\nSynonyms: Osler-Weber-Rendu syndrome, Osler-We"
+    },
+    {
+      "case_id": "nejm_001",
+      "target": "Granulomatosis with polyangiitis",
+      "rarity": "rare",
+      "rank": 1,
+      "retrieval_recall_20": true,
+      "hyde_preview": "Disease: Granulomatosis with Polyangiitis (GPA)\nSynonyms: Wegener's granulomatosis\nInheritance: Spor"
+    },
+    {
+      "case_id": "nejm_002",
+      "target": "Light chain amyloidosis",
+      "rarity": "rare",
+      "rank": 1,
+      "retrieval_recall_20": true,
+      "hyde_preview": "Disease: Light Chain Amyloidosis (AL Amyloidosis)\n\nSynonyms: Primary Amyloidosis, Light Chain Diseas"
+    },
+    {
+      "case_id": "nejm_003",
+      "target": "Hereditary hemochromatosis",
+      "rarity": "uncommon",
+      "rank": 1,
+      "retrieval_recall_20": true,
+      "hyde_preview": "Disease: Hereditary Hemochromatosis (HFE-related)\nSynonyms: Iron overload disease, Bronze diabetes, "
+    },
+    {
+      "case_id": "nejm_004",
+      "target": "Dermatomyositis",
+      "rarity": "rare",
+      "rank": 1,
+      "retrieval_recall_20": true,
+      "hyde_preview": "Disease: Dermatomyositis\nSynonyms: DM, Acute dermatomyositis, Chronic dermatomyositis\nInheritance: S"
+    },
+    {
+      "case_id": "nejm_005",
+      "target": "Gaucher disease",
+      "rarity": "rare",
+      "rank": 1,
+      "retrieval_recall_20": true,
+      "hyde_preview": "Disease: Gaucher Disease, Type 1 (Non-neuronopathic)\n\nSynonyms: Glucosylceramidosis, Acid \u03b2-glucosid"
+    },
+    {
+      "case_id": "nejm_006",
+      "target": "Pheochromocytoma",
+      "rarity": "rare",
+      "rank": 1,
+      "retrieval_recall_20": true,
+      "hyde_preview": "Disease: Pheochromocytoma\nSynonyms: Chromaffin cell tumor, paraganglioma (extra-adrenal variant)\nInh"
+    },
+    {
+      "case_id": "nejm_007",
+      "target": "Fabry disease",
+      "rarity": "rare",
+      "rank": 1,
+      "retrieval_recall_20": true,
+      "hyde_preview": "Disease: Fabry Disease\nSynonyms: Alpha-galactosidase A deficiency, Angiokeratoma corporis diffusum u"
+    },
+    {
+      "case_id": "nejm_008",
+      "target": "Systemic mastocytosis",
+      "rarity": "rare",
+      "rank": 1,
+      "retrieval_recall_20": true,
+      "hyde_preview": "Disease: Systemic Mastocytosis, Indolent Type\nSynonyms: Indolent Systemic Mastocytosis (ISM), Mast C"
+    },
+    {
+      "case_id": "nejm_009",
+      "target": "Sarcoidosis",
+      "rarity": "uncommon",
+      "rank": 1,
+      "retrieval_recall_20": true,
+      "hyde_preview": "Disease: Sarcoidosis\nSynonyms: Besnier-Boeck-Schaumann disease\nInheritance: Complex genetic predispo"
+    },
+    {
+      "case_id": "nejm_010",
+      "target": "Tuberous sclerosis complex",
+      "rarity": "rare",
+      "rank": 1,
+      "retrieval_recall_20": true,
+      "hyde_preview": "Disease: Tuberous Sclerosis Complex (TSC)\nSynonyms: Bourneville disease, Tuberous sclerosis, Epiloia"
+    },
+    {
+      "case_id": "curated_235",
+      "target": "Dubowitz syndrome",
+      "rarity": "ultra-rare",
+      "rank": null,
+      "retrieval_recall_20": false,
+      "hyde_preview": "Disease: Blepharophimosis, Ptosis, and Intellectual Disability Syndrome (BPID)\nSynonyms: Blepharophi"
+    },
+    {
+      "case_id": "curated_2273",
+      "target": "Ichthyosis follicularis-alopecia-photophobia syndrome",
+      "rarity": "ultra-rare",
+      "rank": 1,
+      "retrieval_recall_20": true,
+      "hyde_preview": "Disease: Congenital Ichthyosis with Follicular Atrophoderma and Progressive Contractures (CIFAPC)\n\nS"
+    },
+    {
+      "case_id": "curated_3455",
+      "target": "Wiedemann-Rautenstrauch syndrome",
+      "rarity": "ultra-rare",
+      "rank": null,
+      "retrieval_recall_20": true,
+      "hyde_preview": "I'm unable to create a disease knowledge base entry because no clinical vignette was provided in you"
+    },
+    {
+      "case_id": "curated_819",
+      "target": "Smith-Magenis syndrome",
+      "rarity": "ultra-rare",
+      "rank": null,
+      "retrieval_recall_20": false,
+      "hyde_preview": "I cannot complete this request because no clinical vignette was provided in your message. The text y"
+    },
+    {
+      "case_id": "curated_550",
+      "target": "MELAS",
+      "rarity": "ultra-rare",
+      "rank": 1,
+      "retrieval_recall_20": true,
+      "hyde_preview": "Disease: Mitochondrial Neurogastrointestinal Encephalomyopathy (MNGIE) with Acute Encephalopathic Pr"
+    },
+    {
+      "case_id": "curated_2044",
+      "target": "Floating-Harbor syndrome",
+      "rarity": "ultra-rare",
+      "rank": 1,
+      "retrieval_recall_20": true,
+      "hyde_preview": "Disease: Floating-Harbor Syndrome\nSynonyms: FHS\nInheritance: Autosomal dominant\nAge of onset: Prenat"
+    },
+    {
+      "case_id": "curated_709",
+      "target": "Peters plus syndrome",
+      "rarity": "ultra-rare",
+      "rank": null,
+      "retrieval_recall_20": false,
+      "hyde_preview": "Disease: Isolated Severe Congenital Microcephaly\nSynonyms: Primary Microcephaly, Congenital Microcep"
+    },
+    {
+      "case_id": "curated_2308",
+      "target": "Jacobsen syndrome",
+      "rarity": "ultra-rare",
+      "rank": null,
+      "retrieval_recall_20": false,
+      "hyde_preview": "Disease: Autosomal Recessive Hypoparathyroidism (ARPH)\nSynonyms: Isolated hypoparathyroidism, Non-sy"
+    },
+    {
+      "case_id": "curated_2745",
+      "target": "Opitz GBBB syndrome",
+      "rarity": "ultra-rare",
+      "rank": null,
+      "retrieval_recall_20": false,
+      "hyde_preview": "Disease: X-linked Opitz G/BBB Syndrome with Cardiac Manifestations\n\nSynonyms: Opitz syndrome, G synd"
+    },
+    {
+      "case_id": "curated_221",
+      "target": "Dermatomyositis",
+      "rarity": "ultra-rare",
+      "rank": 1,
+      "retrieval_recall_20": true,
+      "hyde_preview": "Disease: Antisynthetase Syndrome (Anti-Jo-1 Positive Myositis)\n\nSynonyms: Jo-1 Myositis, Histidyl-tR"
+    },
+    {
+      "case_id": "curated_740",
+      "target": "Hutchinson-Gilford progeria syndrome",
+      "rarity": "ultra-rare",
+      "rank": 1,
+      "retrieval_recall_20": true,
+      "hyde_preview": "Disease: Progeria (Hutchinson-Gilford Progeria Syndrome)\n\nSynonyms: Hutchinson-Gilford syndrome, HGP"
+    },
+    {
+      "case_id": "curated_99226",
+      "target": "Monosomy X syndrome",
+      "rarity": "ultra-rare",
+      "rank": 2,
+      "retrieval_recall_20": true,
+      "hyde_preview": "Disease: Turner Syndrome\nSynonyms: Monosomy X, 45,X syndrome, Gonadal dysgenesis\nInheritance: Sporad"
+    },
+    {
+      "case_id": "curated_3261",
+      "target": "Autoimmune lymphoproliferative syndrome",
+      "rarity": "ultra-rare",
+      "rank": null,
+      "retrieval_recall_20": false,
+      "hyde_preview": "Disease: Smoking-Associated Lung Adenocarcinoma with KRAS and TP53 Mutations\n\nSynonyms: Non-small ce"
+    },
+    {
+      "case_id": "curated_466768",
+      "target": "Autosomal dominant Charcot-Marie-Tooth disease type 2Z",
+      "rarity": "ultra-rare",
+      "rank": null,
+      "retrieval_recall_20": false,
+      "hyde_preview": "Disease: Leigh Syndrome (Subacute Necrotizing Encephalomyelopathy)\n\nSynonyms: Leigh disease, subacut"
+    },
+    {
+      "case_id": "curated_900",
+      "target": "Granulomatosis with polyangiitis",
+      "rarity": "ultra-rare",
+      "rank": null,
+      "retrieval_recall_20": false,
+      "hyde_preview": "Disease: Pulmonary Alveolar Proteinosis with Secondary Vasculitis-Associated Lung Disease\n\nSynonyms:"
+    },
+    {
+      "case_id": "curated_2495",
+      "target": "Meningioma",
+      "rarity": "ultra-rare",
+      "rank": null,
+      "retrieval_recall_20": false,
+      "hyde_preview": "Disease: Multiple Prolactin-Secreting Pituitary Adenomas with Dopamine Agonist Resistance\n\nSynonyms:"
+    },
+    {
+      "case_id": "curated_356961",
+      "target": "SLC35A2-CDG",
+      "rarity": "ultra-rare",
+      "rank": 2,
+      "retrieval_recall_20": true,
+      "hyde_preview": "Disease: Congenital Disorder of Glycosylation Type II (CDG-II)\n\nSynonyms: Phosphomannomutase 2 defic"
+    },
+    {
+      "case_id": "curated_2162",
+      "target": "Holoprosencephaly",
+      "rarity": "ultra-rare",
+      "rank": 1,
+      "retrieval_recall_20": true,
+      "hyde_preview": "Disease: Holoprosencephaly, Alobar Type (HPE)\nSynonyms: Alobar holoprosencephaly, Cyclopia-arhinence"
+    },
+    {
+      "case_id": "curated_2710",
+      "target": "Oculodentodigital dysplasia",
+      "rarity": "ultra-rare",
+      "rank": 1,
+      "retrieval_recall_20": true,
+      "hyde_preview": "Disease: Amelogenesis Imperfecta with Ectodermal Dysplasia Syndrome (AI-ED)\n\nSynonyms: Amelogenesis "
+    },
+    {
+      "case_id": "curated_818",
+      "target": "Smith-Lemli-Opitz syndrome",
+      "rarity": "ultra-rare",
+      "rank": 1,
+      "retrieval_recall_20": true,
+      "hyde_preview": "Disease: Smith-Lemli-Opitz Syndrome (SLOS)\nSynonyms: 7-dehydrocholesterol reductase deficiency, DHCR"
+    },
+    {
+      "case_id": "curated_3107",
+      "target": "Autosomal dominant Robinow syndrome",
+      "rarity": "ultra-rare",
+      "rank": null,
+      "retrieval_recall_20": false,
+      "hyde_preview": "Disease: Trichorhinophalangeal Syndrome Type I (TRPS1)\n\nSynonyms: TRP syndrome, Giedion syndrome\n\nIn"
+    },
+    {
+      "case_id": "curated_261349",
+      "target": "2p15p16.1 microdeletion syndrome",
+      "rarity": "ultra-rare",
+      "rank": null,
+      "retrieval_recall_20": false,
+      "hyde_preview": "Disease: Opitz G/BBB Syndrome\nSynonyms: Opitz syndrome, G syndrome, BBB syndrome (Brachmann-de Lange"
+    },
+    {
+      "case_id": "curated_828",
+      "target": "Stickler syndrome",
+      "rarity": "ultra-rare",
+      "rank": 1,
+      "retrieval_recall_20": false,
+      "hyde_preview": "Disease: Nanophthalmos with High Myopia and Craniofacial Dysostosis Syndrome\n\nSynonyms: Severe Conge"
+    },
+    {
+      "case_id": "curated_464306",
+      "target": "DYRK1A-related intellectual disability syndrome",
+      "rarity": "ultra-rare",
+      "rank": null,
+      "retrieval_recall_20": false,
+      "hyde_preview": "Disease: Pitt-Hopkins Syndrome\nSynonyms: TCF4-related neurodevelopmental disorder, Mental retardatio"
+    },
+    {
+      "case_id": "curated_273",
+      "target": "Steinert myotonic dystrophy",
+      "rarity": "ultra-rare",
+      "rank": null,
+      "retrieval_recall_20": false,
+      "hyde_preview": "Disease: EBV-Associated Splenic Infarction with Secondary Thrombophilia in Desmopressin-Treated Pati"
+    },
+    {
+      "case_id": "curated_175",
+      "target": "Cartilage-hair hypoplasia",
+      "rarity": "ultra-rare",
+      "rank": 1,
+      "retrieval_recall_20": true,
+      "hyde_preview": "Disease: Cartilage-Hair Hypoplasia (CHH)\nSynonyms: Metaphyseal Chondrodysplasia, McKusick type; CHH;"
+    },
+    {
+      "case_id": "curated_845",
+      "target": "Tay-Sachs disease",
+      "rarity": "ultra-rare",
+      "rank": 1,
+      "retrieval_recall_20": true,
+      "hyde_preview": "Disease: Late-Onset GM2 Gangliosidosis with Post-Transplantation Neuroinflammatory Exacerbation\n\nSyn"
+    },
+    {
+      "case_id": "curated_567",
+      "target": "22q11.2 deletion syndrome",
+      "rarity": "ultra-rare",
+      "rank": 1,
+      "retrieval_recall_20": true,
+      "hyde_preview": "Disease: 22q11.2 Deletion Syndrome (DiGeorge Syndrome)\nSynonyms: Velocardiofacial syndrome, Conotrun"
+    },
+    {
+      "case_id": "curated_534",
+      "target": "Oculocerebrorenal syndrome of Lowe",
+      "rarity": "ultra-rare",
+      "rank": 1,
+      "retrieval_recall_20": true,
+      "hyde_preview": "Disease: Lowe Syndrome (Oculocerebrorenal Syndrome of Lowe)\n\nSynonyms: Oculocerebrorenal syndrome, O"
+    },
+    {
+      "case_id": "curated_64",
+      "target": "Alstr\u00f6m syndrome",
+      "rarity": "ultra-rare",
+      "rank": null,
+      "retrieval_recall_20": true,
+      "hyde_preview": "Disease: Mitochondrial Neurogastrointestinal Encephalomyopathy (MNGIE)\n\nSynonyms: Mitochondrial Neur"
+    },
+    {
+      "case_id": "curated_744",
+      "target": "Proteus syndrome",
+      "rarity": "ultra-rare",
+      "rank": null,
+      "retrieval_recall_20": true,
+      "hyde_preview": "Disease: Klippel-Trenaunay Syndrome (KTS)\n\nSynonyms: Klippel-Trenaunay-Weber Syndrome, Angio-osteohy"
+    },
+    {
+      "case_id": "curated_800",
+      "target": "Schwartz-Jampel syndrome",
+      "rarity": "ultra-rare",
+      "rank": 1,
+      "retrieval_recall_20": true,
+      "hyde_preview": "Disease: Whistling Face Syndrome (Craniofacial-Ulnar-Fibular Syndrome)\n\nSynonyms: Freeman-Sheldon Sy"
+    },
+    {
+      "case_id": "curated_821",
+      "target": "Sotos syndrome",
+      "rarity": "ultra-rare",
+      "rank": null,
+      "retrieval_recall_20": false,
+      "hyde_preview": "Disease: Congenital Disorder of Glycosylation Type Ia (CDG-Ia)\nSynonyms: Phosphomannomutase 2 defici"
+    },
+    {
+      "case_id": "curated_84",
+      "target": "Fanconi anemia",
+      "rarity": "ultra-rare",
+      "rank": 1,
+      "retrieval_recall_20": true,
+      "hyde_preview": "Disease: Fanconi Anemia\nSynonyms: Fanconi pancytopenia, Familial aplastic anemia with congenital abn"
+    },
+    {
+      "case_id": "curated_500150",
+      "target": "ZTTK syndrome",
+      "rarity": "ultra-rare",
+      "rank": null,
+      "retrieval_recall_20": false,
+      "hyde_preview": "Disease: Walker-Warburg Syndrome\nSynonyms: WWS, HARD syndrome (Hydrocephalus-Agyria-Retinal Dysplasi"
+    },
+    {
+      "case_id": "curated_199",
+      "target": "Cornelia de Lange syndrome",
+      "rarity": "ultra-rare",
+      "rank": null,
+      "retrieval_recall_20": false,
+      "hyde_preview": "Disease: ARX-Related Infantile Spasms and Early Infantile Epileptic Encephalopathy (EIEE1)\nSynonyms:"
+    },
+    {
+      "case_id": "curated_672",
+      "target": "Pallister-Hall syndrome",
+      "rarity": "ultra-rare",
+      "rank": null,
+      "retrieval_recall_20": false,
+      "hyde_preview": "Disease: Pallister-Hall Syndrome\nSynonyms: PHS, Hypothalamic Hamartoblastoma-Polydactyly-Cleft Palat"
+    },
+    {
+      "case_id": "curated_1606",
+      "target": "1p36 deletion syndrome",
+      "rarity": "ultra-rare",
+      "rank": null,
+      "retrieval_recall_20": false,
+      "hyde_preview": "Disease: Acrocallosal Syndrome\nSynonyms: Schinzel Acrocallosal Syndrome, ACLS\nInheritance: Autosomal"
+    },
+    {
+      "case_id": "curated_506",
+      "target": "Leigh syndrome",
+      "rarity": "ultra-rare",
+      "rank": 1,
+      "retrieval_recall_20": true,
+      "hyde_preview": "Disease: Leigh Syndrome (Infantile Subacute Necrotizing Encephalomyelopathy)\n\nSynonyms: Leigh Diseas"
+    },
+    {
+      "case_id": "curated_280",
+      "target": "Wolf-Hirschhorn syndrome",
+      "rarity": "ultra-rare",
+      "rank": null,
+      "retrieval_recall_20": false,
+      "hyde_preview": "Disease: Cerebro-Oculo-Facio-Skeletal Syndrome (COFS)\n\nSynonyms: Cerebro-Oculo-Facio-Skeletal Syndro"
+    }
+  ],
+  "n_cases": 55
+}

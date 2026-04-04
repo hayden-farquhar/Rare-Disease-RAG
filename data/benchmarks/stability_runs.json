@@ -1,0 +1,3087 @@
+{
+  "runs": [
+    [
+      {
+        "case_id": "test_001",
+        "target": "Ataxia-telangiectasia",
+        "rarity": "rare",
+        "correct_rank": 1,
+        "predictions": [
+          {
+            "disease_name": "Ataxia-telangiectasia",
+            "confidence": "high",
+            "rank": 1
+          },
+          {
+            "disease_name": "Ataxia-telangiectasia-like disorder",
+            "confidence": "medium",
+            "rank": 2
+          },
+          {
+            "disease_name": "Ataxia-oculomotor apraxia type 1",
+            "confidence": "low",
+            "rank": 3
+          },
+          {
+            "disease_name": "Ataxia-oculomotor apraxia type 4",
+            "confidence": "low",
+            "rank": 4
+          }
+        ],
+        "top1_confidence": "high"
+      },
+      {
+        "case_id": "test_002",
+        "target": "Wilson disease",
+        "rarity": "rare",
+        "correct_rank": 1,
+        "predictions": [
+          {
+            "disease_name": "Wilson disease",
+            "confidence": "high",
+            "rank": 1
+          },
+          {
+            "disease_name": "Aceruloplasminemia",
+            "confidence": "low",
+            "rank": 2
+          },
+          {
+            "disease_name": "Tremor-ataxia-central hypomyelination syndrome",
+            "confidence": "low",
+            "rank": 3
+          },
+          {
+            "disease_name": "Juvenile Parkinson's disease or other movement disorders",
+            "confidence": "very low",
+            "rank": 4
+          }
+        ],
+        "top1_confidence": "high"
+      },
+      {
+        "case_id": "test_003",
+        "target": "Ehlers-Danlos syndrome, hypermobility type",
+        "rarity": "uncommon",
+        "correct_rank": 2,
+        "predictions": [
+          {
+            "disease_name": "Hypermobile Ehlers-Danlos syndrome",
+            "confidence": "high",
+            "rank": 1
+          },
+          {
+            "disease_name": "Classical-like Ehlers-Danlos syndrome type 2",
+            "confidence": "medium",
+            "rank": 2
+          },
+          {
+            "disease_name": "Cardiac-valvular Ehlers-Danlos syndrome",
+            "confidence": "low",
+            "rank": 3
+          },
+          {
+            "disease_name": "Classical Ehlers-Danlos syndrome",
+            "confidence": "low",
+            "rank": 4
+          }
+        ],
+        "top1_confidence": "high"
+      },
+      {
+        "case_id": "test_004",
+        "target": "Niemann-Pick disease type C",
+        "rarity": "rare",
+        "correct_rank": 1,
+        "predictions": [
+          {
+            "disease_name": "Niemann-Pick disease type C",
+            "confidence": "high",
+            "rank": 1
+          },
+          {
+            "disease_name": "Progressive supranuclear palsy (childhood onset)",
+            "confidence": "low",
+            "rank": 2
+          },
+          {
+            "disease_name": "Kufor-Rakeb syndrome",
+            "confidence": "low",
+            "rank": 3
+          },
+          {
+            "disease_name": "Leigh syndrome with cerebellar involvement",
+            "confidence": "low",
+            "rank": 4
+          }
+        ],
+        "top1_confidence": "high"
+      },
+      {
+        "case_id": "test_005",
+        "target": "Hereditary hemorrhagic telangiectasia",
+        "rarity": "rare",
+        "correct_rank": 1,
+        "predictions": [
+          {
+            "disease_name": "Hereditary hemorrhagic telangiectasia",
+            "confidence": "high",
+            "rank": 1
+          },
+          {
+            "disease_name": "Capillary malformation-arteriovenous malformation",
+            "confidence": "low",
+            "rank": 2
+          },
+          {
+            "disease_name": "Juvenile polyposis syndrome with vascular features",
+            "confidence": "low",
+            "rank": 3
+          }
+        ],
+        "top1_confidence": "high"
+      },
+      {
+        "case_id": "nejm_001",
+        "target": "Granulomatosis with polyangiitis",
+        "rarity": "rare",
+        "correct_rank": 1,
+        "predictions": [
+          {
+            "disease_name": "Granulomatosis with polyangiitis",
+            "confidence": "high",
+            "rank": 1
+          },
+          {
+            "disease_name": "Panhypophysitis",
+            "confidence": "medium",
+            "rank": 2
+          },
+          {
+            "disease_name": "Non-functioning pituitary adenoma",
+            "confidence": "low",
+            "rank": 3
+          },
+          {
+            "disease_name": "Acquired arginine vasopressin deficiency",
+            "confidence": "low",
+            "rank": 4
+          }
+        ],
+        "top1_confidence": "high"
+      },
+      {
+        "case_id": "nejm_002",
+        "target": "Light chain amyloidosis",
+        "rarity": "rare",
+        "correct_rank": 1,
+        "predictions": [
+          {
+            "disease_name": "AL amyloidosis",
+            "confidence": "high",
+            "rank": 1
+          },
+          {
+            "disease_name": "Wild-type ATTR amyloidosis",
+            "confidence": "medium",
+            "rank": 2
+          },
+          {
+            "disease_name": "ATTRV122I amyloidosis",
+            "confidence": "low",
+            "rank": 3
+          },
+          {
+            "disease_name": "Concurrent AL and ATTR amyloidosis",
+            "confidence": "low",
+            "rank": 4
+          }
+        ],
+        "top1_confidence": "high"
+      },
+      {
+        "case_id": "nejm_003",
+        "target": "Hereditary hemochromatosis",
+        "rarity": "uncommon",
+        "correct_rank": 1,
+        "predictions": [
+          {
+            "disease_name": "Symptomatic form of HFE-related hemochromatosis",
+            "confidence": "high",
+            "rank": 1
+          },
+          {
+            "disease_name": "HJV or HAMP-related hemochromatosis (Juvenile hemochromatosis)",
+            "confidence": "low",
+            "rank": 2
+          },
+          {
+            "disease_name": "Ferroportin disease (SLC40A1-related hemochromatosis)",
+            "confidence": "medium",
+            "rank": 3
+          }
+        ],
+        "top1_confidence": "high"
+      },
+      {
+        "case_id": "nejm_004",
+        "target": "Dermatomyositis",
+        "rarity": "rare",
+        "correct_rank": 1,
+        "predictions": [
+          {
+            "disease_name": "Dermatomyositis",
+            "confidence": "high",
+            "rank": 1
+          },
+          {
+            "disease_name": "Overlap myositis",
+            "confidence": "medium",
+            "rank": 2
+          },
+          {
+            "disease_name": "Immune-mediated necrotizing myopathy",
+            "confidence": "low",
+            "rank": 3
+          },
+          {
+            "disease_name": "Inclusion body myositis",
+            "confidence": "low",
+            "rank": 4
+          }
+        ],
+        "top1_confidence": "high"
+      },
+      {
+        "case_id": "nejm_005",
+        "target": "Gaucher disease",
+        "rarity": "rare",
+        "correct_rank": 1,
+        "predictions": [
+          {
+            "disease_name": "Gaucher Disease Type 1",
+            "confidence": "high",
+            "rank": 1
+          },
+          {
+            "disease_name": "Primary Myelofibrosis",
+            "confidence": "low",
+            "rank": 2
+          },
+          {
+            "disease_name": "Niemann-Pick Disease Type B",
+            "confidence": "low",
+            "rank": 3
+          }
+        ],
+        "top1_confidence": "high"
+      },
+      {
+        "case_id": "nejm_006",
+        "target": "Pheochromocytoma",
+        "rarity": "rare",
+        "correct_rank": 1,
+        "predictions": [
+          {
+            "disease_name": "Sporadic pheochromocytoma/secreting paraganglioma",
+            "confidence": "high",
+            "rank": 1
+          },
+          {
+            "disease_name": "Hereditary pheochromocytoma-paraganglioma",
+            "confidence": "medium",
+            "rank": 2
+          },
+          {
+            "disease_name": "Multiple endocrine neoplasia type 2",
+            "confidence": "low",
+            "rank": 3
+          },
+          {
+            "disease_name": "Adrenocortical carcinoma",
+            "confidence": "low",
+            "rank": 4
+          }
+        ],
+        "top1_confidence": "high"
+      },
+      {
+        "case_id": "nejm_007",
+        "target": "Fabry disease",
+        "rarity": "rare",
+        "correct_rank": 1,
+        "predictions": [
+          {
+            "disease_name": "Fabry Disease",
+            "confidence": "high",
+            "rank": 1
+          },
+          {
+            "disease_name": "Hereditary Transthyretin Amyloidosis (hATTR)",
+            "confidence": "low",
+            "rank": 2
+          },
+          {
+            "disease_name": "Hereditary Sensory and Autonomic Neuropathy",
+            "confidence": "low",
+            "rank": 3
+          }
+        ],
+        "top1_confidence": "high"
+      },
+      {
+        "case_id": "nejm_008",
+        "target": "Systemic mastocytosis",
+        "rarity": "rare",
+        "correct_rank": 1,
+        "predictions": [
+          {
+            "disease_name": "Indolent systemic mastocytosis",
+            "confidence": "high",
+            "rank": 1
+          },
+          {
+            "disease_name": "Aggressive systemic mastocytosis",
+            "confidence": "medium",
+            "rank": 2
+          },
+          {
+            "disease_name": "Systemic mastocytosis with associated hematologic neoplasm",
+            "confidence": "low",
+            "rank": 3
+          }
+        ],
+        "top1_confidence": "high"
+      },
+      {
+        "case_id": "nejm_009",
+        "target": "Sarcoidosis",
+        "rarity": "uncommon",
+        "correct_rank": 1,
+        "predictions": [
+          {
+            "disease_name": "Sarcoidosis",
+            "confidence": "high",
+            "rank": 1
+          },
+          {
+            "disease_name": "Blau syndrome",
+            "confidence": "low",
+            "rank": 2
+          },
+          {
+            "disease_name": "Tubulointerstitial nephritis and uveitis syndrome",
+            "confidence": "low",
+            "rank": 3
+          },
+          {
+            "disease_name": "Granulomatosis with polyangiitis",
+            "confidence": "low",
+            "rank": 4
+          }
+        ],
+        "top1_confidence": "high"
+      },
+      {
+        "case_id": "nejm_010",
+        "target": "Tuberous sclerosis complex",
+        "rarity": "rare",
+        "correct_rank": 1,
+        "predictions": [
+          {
+            "disease_name": "Tuberous sclerosis complex",
+            "confidence": "high",
+            "rank": 1
+          },
+          {
+            "disease_name": "Neurofibromatosis type 1",
+            "confidence": "low",
+            "rank": 2
+          },
+          {
+            "disease_name": "Legius syndrome",
+            "confidence": "low",
+            "rank": 3
+          }
+        ],
+        "top1_confidence": "high"
+      },
+      {
+        "case_id": "curated_235",
+        "target": "Dubowitz syndrome",
+        "rarity": "ultra-rare",
+        "correct_rank": null,
+        "predictions": [
+          {
+            "disease_name": "X-linked intellectual disability with isolated growth hormone deficiency",
+            "confidence": "high",
+            "rank": 1
+          },
+          {
+            "disease_name": "Non-acquired isolated growth hormone deficiency",
+            "confidence": "medium",
+            "rank": 2
+          },
+          {
+            "disease_name": "Cornelia de Lange syndrome",
+            "confidence": "medium",
+            "rank": 3
+          },
+          {
+            "disease_name": "Septo-optic dysplasia spectrum",
+            "confidence": "low-medium",
+            "rank": 4
+          }
+        ],
+        "top1_confidence": "high"
+      },
+      {
+        "case_id": "curated_2273",
+        "target": "Ichthyosis follicularis-alopecia-photophobia syndrome",
+        "rarity": "ultra-rare",
+        "correct_rank": 1,
+        "predictions": [
+          {
+            "disease_name": "Ichthyosis follicularis-alopecia-photophobia syndrome (IFAP syndrome)",
+            "confidence": "medium",
+            "rank": 1
+          },
+          {
+            "disease_name": "KID syndrome",
+            "confidence": "low",
+            "rank": 2
+          },
+          {
+            "disease_name": "Keratosis follicularis spinulosa decalvans",
+            "confidence": "medium",
+            "rank": 3
+          },
+          {
+            "disease_name": "Autosomal recessive palmoplantar keratoderma and congenital alopecia",
+            "confidence": "low",
+            "rank": 4
+          },
+          {
+            "disease_name": "Novel syndromic ichthyosis with contractures",
+            "confidence": "medium",
+            "rank": 5
+          }
+        ],
+        "top1_confidence": "medium"
+      },
+      {
+        "case_id": "curated_3455",
+        "target": "Wiedemann-Rautenstrauch syndrome",
+        "rarity": "ultra-rare",
+        "correct_rank": null,
+        "predictions": [
+          {
+            "disease_name": "Cannot generate differential diagnosis",
+            "confidence": "N/A",
+            "rank": 1
+          }
+        ],
+        "top1_confidence": "N/A"
+      },
+      {
+        "case_id": "curated_819",
+        "target": "Smith-Magenis syndrome",
+        "rarity": "ultra-rare",
+        "correct_rank": null,
+        "predictions": [],
+        "top1_confidence": "none"
+      },
+      {
+        "case_id": "curated_550",
+        "target": "MELAS",
+        "rarity": "ultra-rare",
+        "correct_rank": 1,
+        "predictions": [
+          {
+            "disease_name": "MELAS syndrome",
+            "confidence": "high",
+            "rank": 1
+          },
+          {
+            "disease_name": "Autoimmune limbic encephalitis",
+            "confidence": "medium",
+            "rank": 2
+          },
+          {
+            "disease_name": "Creutzfeldt-Jakob disease",
+            "confidence": "low",
+            "rank": 3
+          }
+        ],
+        "top1_confidence": "high"
+      },
+      {
+        "case_id": "curated_2044",
+        "target": "Floating-Harbor syndrome",
+        "rarity": "ultra-rare",
+        "correct_rank": 1,
+        "predictions": [
+          {
+            "disease_name": "Floating-Harbor syndrome",
+            "confidence": "high",
+            "rank": 1
+          },
+          {
+            "disease_name": "Non-acquired isolated growth hormone deficiency",
+            "confidence": "low",
+            "rank": 2
+          },
+          {
+            "disease_name": "Developmental delay-facial dysmorphism syndrome due to MED13L deficiency",
+            "confidence": "low",
+            "rank": 3
+          }
+        ],
+        "top1_confidence": "high"
+      },
+      {
+        "case_id": "curated_709",
+        "target": "Peters plus syndrome",
+        "rarity": "ultra-rare",
+        "correct_rank": null,
+        "predictions": [
+          {
+            "disease_name": "Autosomal recessive primary microcephaly",
+            "confidence": "high",
+            "rank": 1
+          },
+          {
+            "disease_name": "Microlissencephaly",
+            "confidence": "medium",
+            "rank": 2
+          },
+          {
+            "disease_name": "Autosomal dominant primary microcephaly",
+            "confidence": "low",
+            "rank": 3
+          },
+          {
+            "disease_name": "PHGDH deficiency (Serine biosynthesis defect)",
+            "confidence": "medium",
+            "rank": 4
+          },
+          {
+            "disease_name": "Sporadic fetal brain disruption sequence",
+            "confidence": "low",
+            "rank": 5
+          }
+        ],
+        "top1_confidence": "high"
+      },
+      {
+        "case_id": "curated_2308",
+        "target": "Jacobsen syndrome",
+        "rarity": "ultra-rare",
+        "correct_rank": null,
+        "predictions": [
+          {
+            "disease_name": "Familial isolated hypoparathyroidism due to agenesis of parathyroid gland",
+            "confidence": "high",
+            "rank": 1
+          },
+          {
+            "disease_name": "Familial isolated hypoparathyroidism (general)",
+            "confidence": "medium",
+            "rank": 2
+          },
+          {
+            "disease_name": "Sanjad-Sakati syndrome",
+            "confidence": "low",
+            "rank": 3
+          },
+          {
+            "disease_name": "Primary hypomagnesemia with secondary hypocalcemia",
+            "confidence": "low",
+            "rank": 4
+          }
+        ],
+        "top1_confidence": "high"
+      },
+      {
+        "case_id": "curated_2745",
+        "target": "Opitz GBBB syndrome",
+        "rarity": "ultra-rare",
+        "correct_rank": null,
+        "predictions": [
+          {
+            "disease_name": "Opitz G/BBB syndrome (X-linked form)",
+            "confidence": "high",
+            "rank": 1
+          },
+          {
+            "disease_name": "Atrial septal defect, ostium secundum type with secondary cardiomyopathy",
+            "confidence": "medium",
+            "rank": 2
+          },
+          {
+            "disease_name": "X-linked intellectual disability-cardiomegaly-congestive heart failure syndrome",
+            "confidence": "low",
+            "rank": 3
+          },
+          {
+            "disease_name": "Ebstein malformation of the tricuspid valve",
+            "confidence": "low",
+            "rank": 4
+          }
+        ],
+        "top1_confidence": "high"
+      },
+      {
+        "case_id": "curated_221",
+        "target": "Dermatomyositis",
+        "rarity": "ultra-rare",
+        "correct_rank": 2,
+        "predictions": [
+          {
+            "disease_name": "Antisynthetase syndrome",
+            "confidence": "high",
+            "rank": 1
+          },
+          {
+            "disease_name": "Dermatomyositis",
+            "confidence": "high",
+            "rank": 2
+          },
+          {
+            "disease_name": "Overlap myositis",
+            "confidence": "medium",
+            "rank": 3
+          },
+          {
+            "disease_name": "Polymyositis",
+            "confidence": "low",
+            "rank": 4
+          }
+        ],
+        "top1_confidence": "high"
+      },
+      {
+        "case_id": "curated_740",
+        "target": "Hutchinson-Gilford progeria syndrome",
+        "rarity": "ultra-rare",
+        "correct_rank": null,
+        "predictions": [
+          {
+            "disease_name": "SHORT syndrome",
+            "confidence": "high",
+            "rank": 1
+          },
+          {
+            "disease_name": "Deafness-hypogonadism syndrome",
+            "confidence": "medium",
+            "rank": 2
+          },
+          {
+            "disease_name": "Microcephalic cortical malformations-short stature due to RTTN deficiency",
+            "confidence": "low",
+            "rank": 3
+          },
+          {
+            "disease_name": "Berardinelli-Seip Congenital Lipodystrophy",
+            "confidence": "low",
+            "rank": 4
+          }
+        ],
+        "top1_confidence": "high"
+      },
+      {
+        "case_id": "curated_99226",
+        "target": "Monosomy X syndrome",
+        "rarity": "ultra-rare",
+        "correct_rank": 3,
+        "predictions": [
+          {
+            "disease_name": "Turner syndrome",
+            "confidence": "high",
+            "rank": 1
+          },
+          {
+            "disease_name": "Turner syndrome due to structural X chromosome anomalies",
+            "confidence": "high",
+            "rank": 2
+          },
+          {
+            "disease_name": "Mosaic monosomy X syndrome",
+            "confidence": "medium",
+            "rank": 3
+          },
+          {
+            "disease_name": "45,X/46,XY mixed gonadal dysgenesis",
+            "confidence": "low",
+            "rank": 4
+          },
+          {
+            "disease_name": "Short stature-webbed neck-heart disease syndrome",
+            "confidence": "low",
+            "rank": 5
+          }
+        ],
+        "top1_confidence": "high"
+      },
+      {
+        "case_id": "curated_3261",
+        "target": "Autoimmune lymphoproliferative syndrome",
+        "rarity": "ultra-rare",
+        "correct_rank": null,
+        "predictions": [
+          {
+            "disease_name": "Primary lung adenocarcinoma",
+            "confidence": "high",
+            "rank": 1
+          },
+          {
+            "disease_name": "Pulmonary non-tuberculous mycobacterial infection",
+            "confidence": "low",
+            "rank": 2
+          },
+          {
+            "disease_name": "Essential thrombocythemia",
+            "confidence": "low",
+            "rank": 3
+          }
+        ],
+        "top1_confidence": "high"
+      },
+      {
+        "case_id": "curated_466768",
+        "target": "Autosomal dominant Charcot-Marie-Tooth disease type 2Z",
+        "rarity": "ultra-rare",
+        "correct_rank": null,
+        "predictions": [
+          {
+            "disease_name": "Leigh syndrome",
+            "confidence": "high",
+            "rank": 1
+          },
+          {
+            "disease_name": "ECHS1 deficiency (Short-chain enoyl-CoA hydratase deficiency)",
+            "confidence": "medium",
+            "rank": 2
+          },
+          {
+            "disease_name": "MELAS syndrome",
+            "confidence": "medium",
+            "rank": 3
+          },
+          {
+            "disease_name": "Pyruvate carboxylase deficiency",
+            "confidence": "low",
+            "rank": 4
+          },
+          {
+            "disease_name": "Combined oxidative phosphorylation deficiency",
+            "confidence": "low",
+            "rank": 5
+          }
+        ],
+        "top1_confidence": "high"
+      },
+      {
+        "case_id": "curated_900",
+        "target": "Granulomatosis with polyangiitis",
+        "rarity": "ultra-rare",
+        "correct_rank": null,
+        "predictions": [
+          {
+            "disease_name": "Autoimmune pulmonary alveolar proteinosis",
+            "confidence": "high",
+            "rank": 1
+          },
+          {
+            "disease_name": "Hereditary pulmonary alveolar proteinosis",
+            "confidence": "low",
+            "rank": 2
+          },
+          {
+            "disease_name": "Pneumocystis jirovecii pneumonia",
+            "confidence": "medium",
+            "rank": 3
+          },
+          {
+            "disease_name": "ANCA-associated vasculitis with pulmonary involvement",
+            "confidence": "low",
+            "rank": 4
+          }
+        ],
+        "top1_confidence": "high"
+      },
+      {
+        "case_id": "curated_2495",
+        "target": "Meningioma",
+        "rarity": "ultra-rare",
+        "correct_rank": null,
+        "predictions": [
+          {
+            "disease_name": "Prolactinoma",
+            "confidence": "high",
+            "rank": 1
+          },
+          {
+            "disease_name": "Multiple endocrine neoplasia type 1",
+            "confidence": "medium",
+            "rank": 2
+          },
+          {
+            "disease_name": "Pituitary carcinoma",
+            "confidence": "medium",
+            "rank": 3
+          },
+          {
+            "disease_name": "Non-functioning pituitary adenoma",
+            "confidence": "low",
+            "rank": 4
+          }
+        ],
+        "top1_confidence": "high"
+      },
+      {
+        "case_id": "curated_356961",
+        "target": "SLC35A2-CDG",
+        "rarity": "ultra-rare",
+        "correct_rank": 1,
+        "predictions": [
+          {
+            "disease_name": "SLC35A2-CDG",
+            "confidence": "high",
+            "rank": 1
+          },
+          {
+            "disease_name": "COG1-CDG",
+            "confidence": "high",
+            "rank": 2
+          },
+          {
+            "disease_name": "Congenital muscular dystrophy with intellectual disability and severe epilepsy (DPM2-CDG)",
+            "confidence": "medium",
+            "rank": 3
+          },
+          {
+            "disease_name": "Multiple congenital anomalies-hypotonia-seizures syndrome (PIGT-related)",
+            "confidence": "medium",
+            "rank": 4
+          },
+          {
+            "disease_name": "Infantile epileptic spasms syndrome (West syndrome) - symptomatic",
+            "confidence": "low",
+            "rank": 5
+          }
+        ],
+        "top1_confidence": "high"
+      },
+      {
+        "case_id": "curated_2162",
+        "target": "Holoprosencephaly",
+        "rarity": "ultra-rare",
+        "correct_rank": 1,
+        "predictions": [
+          {
+            "disease_name": "Alobar holoprosencephaly",
+            "confidence": "high",
+            "rank": 1
+          },
+          {
+            "disease_name": "Holoprosencephaly (general)",
+            "confidence": "high",
+            "rank": 2
+          },
+          {
+            "disease_name": "Holoprosencephaly-caudal dysgenesis syndrome",
+            "confidence": "low",
+            "rank": 3
+          }
+        ],
+        "top1_confidence": "high"
+      },
+      {
+        "case_id": "curated_2710",
+        "target": "Oculodentodigital dysplasia",
+        "rarity": "ultra-rare",
+        "correct_rank": 1,
+        "predictions": [
+          {
+            "disease_name": "Oculodentodigital dysplasia",
+            "confidence": "high",
+            "rank": 1
+          },
+          {
+            "disease_name": "Amelogenesis imperfecta",
+            "confidence": "medium",
+            "rank": 2
+          },
+          {
+            "disease_name": "Deafness-enamel hypoplasia-nail defects syndrome (Heimler syndrome)",
+            "confidence": "low",
+            "rank": 3
+          }
+        ],
+        "top1_confidence": "high"
+      },
+      {
+        "case_id": "curated_818",
+        "target": "Smith-Lemli-Opitz syndrome",
+        "rarity": "ultra-rare",
+        "correct_rank": 1,
+        "predictions": [
+          {
+            "disease_name": "Smith-Lemli-Opitz syndrome",
+            "confidence": "high",
+            "rank": 1
+          },
+          {
+            "disease_name": "Lowe syndrome (Oculocerebrorenal syndrome)",
+            "confidence": "low",
+            "rank": 2
+          },
+          {
+            "disease_name": "Multiple congenital anomalies-hypotonia-seizures syndrome",
+            "confidence": "low",
+            "rank": 3
+          }
+        ],
+        "top1_confidence": "high"
+      },
+      {
+        "case_id": "curated_3107",
+        "target": "Autosomal dominant Robinow syndrome",
+        "rarity": "ultra-rare",
+        "correct_rank": null,
+        "predictions": [
+          {
+            "disease_name": "Trichorhinophalangeal syndrome type 2",
+            "confidence": "high",
+            "rank": 1
+          },
+          {
+            "disease_name": "Brachydactyly type A1",
+            "confidence": "medium",
+            "rank": 2
+          },
+          {
+            "disease_name": "Cartilage-hair hypoplasia",
+            "confidence": "low",
+            "rank": 3
+          },
+          {
+            "disease_name": "Acrodysostosis/Acroscyphodysplasia",
+            "confidence": "low",
+            "rank": 4
+          }
+        ],
+        "top1_confidence": "high"
+      },
+      {
+        "case_id": "curated_261349",
+        "target": "2p15p16.1 microdeletion syndrome",
+        "rarity": "ultra-rare",
+        "correct_rank": null,
+        "predictions": [
+          {
+            "disease_name": "Facial dysmorphism-developmental delay-behavioral abnormalities syndrome due to WAC point mutation",
+            "confidence": "high",
+            "rank": 1
+          },
+          {
+            "disease_name": "Intellectual disability-macrocephaly-hypotonia-behavioral abnormalities syndrome",
+            "confidence": "medium",
+            "rank": 2
+          },
+          {
+            "disease_name": "Kabuki syndrome",
+            "confidence": "medium",
+            "rank": 3
+          },
+          {
+            "disease_name": "Oculocerebrorenal Syndrome (Lowe syndrome)",
+            "confidence": "low",
+            "rank": 4
+          },
+          {
+            "disease_name": "Trigonocephaly-associated genetic syndrome",
+            "confidence": "medium",
+            "rank": 5
+          }
+        ],
+        "top1_confidence": "high"
+      },
+      {
+        "case_id": "curated_828",
+        "target": "Stickler syndrome",
+        "rarity": "ultra-rare",
+        "correct_rank": 1,
+        "predictions": [
+          {
+            "disease_name": "Stickler syndrome",
+            "confidence": "high",
+            "rank": 1
+          },
+          {
+            "disease_name": "Knobloch syndrome",
+            "confidence": "medium",
+            "rank": 2
+          },
+          {
+            "disease_name": "Auricular abnormalities-cleft lip with or without cleft palate-ocular abnormalities syndrome",
+            "confidence": "low",
+            "rank": 3
+          },
+          {
+            "disease_name": "Marshall syndrome",
+            "confidence": "medium",
+            "rank": 4
+          }
+        ],
+        "top1_confidence": "high"
+      },
+      {
+        "case_id": "curated_464306",
+        "target": "DYRK1A-related intellectual disability syndrome",
+        "rarity": "ultra-rare",
+        "correct_rank": 1,
+        "predictions": [
+          {
+            "disease_name": "Intellectual disability syndrome due to a DYRK1A point mutation",
+            "confidence": "high",
+            "rank": 1
+          },
+          {
+            "disease_name": "SYNGAP1-related developmental and epileptic encephalopathy",
+            "confidence": "medium",
+            "rank": 2
+          },
+          {
+            "disease_name": "Creatine transporter deficiency",
+            "confidence": "medium",
+            "rank": 3
+          },
+          {
+            "disease_name": "Phosphoglycerate dehydrogenase (PHGDH) deficiency",
+            "confidence": "low",
+            "rank": 4
+          }
+        ],
+        "top1_confidence": "high"
+      },
+      {
+        "case_id": "curated_273",
+        "target": "Steinert myotonic dystrophy",
+        "rarity": "ultra-rare",
+        "correct_rank": null,
+        "predictions": [
+          {
+            "disease_name": "EBV-associated hemophagocytic lymphohistiocytosis (HLH)",
+            "confidence": "high",
+            "rank": 1
+          },
+          {
+            "disease_name": "Autoimmune lymphoproliferative syndrome (ALPS)",
+            "confidence": "medium",
+            "rank": 2
+          },
+          {
+            "disease_name": "Acquired von Willebrand syndrome",
+            "confidence": "low",
+            "rank": 3
+          },
+          {
+            "disease_name": "Desmopressin-induced thrombosis",
+            "confidence": "low",
+            "rank": 4
+          }
+        ],
+        "top1_confidence": "high"
+      },
+      {
+        "case_id": "curated_175",
+        "target": "Cartilage-hair hypoplasia",
+        "rarity": "ultra-rare",
+        "correct_rank": 1,
+        "predictions": [
+          {
+            "disease_name": "Cartilage-hair hypoplasia",
+            "confidence": "high",
+            "rank": 1
+          },
+          {
+            "disease_name": "Metaphyseal dysplasia without hypotrichosis (MDWH)",
+            "confidence": "medium",
+            "rank": 2
+          },
+          {
+            "disease_name": "Metaphyseal chondrodysplasia, Schmid type",
+            "confidence": "low",
+            "rank": 3
+          }
+        ],
+        "top1_confidence": "high"
+      },
+      {
+        "case_id": "curated_845",
+        "target": "Tay-Sachs disease",
+        "rarity": "ultra-rare",
+        "correct_rank": 1,
+        "predictions": [
+          {
+            "disease_name": "Tay-Sachs disease (late-onset/adult form)",
+            "confidence": "high",
+            "rank": 1
+          },
+          {
+            "disease_name": "Sandhoff disease (late-onset form)",
+            "confidence": "high",
+            "rank": 2
+          },
+          {
+            "disease_name": "GM2 gangliosidosis, AB variant",
+            "confidence": "medium",
+            "rank": 3
+          },
+          {
+            "disease_name": "Metachromatic leukodystrophy, adult form",
+            "confidence": "low",
+            "rank": 4
+          }
+        ],
+        "top1_confidence": "high"
+      },
+      {
+        "case_id": "curated_567",
+        "target": "22q11.2 deletion syndrome",
+        "rarity": "ultra-rare",
+        "correct_rank": 1,
+        "predictions": [
+          {
+            "disease_name": "22q11.2 deletion syndrome (DiGeorge syndrome/Velocardiofacial syndrome)",
+            "confidence": "high",
+            "rank": 1
+          },
+          {
+            "disease_name": "Submucosal cleft palate (isolated)",
+            "confidence": "medium",
+            "rank": 2
+          },
+          {
+            "disease_name": "Kabuki syndrome",
+            "confidence": "low-medium",
+            "rank": 3
+          },
+          {
+            "disease_name": "Cleft lip/palate (syndromic)",
+            "confidence": "low",
+            "rank": 4
+          }
+        ],
+        "top1_confidence": "high"
+      },
+      {
+        "case_id": "curated_534",
+        "target": "Oculocerebrorenal syndrome of Lowe",
+        "rarity": "ultra-rare",
+        "correct_rank": 1,
+        "predictions": [
+          {
+            "disease_name": "Oculocerebrorenal syndrome of Lowe",
+            "confidence": "high",
+            "rank": 1
+          },
+          {
+            "disease_name": "Congenital cataracts-facial dysmorphism-neuropathy syndrome",
+            "confidence": "low",
+            "rank": 2
+          },
+          {
+            "disease_name": "Joubert syndrome with oculorenal defect",
+            "confidence": "low",
+            "rank": 3
+          }
+        ],
+        "top1_confidence": "high"
+      },
+      {
+        "case_id": "curated_64",
+        "target": "Alstr\u00f6m syndrome",
+        "rarity": "ultra-rare",
+        "correct_rank": null,
+        "predictions": [
+          {
+            "disease_name": "Glutaric Aciduria Type I",
+            "confidence": "high",
+            "rank": 1
+          },
+          {
+            "disease_name": "Pelizaeus-Merzbacher Disease",
+            "confidence": "medium",
+            "rank": 2
+          },
+          {
+            "disease_name": "Neuronal Ceroid Lipofuscinosis",
+            "confidence": "medium",
+            "rank": 3
+          },
+          {
+            "disease_name": "Pompe Disease (Glycogen Storage Disease Type II)",
+            "confidence": "low",
+            "rank": 4
+          },
+          {
+            "disease_name": "Mitochondrial Encephalomyopathy",
+            "confidence": "medium",
+            "rank": 5
+          }
+        ],
+        "top1_confidence": "high"
+      },
+      {
+        "case_id": "curated_744",
+        "target": "Proteus syndrome",
+        "rarity": "ultra-rare",
+        "correct_rank": null,
+        "predictions": [
+          {
+            "disease_name": "Klippel-Tr\u00e9naunay syndrome",
+            "confidence": "high",
+            "rank": 1
+          },
+          {
+            "disease_name": "CLAPO syndrome",
+            "confidence": "medium",
+            "rank": 2
+          },
+          {
+            "disease_name": "CLOVES syndrome",
+            "confidence": "medium",
+            "rank": 3
+          },
+          {
+            "disease_name": "Parkes Weber syndrome",
+            "confidence": "low",
+            "rank": 4
+          }
+        ],
+        "top1_confidence": "high"
+      },
+      {
+        "case_id": "curated_800",
+        "target": "Schwartz-Jampel syndrome",
+        "rarity": "ultra-rare",
+        "correct_rank": 1,
+        "predictions": [
+          {
+            "disease_name": "Schwartz-Jampel syndrome",
+            "confidence": "high",
+            "rank": 1
+          },
+          {
+            "disease_name": "Cartilage-hair hypoplasia",
+            "confidence": "medium",
+            "rank": 2
+          },
+          {
+            "disease_name": "Mucopolysaccharidosis (various types)",
+            "confidence": "low",
+            "rank": 3
+          }
+        ],
+        "top1_confidence": "high"
+      },
+      {
+        "case_id": "curated_821",
+        "target": "Sotos syndrome",
+        "rarity": "ultra-rare",
+        "correct_rank": null,
+        "predictions": [
+          {
+            "disease_name": "Hyperinsulinism due to HNF1A deficiency",
+            "confidence": "high",
+            "rank": 1
+          },
+          {
+            "disease_name": "Autosomal recessive hyperinsulinism due to Kir6.2 deficiency",
+            "confidence": "high",
+            "rank": 2
+          },
+          {
+            "disease_name": "PURA-related severe neonatal hypotonia-seizures-encephalopathy syndrome",
+            "confidence": "medium",
+            "rank": 3
+          },
+          {
+            "disease_name": "Zellweger Syndrome",
+            "confidence": "medium",
+            "rank": 4
+          },
+          {
+            "disease_name": "Nonketotic Hyperglycinemia",
+            "confidence": "low",
+            "rank": 5
+          }
+        ],
+        "top1_confidence": "high"
+      },
+      {
+        "case_id": "curated_84",
+        "target": "Fanconi anemia",
+        "rarity": "ultra-rare",
+        "correct_rank": 1,
+        "predictions": [
+          {
+            "disease_name": "Fanconi Anemia",
+            "confidence": "high",
+            "rank": 1
+          },
+          {
+            "disease_name": "Congenital progressive bone marrow failure-B-cell immunodeficiency-skeletal dysplasia syndrome",
+            "confidence": "medium",
+            "rank": 2
+          },
+          {
+            "disease_name": "Idiopathic aplastic anemia",
+            "confidence": "low",
+            "rank": 3
+          },
+          {
+            "disease_name": "Dyschromatosis universalis hereditaria",
+            "confidence": "low",
+            "rank": 4
+          }
+        ],
+        "top1_confidence": "high"
+      },
+      {
+        "case_id": "curated_500150",
+        "target": "ZTTK syndrome",
+        "rarity": "ultra-rare",
+        "correct_rank": null,
+        "predictions": [
+          {
+            "disease_name": "Zellweger Syndrome",
+            "confidence": "high",
+            "rank": 1
+          },
+          {
+            "disease_name": "Nonketotic Hyperglycinemia",
+            "confidence": "medium",
+            "rank": 2
+          },
+          {
+            "disease_name": "D-Bifunctional Protein Deficiency",
+            "confidence": "medium",
+            "rank": 3
+          },
+          {
+            "disease_name": "PHGDH Deficiency",
+            "confidence": "medium",
+            "rank": 4
+          },
+          {
+            "disease_name": "Congenital Hydrocephalus (isolated or syndromic)",
+            "confidence": "low",
+            "rank": 5
+          }
+        ],
+        "top1_confidence": "high"
+      },
+      {
+        "case_id": "curated_199",
+        "target": "Cornelia de Lange syndrome",
+        "rarity": "ultra-rare",
+        "correct_rank": null,
+        "predictions": [
+          {
+            "disease_name": "Epilepsy-microcephaly-skeletal dysplasia syndrome (Battaglia-Neri syndrome)",
+            "confidence": "high",
+            "rank": 1
+          },
+          {
+            "disease_name": "Phosphoglycerate dehydrogenase (PHGDH) deficiency",
+            "confidence": "medium",
+            "rank": 2
+          },
+          {
+            "disease_name": "Progressive myoclonic epilepsy with dystonia",
+            "confidence": "medium",
+            "rank": 3
+          },
+          {
+            "disease_name": "2q23.1 microdeletion syndrome",
+            "confidence": "medium",
+            "rank": 4
+          }
+        ],
+        "top1_confidence": "high"
+      },
+      {
+        "case_id": "curated_672",
+        "target": "Pallister-Hall syndrome",
+        "rarity": "ultra-rare",
+        "correct_rank": null,
+        "predictions": [
+          {
+            "disease_name": "Pai syndrome",
+            "confidence": "high",
+            "rank": 1
+          },
+          {
+            "disease_name": "Orofaciodigital syndrome type 5",
+            "confidence": "medium",
+            "rank": 2
+          },
+          {
+            "disease_name": "Microbrachycephaly-ptosis-cleft lip syndrome",
+            "confidence": "medium",
+            "rank": 3
+          },
+          {
+            "disease_name": "Holoprosencephaly with median facial defects",
+            "confidence": "low",
+            "rank": 4
+          }
+        ],
+        "top1_confidence": "high"
+      },
+      {
+        "case_id": "curated_1606",
+        "target": "1p36 deletion syndrome",
+        "rarity": "ultra-rare",
+        "correct_rank": null,
+        "predictions": [
+          {
+            "disease_name": "Microcephaly-corpus callosum hypoplasia-intellectual disability-facial dysmorphism syndrome",
+            "confidence": "medium",
+            "rank": 1
+          },
+          {
+            "disease_name": "X-linked intellectual disability-global development delay-facial dysmorphism-sacral caudal remnant syndrome",
+            "confidence": "low",
+            "rank": 2
+          },
+          {
+            "disease_name": "Temtamy syndrome",
+            "confidence": "medium",
+            "rank": 3
+          },
+          {
+            "disease_name": "Severe intellectual disability-corpus callosum agenesis-facial dysmorphism-cerebellar ataxia syndrome",
+            "confidence": "low",
+            "rank": 4
+          }
+        ],
+        "top1_confidence": "medium"
+      },
+      {
+        "case_id": "curated_506",
+        "target": "Leigh syndrome",
+        "rarity": "ultra-rare",
+        "correct_rank": 3,
+        "predictions": [
+          {
+            "disease_name": "Congenital lactic acidosis, Saguenay-Lac-Saint-Jean type",
+            "confidence": "high",
+            "rank": 1
+          },
+          {
+            "disease_name": "Fatal infantile lactic acidosis with methylmalonic aciduria",
+            "confidence": "medium",
+            "rank": 2
+          },
+          {
+            "disease_name": "Leigh syndrome",
+            "confidence": "high",
+            "rank": 3
+          },
+          {
+            "disease_name": "Pyruvate dehydrogenase complex deficiency",
+            "confidence": "medium",
+            "rank": 4
+          },
+          {
+            "disease_name": "Familial infantile bilateral striatal necrosis",
+            "confidence": "low",
+            "rank": 5
+          }
+        ],
+        "top1_confidence": "high"
+      },
+      {
+        "case_id": "curated_280",
+        "target": "Wolf-Hirschhorn syndrome",
+        "rarity": "ultra-rare",
+        "correct_rank": 1,
+        "predictions": [
+          {
+            "disease_name": "Wolf-Hirschhorn syndrome",
+            "confidence": "high",
+            "rank": 1
+          },
+          {
+            "disease_name": "Non-specific early-onset epileptic encephalopathy",
+            "confidence": "medium",
+            "rank": 2
+          },
+          {
+            "disease_name": "Cohen syndrome",
+            "confidence": "low",
+            "rank": 3
+          },
+          {
+            "disease_name": "2p21 microdeletion syndrome",
+            "confidence": "low",
+            "rank": 4
+          }
+        ],
+        "top1_confidence": "high"
+      }
+    ],
+    [
+      {
+        "case_id": "test_001",
+        "target": "Ataxia-telangiectasia",
+        "rarity": "rare",
+        "correct_rank": 1,
+        "predictions": [
+          {
+            "disease_name": "Ataxia-telangiectasia",
+            "confidence": "high",
+            "rank": 1
+          },
+          {
+            "disease_name": "Ataxia-telangiectasia-like disorder",
+            "confidence": "medium",
+            "rank": 2
+          },
+          {
+            "disease_name": "Ataxia-oculomotor apraxia type 1",
+            "confidence": "low",
+            "rank": 3
+          },
+          {
+            "disease_name": "Ataxia-oculomotor apraxia type 4",
+            "confidence": "low",
+            "rank": 4
+          }
+        ],
+        "top1_confidence": "high"
+      },
+      {
+        "case_id": "test_002",
+        "target": "Wilson disease",
+        "rarity": "rare",
+        "correct_rank": 1,
+        "predictions": [
+          {
+            "disease_name": "Wilson disease",
+            "confidence": "high",
+            "rank": 1
+          },
+          {
+            "disease_name": "Aceruloplasminemia",
+            "confidence": "low",
+            "rank": 2
+          },
+          {
+            "disease_name": "Tremor-ataxia-central hypomyelination syndrome",
+            "confidence": "low",
+            "rank": 3
+          }
+        ],
+        "top1_confidence": "high"
+      },
+      {
+        "case_id": "test_003",
+        "target": "Ehlers-Danlos syndrome, hypermobility type",
+        "rarity": "uncommon",
+        "correct_rank": 2,
+        "predictions": [
+          {
+            "disease_name": "Hypermobile Ehlers-Danlos syndrome",
+            "confidence": "high",
+            "rank": 1
+          },
+          {
+            "disease_name": "Classical-like Ehlers-Danlos syndrome type 2",
+            "confidence": "medium",
+            "rank": 2
+          },
+          {
+            "disease_name": "Classical Ehlers-Danlos syndrome",
+            "confidence": "medium",
+            "rank": 3
+          },
+          {
+            "disease_name": "Cardiac-valvular Ehlers-Danlos syndrome",
+            "confidence": "low",
+            "rank": 4
+          },
+          {
+            "disease_name": "Familial articular hypermobility syndrome",
+            "confidence": "low",
+            "rank": 5
+          }
+        ],
+        "top1_confidence": "high"
+      },
+      {
+        "case_id": "test_004",
+        "target": "Niemann-Pick disease type C",
+        "rarity": "rare",
+        "correct_rank": 1,
+        "predictions": [
+          {
+            "disease_name": "Niemann-Pick disease type C",
+            "confidence": "high",
+            "rank": 1
+          },
+          {
+            "disease_name": "Progressive supranuclear palsy (juvenile onset)",
+            "confidence": "low",
+            "rank": 2
+          },
+          {
+            "disease_name": "Kufor-Rakeb syndrome",
+            "confidence": "low",
+            "rank": 3
+          },
+          {
+            "disease_name": "Leigh syndrome with cerebellar involvement",
+            "confidence": "low",
+            "rank": 4
+          }
+        ],
+        "top1_confidence": "high"
+      },
+      {
+        "case_id": "test_005",
+        "target": "Hereditary hemorrhagic telangiectasia",
+        "rarity": "rare",
+        "correct_rank": 1,
+        "predictions": [
+          {
+            "disease_name": "Hereditary hemorrhagic telangiectasia",
+            "confidence": "high",
+            "rank": 1
+          },
+          {
+            "disease_name": "Juvenile polyposis syndrome",
+            "confidence": "low",
+            "rank": 2
+          },
+          {
+            "disease_name": "Capillary malformation-arteriovenous malformation",
+            "confidence": "low",
+            "rank": 3
+          }
+        ],
+        "top1_confidence": "high"
+      },
+      {
+        "case_id": "nejm_001",
+        "target": "Granulomatosis with polyangiitis",
+        "rarity": "rare",
+        "correct_rank": 1,
+        "predictions": [
+          {
+            "disease_name": "Granulomatosis with polyangiitis",
+            "confidence": "high",
+            "rank": 1
+          },
+          {
+            "disease_name": "Panhypophysitis",
+            "confidence": "medium",
+            "rank": 2
+          },
+          {
+            "disease_name": "Non-functioning pituitary adenoma",
+            "confidence": "low",
+            "rank": 3
+          },
+          {
+            "disease_name": "Acquired arginine vasopressin deficiency",
+            "confidence": "low",
+            "rank": 4
+          }
+        ],
+        "top1_confidence": "high"
+      },
+      {
+        "case_id": "nejm_002",
+        "target": "Light chain amyloidosis",
+        "rarity": "rare",
+        "correct_rank": 1,
+        "predictions": [
+          {
+            "disease_name": "AL amyloidosis",
+            "confidence": "high",
+            "rank": 1
+          },
+          {
+            "disease_name": "Wild-type ATTR amyloidosis",
+            "confidence": "medium",
+            "rank": 2
+          },
+          {
+            "disease_name": "Hereditary ATTR amyloidosis (ATTRv)",
+            "confidence": "low",
+            "rank": 3
+          },
+          {
+            "disease_name": "Concurrent AL and ATTR amyloidosis",
+            "confidence": "low",
+            "rank": 4
+          }
+        ],
+        "top1_confidence": "high"
+      },
+      {
+        "case_id": "nejm_003",
+        "target": "Hereditary hemochromatosis",
+        "rarity": "uncommon",
+        "correct_rank": 1,
+        "predictions": [
+          {
+            "disease_name": "Symptomatic form of HFE-related hemochromatosis",
+            "confidence": "high",
+            "rank": 1
+          },
+          {
+            "disease_name": "HJV or HAMP-related hemochromatosis (Juvenile hemochromatosis)",
+            "confidence": "medium",
+            "rank": 2
+          },
+          {
+            "disease_name": "Ferroportin disease (SLC40A1-related hemochromatosis)",
+            "confidence": "medium",
+            "rank": 3
+          },
+          {
+            "disease_name": "Dietary iron overload disease",
+            "confidence": "low",
+            "rank": 4
+          }
+        ],
+        "top1_confidence": "high"
+      },
+      {
+        "case_id": "nejm_004",
+        "target": "Dermatomyositis",
+        "rarity": "rare",
+        "correct_rank": 1,
+        "predictions": [
+          {
+            "disease_name": "Dermatomyositis",
+            "confidence": "high",
+            "rank": 1
+          },
+          {
+            "disease_name": "Overlap myositis",
+            "confidence": "medium",
+            "rank": 2
+          },
+          {
+            "disease_name": "Immune-mediated necrotizing myopathy",
+            "confidence": "low",
+            "rank": 3
+          },
+          {
+            "disease_name": "Mixed connective tissue disease",
+            "confidence": "low",
+            "rank": 4
+          }
+        ],
+        "top1_confidence": "high"
+      },
+      {
+        "case_id": "nejm_005",
+        "target": "Gaucher disease",
+        "rarity": "rare",
+        "correct_rank": 1,
+        "predictions": [
+          {
+            "disease_name": "Gaucher Disease Type 1",
+            "confidence": "high",
+            "rank": 1
+          },
+          {
+            "disease_name": "Niemann-Pick Disease Type B",
+            "confidence": "low",
+            "rank": 2
+          },
+          {
+            "disease_name": "Primary Myelofibrosis",
+            "confidence": "low",
+            "rank": 3
+          },
+          {
+            "disease_name": "Aggressive Systemic Mastocytosis",
+            "confidence": "low",
+            "rank": 4
+          }
+        ],
+        "top1_confidence": "high"
+      },
+      {
+        "case_id": "nejm_006",
+        "target": "Pheochromocytoma",
+        "rarity": "rare",
+        "correct_rank": 1,
+        "predictions": [
+          {
+            "disease_name": "Sporadic pheochromocytoma/secreting paraganglioma",
+            "confidence": "high",
+            "rank": 1
+          },
+          {
+            "disease_name": "Hereditary pheochromocytoma-paraganglioma",
+            "confidence": "medium",
+            "rank": 2
+          },
+          {
+            "disease_name": "Multiple endocrine neoplasia type 2",
+            "confidence": "low",
+            "rank": 3
+          },
+          {
+            "disease_name": "Adrenocortical carcinoma",
+            "confidence": "low",
+            "rank": 4
+          }
+        ],
+        "top1_confidence": "high"
+      },
+      {
+        "case_id": "nejm_007",
+        "target": "Fabry disease",
+        "rarity": "rare",
+        "correct_rank": 1,
+        "predictions": [
+          {
+            "disease_name": "Fabry Disease",
+            "confidence": "high",
+            "rank": 1
+          },
+          {
+            "disease_name": "Hereditary Transthyretin Amyloidosis (hATTR)",
+            "confidence": "low",
+            "rank": 2
+          },
+          {
+            "disease_name": "Hereditary Sensory and Autonomic Neuropathy",
+            "confidence": "low",
+            "rank": 3
+          }
+        ],
+        "top1_confidence": "high"
+      },
+      {
+        "case_id": "nejm_008",
+        "target": "Systemic mastocytosis",
+        "rarity": "rare",
+        "correct_rank": 1,
+        "predictions": [
+          {
+            "disease_name": "Indolent systemic mastocytosis",
+            "confidence": "high",
+            "rank": 1
+          },
+          {
+            "disease_name": "Aggressive systemic mastocytosis",
+            "confidence": "medium",
+            "rank": 2
+          },
+          {
+            "disease_name": "Systemic mastocytosis with associated hematologic neoplasm",
+            "confidence": "low",
+            "rank": 3
+          },
+          {
+            "disease_name": "Maculopapular cutaneous mastocytosis (Urticaria pigmentosa)",
+            "confidence": "low",
+            "rank": 4
+          }
+        ],
+        "top1_confidence": "high"
+      },
+      {
+        "case_id": "nejm_009",
+        "target": "Sarcoidosis",
+        "rarity": "uncommon",
+        "correct_rank": 1,
+        "predictions": [
+          {
+            "disease_name": "Sarcoidosis",
+            "confidence": "high",
+            "rank": 1
+          },
+          {
+            "disease_name": "Blau syndrome",
+            "confidence": "low",
+            "rank": 2
+          },
+          {
+            "disease_name": "Tubulointerstitial nephritis and uveitis syndrome (TINU)",
+            "confidence": "low",
+            "rank": 3
+          },
+          {
+            "disease_name": "Granulomatosis with polyangiitis",
+            "confidence": "low",
+            "rank": 4
+          }
+        ],
+        "top1_confidence": "high"
+      },
+      {
+        "case_id": "nejm_010",
+        "target": "Tuberous sclerosis complex",
+        "rarity": "rare",
+        "correct_rank": 1,
+        "predictions": [
+          {
+            "disease_name": "Tuberous sclerosis complex",
+            "confidence": "high",
+            "rank": 1
+          },
+          {
+            "disease_name": "Neurofibromatosis type 1",
+            "confidence": "low",
+            "rank": 2
+          },
+          {
+            "disease_name": "Legius syndrome",
+            "confidence": "low",
+            "rank": 3
+          }
+        ],
+        "top1_confidence": "high"
+      },
+      {
+        "case_id": "curated_235",
+        "target": "Dubowitz syndrome",
+        "rarity": "ultra-rare",
+        "correct_rank": null,
+        "predictions": [
+          {
+            "disease_name": "X-linked intellectual disability with isolated growth hormone deficiency",
+            "confidence": "high",
+            "rank": 1
+          },
+          {
+            "disease_name": "Non-acquired isolated growth hormone deficiency",
+            "confidence": "medium",
+            "rank": 2
+          },
+          {
+            "disease_name": "Cornelia de Lange syndrome",
+            "confidence": "medium",
+            "rank": 3
+          },
+          {
+            "disease_name": "Chromosomal syndrome or contiguous gene deletion syndrome",
+            "confidence": "medium",
+            "rank": 4
+          }
+        ],
+        "top1_confidence": "high"
+      },
+      {
+        "case_id": "curated_2273",
+        "target": "Ichthyosis follicularis-alopecia-photophobia syndrome",
+        "rarity": "ultra-rare",
+        "correct_rank": 1,
+        "predictions": [
+          {
+            "disease_name": "Ichthyosis follicularis-alopecia-photophobia syndrome (IFAP)",
+            "confidence": "medium",
+            "rank": 1
+          },
+          {
+            "disease_name": "KID syndrome",
+            "confidence": "low",
+            "rank": 2
+          },
+          {
+            "disease_name": "Keratosis follicularis spinulosa decalvans",
+            "confidence": "medium",
+            "rank": 3
+          },
+          {
+            "disease_name": "Autosomal recessive palmoplantar keratoderma and congenital alopecia",
+            "confidence": "low",
+            "rank": 4
+          },
+          {
+            "disease_name": "Restrictive dermopathy or similar severe congenital ichthyosis",
+            "confidence": "medium",
+            "rank": 5
+          }
+        ],
+        "top1_confidence": "medium"
+      },
+      {
+        "case_id": "curated_3455",
+        "target": "Wiedemann-Rautenstrauch syndrome",
+        "rarity": "ultra-rare",
+        "correct_rank": 1,
+        "predictions": [
+          {
+            "disease_name": "Wiedemann-Rautenstrauch syndrome",
+            "confidence": "Cannot assess without clinical data",
+            "rank": 1
+          },
+          {
+            "disease_name": "St\u00fcve-Wiedemann syndrome",
+            "confidence": "Cannot assess without clinical data",
+            "rank": 2
+          }
+        ],
+        "top1_confidence": "Cannot assess without clinical data"
+      },
+      {
+        "case_id": "curated_819",
+        "target": "Smith-Magenis syndrome",
+        "rarity": "ultra-rare",
+        "correct_rank": null,
+        "predictions": [],
+        "top1_confidence": "none"
+      },
+      {
+        "case_id": "curated_550",
+        "target": "MELAS",
+        "rarity": "ultra-rare",
+        "correct_rank": 1,
+        "predictions": [
+          {
+            "disease_name": "MELAS (Mitochondrial Encephalopathy, Lactic Acidosis, and Stroke-like Episodes)",
+            "confidence": "high",
+            "rank": 1
+          },
+          {
+            "disease_name": "Autoimmune limbic encephalitis",
+            "confidence": "medium",
+            "rank": 2
+          },
+          {
+            "disease_name": "Creutzfeldt-Jakob Disease",
+            "confidence": "low",
+            "rank": 3
+          }
+        ],
+        "top1_confidence": "high"
+      },
+      {
+        "case_id": "curated_2044",
+        "target": "Floating-Harbor syndrome",
+        "rarity": "ultra-rare",
+        "correct_rank": 1,
+        "predictions": [
+          {
+            "disease_name": "Floating-Harbor syndrome",
+            "confidence": "high",
+            "rank": 1
+          },
+          {
+            "disease_name": "Non-acquired isolated growth hormone deficiency",
+            "confidence": "low",
+            "rank": 2
+          },
+          {
+            "disease_name": "Developmental delay-facial dysmorphism syndrome due to MED13L deficiency",
+            "confidence": "low",
+            "rank": 3
+          }
+        ],
+        "top1_confidence": "high"
+      },
+      {
+        "case_id": "curated_709",
+        "target": "Peters plus syndrome",
+        "rarity": "ultra-rare",
+        "correct_rank": null,
+        "predictions": [
+          {
+            "disease_name": "Autosomal recessive primary microcephaly (MCPH)",
+            "confidence": "high",
+            "rank": 1
+          },
+          {
+            "disease_name": "Microlissencephaly",
+            "confidence": "medium",
+            "rank": 2
+          },
+          {
+            "disease_name": "Autosomal dominant primary microcephaly",
+            "confidence": "low",
+            "rank": 3
+          },
+          {
+            "disease_name": "PHGDH deficiency (serine biosynthesis defect)",
+            "confidence": "low",
+            "rank": 4
+          },
+          {
+            "disease_name": "Chromosomal abnormalities",
+            "confidence": "medium",
+            "rank": 5
+          }
+        ],
+        "top1_confidence": "high"
+      },
+      {
+        "case_id": "curated_2308",
+        "target": "Jacobsen syndrome",
+        "rarity": "ultra-rare",
+        "correct_rank": null,
+        "predictions": [
+          {
+            "disease_name": "Familial isolated hypoparathyroidism due to agenesis of parathyroid gland",
+            "confidence": "high",
+            "rank": 1
+          },
+          {
+            "disease_name": "Familial isolated hypoparathyroidism (general)",
+            "confidence": "high",
+            "rank": 2
+          },
+          {
+            "disease_name": "PTH gene mutation with inactive PTH",
+            "confidence": "medium",
+            "rank": 3
+          },
+          {
+            "disease_name": "Primary hypomagnesemia with secondary hypocalcemia",
+            "confidence": "low",
+            "rank": 4
+          }
+        ],
+        "top1_confidence": "high"
+      },
+      {
+        "case_id": "curated_2745",
+        "target": "Opitz GBBB syndrome",
+        "rarity": "ultra-rare",
+        "correct_rank": null,
+        "predictions": [
+          {
+            "disease_name": "Opitz G/BBB syndrome (X-linked form)",
+            "confidence": "high",
+            "rank": 1
+          },
+          {
+            "disease_name": "Atrial septal defect, ostium secundum type with secondary cardiomyopathy",
+            "confidence": "medium",
+            "rank": 2
+          },
+          {
+            "disease_name": "X-linked intellectual disability-cardiomegaly-congestive heart failure syndrome",
+            "confidence": "low",
+            "rank": 3
+          },
+          {
+            "disease_name": "Ebstein malformation of the tricuspid valve",
+            "confidence": "low",
+            "rank": 4
+          }
+        ],
+        "top1_confidence": "high"
+      },
+      {
+        "case_id": "curated_221",
+        "target": "Dermatomyositis",
+        "rarity": "ultra-rare",
+        "correct_rank": 2,
+        "predictions": [
+          {
+            "disease_name": "Antisynthetase syndrome",
+            "confidence": "high",
+            "rank": 1
+          },
+          {
+            "disease_name": "Dermatomyositis",
+            "confidence": "high",
+            "rank": 2
+          },
+          {
+            "disease_name": "Overlap myositis",
+            "confidence": "medium",
+            "rank": 3
+          },
+          {
+            "disease_name": "Polymyositis",
+            "confidence": "low",
+            "rank": 4
+          }
+        ],
+        "top1_confidence": "high"
+      },
+      {
+        "case_id": "curated_740",
+        "target": "Hutchinson-Gilford progeria syndrome",
+        "rarity": "ultra-rare",
+        "correct_rank": null,
+        "predictions": [
+          {
+            "disease_name": "SHORT syndrome",
+            "confidence": "high",
+            "rank": 1
+          },
+          {
+            "disease_name": "Deafness-hypogonadism syndrome",
+            "confidence": "medium",
+            "rank": 2
+          },
+          {
+            "disease_name": "Microcephalic cortical malformations-short stature due to RTTN deficiency",
+            "confidence": "low",
+            "rank": 3
+          },
+          {
+            "disease_name": "Berardinelli-Seip Congenital Lipodystrophy",
+            "confidence": "medium",
+            "rank": 4
+          }
+        ],
+        "top1_confidence": "high"
+      },
+      {
+        "case_id": "curated_99226",
+        "target": "Monosomy X syndrome",
+        "rarity": "ultra-rare",
+        "correct_rank": 3,
+        "predictions": [
+          {
+            "disease_name": "Turner syndrome",
+            "confidence": "high",
+            "rank": 1
+          },
+          {
+            "disease_name": "Turner syndrome due to structural X chromosome anomalies",
+            "confidence": "high",
+            "rank": 2
+          },
+          {
+            "disease_name": "Mosaic monosomy X syndrome",
+            "confidence": "medium",
+            "rank": 3
+          },
+          {
+            "disease_name": "45,X/46,XY mixed gonadal dysgenesis",
+            "confidence": "low",
+            "rank": 4
+          },
+          {
+            "disease_name": "Perrault syndrome",
+            "confidence": "low",
+            "rank": 5
+          }
+        ],
+        "top1_confidence": "high"
+      },
+      {
+        "case_id": "curated_3261",
+        "target": "Autoimmune lymphoproliferative syndrome",
+        "rarity": "ultra-rare",
+        "correct_rank": null,
+        "predictions": [
+          {
+            "disease_name": "Primary lung adenocarcinoma",
+            "confidence": "high",
+            "rank": 1
+          },
+          {
+            "disease_name": "Pulmonary non-tuberculous mycobacterial infection",
+            "confidence": "low",
+            "rank": 2
+          },
+          {
+            "disease_name": "Pulmonary blastoma",
+            "confidence": "low",
+            "rank": 3
+          }
+        ],
+        "top1_confidence": "high"
+      },
+      {
+        "case_id": "curated_466768",
+        "target": "Autosomal dominant Charcot-Marie-Tooth disease type 2Z",
+        "rarity": "ultra-rare",
+        "correct_rank": null,
+        "predictions": [
+          {
+            "disease_name": "Leigh syndrome",
+            "confidence": "high",
+            "rank": 1
+          },
+          {
+            "disease_name": "ECHS1 deficiency (Short-chain enoyl-CoA hydratase deficiency)",
+            "confidence": "medium",
+            "rank": 2
+          },
+          {
+            "disease_name": "MELAS syndrome",
+            "confidence": "medium",
+            "rank": 3
+          },
+          {
+            "disease_name": "Pyruvate carboxylase deficiency type B",
+            "confidence": "low",
+            "rank": 4
+          }
+        ],
+        "top1_confidence": "high"
+      },
+      {
+        "case_id": "curated_900",
+        "target": "Granulomatosis with polyangiitis",
+        "rarity": "ultra-rare",
+        "correct_rank": null,
+        "predictions": [
+          {
+            "disease_name": "Autoimmune pulmonary alveolar proteinosis",
+            "confidence": "high",
+            "rank": 1
+          },
+          {
+            "disease_name": "Pneumocystis jirovecii pneumonia",
+            "confidence": "medium",
+            "rank": 2
+          },
+          {
+            "disease_name": "ANCA-associated vasculitis with pulmonary involvement",
+            "confidence": "low",
+            "rank": 3
+          }
+        ],
+        "top1_confidence": "high"
+      },
+      {
+        "case_id": "curated_2495",
+        "target": "Meningioma",
+        "rarity": "ultra-rare",
+        "correct_rank": null,
+        "predictions": [
+          {
+            "disease_name": "Prolactinoma",
+            "confidence": "high",
+            "rank": 1
+          },
+          {
+            "disease_name": "Multiple endocrine neoplasia type 1",
+            "confidence": "medium",
+            "rank": 2
+          },
+          {
+            "disease_name": "Pituitary carcinoma",
+            "confidence": "medium",
+            "rank": 3
+          },
+          {
+            "disease_name": "Non-functioning pituitary adenoma",
+            "confidence": "low",
+            "rank": 4
+          }
+        ],
+        "top1_confidence": "high"
+      },
+      {
+        "case_id": "curated_356961",
+        "target": "SLC35A2-CDG",
+        "rarity": "ultra-rare",
+        "correct_rank": 1,
+        "predictions": [
+          {
+            "disease_name": "SLC35A2-CDG",
+            "confidence": "high",
+            "rank": 1
+          },
+          {
+            "disease_name": "COG1-CDG",
+            "confidence": "medium",
+            "rank": 2
+          },
+          {
+            "disease_name": "Congenital muscular dystrophy with intellectual disability and severe epilepsy (DPM2-CDG)",
+            "confidence": "medium",
+            "rank": 3
+          },
+          {
+            "disease_name": "Infantile epileptic spasms syndrome (West syndrome)",
+            "confidence": "medium",
+            "rank": 4
+          },
+          {
+            "disease_name": "Multiple congenital anomalies-hypotonia-seizures syndrome (PIGT-related)",
+            "confidence": "low",
+            "rank": 5
+          }
+        ],
+        "top1_confidence": "high"
+      },
+      {
+        "case_id": "curated_2162",
+        "target": "Holoprosencephaly",
+        "rarity": "ultra-rare",
+        "correct_rank": 1,
+        "predictions": [
+          {
+            "disease_name": "Alobar holoprosencephaly",
+            "confidence": "high",
+            "rank": 1
+          },
+          {
+            "disease_name": "Holoprosencephaly (general)",
+            "confidence": "high",
+            "rank": 2
+          },
+          {
+            "disease_name": "Midline interhemispheric variant of holoprosencephaly",
+            "confidence": "low",
+            "rank": 3
+          }
+        ],
+        "top1_confidence": "high"
+      },
+      {
+        "case_id": "curated_2710",
+        "target": "Oculodentodigital dysplasia",
+        "rarity": "ultra-rare",
+        "correct_rank": 1,
+        "predictions": [
+          {
+            "disease_name": "Oculodentodigital dysplasia",
+            "confidence": "high",
+            "rank": 1
+          },
+          {
+            "disease_name": "Amelogenesis imperfecta (syndromic form)",
+            "confidence": "medium",
+            "rank": 2
+          },
+          {
+            "disease_name": "Deafness-enamel hypoplasia-nail defects syndrome (Heimler syndrome)",
+            "confidence": "low",
+            "rank": 3
+          },
+          {
+            "disease_name": "Steroid dehydrogenase deficiency-dental anomalies syndrome",
+            "confidence": "low",
+            "rank": 4
+          }
+        ],
+        "top1_confidence": "high"
+      },
+      {
+        "case_id": "curated_818",
+        "target": "Smith-Lemli-Opitz syndrome",
+        "rarity": "ultra-rare",
+        "correct_rank": 1,
+        "predictions": [
+          {
+            "disease_name": "Smith-Lemli-Opitz syndrome",
+            "confidence": "high",
+            "rank": 1
+          },
+          {
+            "disease_name": "Lowe syndrome (Oculocerebrorenal syndrome)",
+            "confidence": "low",
+            "rank": 2
+          },
+          {
+            "disease_name": "Multiple congenital anomalies-hypotonia-seizures syndrome",
+            "confidence": "low",
+            "rank": 3
+          }
+        ],
+        "top1_confidence": "high"
+      },
+      {
+        "case_id": "curated_3107",
+        "target": "Autosomal dominant Robinow syndrome",
+        "rarity": "ultra-rare",
+        "correct_rank": null,
+        "predictions": [
+          {
+            "disease_name": "Trichorhinophalangeal syndrome type 2 (Langer-Giedion syndrome)",
+            "confidence": "high",
+            "rank": 1
+          },
+          {
+            "disease_name": "Trichorhinophalangeal syndrome type 1",
+            "confidence": "high",
+            "rank": 2
+          },
+          {
+            "disease_name": "Brachydactyly type A1",
+            "confidence": "medium",
+            "rank": 3
+          },
+          {
+            "disease_name": "Cartilage-hair hypoplasia",
+            "confidence": "low",
+            "rank": 4
+          }
+        ],
+        "top1_confidence": "high"
+      },
+      {
+        "case_id": "curated_261349",
+        "target": "2p15p16.1 microdeletion syndrome",
+        "rarity": "ultra-rare",
+        "correct_rank": null,
+        "predictions": [
+          {
+            "disease_name": "Facial dysmorphism-developmental delay-behavioral abnormalities syndrome due to WAC point mutation",
+            "confidence": "high",
+            "rank": 1
+          },
+          {
+            "disease_name": "Intellectual disability-macrocephaly-hypotonia-behavioral abnormalities syndrome",
+            "confidence": "medium",
+            "rank": 2
+          },
+          {
+            "disease_name": "Kabuki syndrome",
+            "confidence": "medium",
+            "rank": 3
+          },
+          {
+            "disease_name": "Oculocerebrorenal Syndrome (Lowe syndrome)",
+            "confidence": "low",
+            "rank": 4
+          },
+          {
+            "disease_name": "Trigonocephaly-associated syndrome",
+            "confidence": "medium",
+            "rank": 5
+          }
+        ],
+        "top1_confidence": "high"
+      },
+      {
+        "case_id": "curated_828",
+        "target": "Stickler syndrome",
+        "rarity": "ultra-rare",
+        "correct_rank": 2,
+        "predictions": [
+          {
+            "disease_name": "Knobloch syndrome",
+            "confidence": "high",
+            "rank": 1
+          },
+          {
+            "disease_name": "Stickler syndrome",
+            "confidence": "medium",
+            "rank": 2
+          },
+          {
+            "disease_name": "Auricular abnormalities-cleft lip with or without cleft palate-ocular abnormalities syndrome",
+            "confidence": "low",
+            "rank": 3
+          },
+          {
+            "disease_name": "COL2A1-related disorders",
+            "confidence": "medium",
+            "rank": 4
+          }
+        ],
+        "top1_confidence": "high"
+      },
+      {
+        "case_id": "curated_464306",
+        "target": "DYRK1A-related intellectual disability syndrome",
+        "rarity": "ultra-rare",
+        "correct_rank": 1,
+        "predictions": [
+          {
+            "disease_name": "Intellectual disability syndrome due to a DYRK1A point mutation",
+            "confidence": "high",
+            "rank": 1
+          },
+          {
+            "disease_name": "SYNGAP1-related developmental and epileptic encephalopathy",
+            "confidence": "medium",
+            "rank": 2
+          },
+          {
+            "disease_name": "Creatine Transporter Deficiency",
+            "confidence": "medium",
+            "rank": 3
+          },
+          {
+            "disease_name": "Phosphoglycerate dehydrogenase (PHGDH) deficiency",
+            "confidence": "low",
+            "rank": 4
+          }
+        ],
+        "top1_confidence": "high"
+      },
+      {
+        "case_id": "curated_273",
+        "target": "Steinert myotonic dystrophy",
+        "rarity": "ultra-rare",
+        "correct_rank": null,
+        "predictions": [
+          {
+            "disease_name": "EBV-associated hemophagocytic lymphohistiocytosis (HLH)",
+            "confidence": "high",
+            "rank": 1
+          },
+          {
+            "disease_name": "Autoimmune lymphoproliferative syndrome (ALPS)",
+            "confidence": "medium",
+            "rank": 2
+          },
+          {
+            "disease_name": "Acquired von Willebrand syndrome",
+            "confidence": "low",
+            "rank": 3
+          },
+          {
+            "disease_name": "EBV-associated thrombotic complications",
+            "confidence": "medium",
+            "rank": 4
+          }
+        ],
+        "top1_confidence": "high"
+      },
+      {
+        "case_id": "curated_175",
+        "target": "Cartilage-hair hypoplasia",
+        "rarity": "ultra-rare",
+        "correct_rank": 1,
+        "predictions": [
+          {
+            "disease_name": "Cartilage-hair hypoplasia",
+            "confidence": "high",
+            "rank": 1
+          },
+          {
+            "disease_name": "Metaphyseal chondrodysplasia, Schmid type",
+            "confidence": "low",
+            "rank": 2
+          },
+          {
+            "disease_name": "Spondylometaphyseal dysplasia, Kozlowski type",
+            "confidence": "low",
+            "rank": 3
+          }
+        ],
+        "top1_confidence": "high"
+      },
+      {
+        "case_id": "curated_845",
+        "target": "Tay-Sachs disease",
+        "rarity": "ultra-rare",
+        "correct_rank": 1,
+        "predictions": [
+          {
+            "disease_name": "Tay-Sachs disease (late-onset/adult form)",
+            "confidence": "high",
+            "rank": 1
+          },
+          {
+            "disease_name": "Sandhoff disease (late-onset form)",
+            "confidence": "high",
+            "rank": 2
+          },
+          {
+            "disease_name": "GM2 gangliosidosis, AB variant",
+            "confidence": "medium",
+            "rank": 3
+          },
+          {
+            "disease_name": "Metachromatic leukodystrophy, adult form",
+            "confidence": "low",
+            "rank": 4
+          }
+        ],
+        "top1_confidence": "high"
+      },
+      {
+        "case_id": "curated_567",
+        "target": "22q11.2 deletion syndrome",
+        "rarity": "ultra-rare",
+        "correct_rank": 1,
+        "predictions": [
+          {
+            "disease_name": "22q11.2 deletion syndrome (DiGeorge syndrome/Velocardiofacial syndrome)",
+            "confidence": "high",
+            "rank": 1
+          },
+          {
+            "disease_name": "Submucosal cleft palate (isolated)",
+            "confidence": "low",
+            "rank": 2
+          },
+          {
+            "disease_name": "Cleft palate-short stature-vertebral anomalies syndrome",
+            "confidence": "low",
+            "rank": 3
+          },
+          {
+            "disease_name": "Kabuki syndrome",
+            "confidence": "low",
+            "rank": 4
+          }
+        ],
+        "top1_confidence": "high"
+      },
+      {
+        "case_id": "curated_534",
+        "target": "Oculocerebrorenal syndrome of Lowe",
+        "rarity": "ultra-rare",
+        "correct_rank": 1,
+        "predictions": [
+          {
+            "disease_name": "Oculocerebrorenal syndrome of Lowe",
+            "confidence": "high",
+            "rank": 1
+          },
+          {
+            "disease_name": "Congenital cataracts-facial dysmorphism-neuropathy syndrome",
+            "confidence": "low",
+            "rank": 2
+          },
+          {
+            "disease_name": "Joubert syndrome with oculorenal defect",
+            "confidence": "low",
+            "rank": 3
+          }
+        ],
+        "top1_confidence": "high"
+      },
+      {
+        "case_id": "curated_64",
+        "target": "Alstr\u00f6m syndrome",
+        "rarity": "ultra-rare",
+        "correct_rank": null,
+        "predictions": [
+          {
+            "disease_name": "Glutaric Aciduria Type I",
+            "confidence": "high",
+            "rank": 1
+          },
+          {
+            "disease_name": "Pelizaeus-Merzbacher Disease",
+            "confidence": "medium",
+            "rank": 2
+          },
+          {
+            "disease_name": "Neuronal Ceroid Lipofuscinosis",
+            "confidence": "medium",
+            "rank": 3
+          },
+          {
+            "disease_name": "Glycogen Storage Disease Type II (Pompe Disease)",
+            "confidence": "low",
+            "rank": 4
+          },
+          {
+            "disease_name": "Mitochondrial Encephalomyopathy",
+            "confidence": "medium",
+            "rank": 5
+          }
+        ],
+        "top1_confidence": "high"
+      },
+      {
+        "case_id": "curated_744",
+        "target": "Proteus syndrome",
+        "rarity": "ultra-rare",
+        "correct_rank": null,
+        "predictions": [
+          {
+            "disease_name": "Klippel-Tr\u00e9naunay syndrome",
+            "confidence": "high",
+            "rank": 1
+          },
+          {
+            "disease_name": "CLAPO syndrome",
+            "confidence": "medium",
+            "rank": 2
+          },
+          {
+            "disease_name": "CLOVES syndrome",
+            "confidence": "medium",
+            "rank": 3
+          },
+          {
+            "disease_name": "Parkes Weber syndrome",
+            "confidence": "low",
+            "rank": 4
+          }
+        ],
+        "top1_confidence": "high"
+      },
+      {
+        "case_id": "curated_800",
+        "target": "Schwartz-Jampel syndrome",
+        "rarity": "ultra-rare",
+        "correct_rank": 1,
+        "predictions": [
+          {
+            "disease_name": "Schwartz-Jampel syndrome",
+            "confidence": "high",
+            "rank": 1
+          },
+          {
+            "disease_name": "Cartilage-hair hypoplasia",
+            "confidence": "medium",
+            "rank": 2
+          },
+          {
+            "disease_name": "Mucopolysaccharidosis (various types)",
+            "confidence": "low",
+            "rank": 3
+          }
+        ],
+        "top1_confidence": "high"
+      },
+      {
+        "case_id": "curated_821",
+        "target": "Sotos syndrome",
+        "rarity": "ultra-rare",
+        "correct_rank": null,
+        "predictions": [
+          {
+            "disease_name": "Hyperinsulinism due to HNF1A deficiency",
+            "confidence": "high",
+            "rank": 1
+          },
+          {
+            "disease_name": "Autosomal recessive hyperinsulinism due to Kir6.2 deficiency",
+            "confidence": "high",
+            "rank": 2
+          },
+          {
+            "disease_name": "PURA-related severe neonatal hypotonia-seizures-encephalopathy syndrome",
+            "confidence": "medium",
+            "rank": 3
+          },
+          {
+            "disease_name": "Multiple acyl-CoA dehydrogenase deficiency (MADD)",
+            "confidence": "medium",
+            "rank": 4
+          },
+          {
+            "disease_name": "Zellweger Syndrome",
+            "confidence": "low",
+            "rank": 5
+          }
+        ],
+        "top1_confidence": "high"
+      },
+      {
+        "case_id": "curated_84",
+        "target": "Fanconi anemia",
+        "rarity": "ultra-rare",
+        "correct_rank": 1,
+        "predictions": [
+          {
+            "disease_name": "Fanconi Anemia",
+            "confidence": "high",
+            "rank": 1
+          },
+          {
+            "disease_name": "Congenital progressive bone marrow failure-B-cell immunodeficiency-skeletal dysplasia syndrome",
+            "confidence": "medium",
+            "rank": 2
+          },
+          {
+            "disease_name": "Idiopathic aplastic anemia",
+            "confidence": "low",
+            "rank": 3
+          },
+          {
+            "disease_name": "Dyschromatosis universalis hereditaria",
+            "confidence": "low",
+            "rank": 4
+          }
+        ],
+        "top1_confidence": "high"
+      },
+      {
+        "case_id": "curated_500150",
+        "target": "ZTTK syndrome",
+        "rarity": "ultra-rare",
+        "correct_rank": null,
+        "predictions": [
+          {
+            "disease_name": "Zellweger Syndrome",
+            "confidence": "high",
+            "rank": 1
+          },
+          {
+            "disease_name": "Nonketotic Hyperglycinemia",
+            "confidence": "medium",
+            "rank": 2
+          },
+          {
+            "disease_name": "D-Bifunctional Protein Deficiency",
+            "confidence": "medium",
+            "rank": 3
+          },
+          {
+            "disease_name": "Congenital Hydrocephalus",
+            "confidence": "medium",
+            "rank": 4
+          },
+          {
+            "disease_name": "PHGDH Deficiency",
+            "confidence": "low",
+            "rank": 5
+          }
+        ],
+        "top1_confidence": "high"
+      },
+      {
+        "case_id": "curated_199",
+        "target": "Cornelia de Lange syndrome",
+        "rarity": "ultra-rare",
+        "correct_rank": null,
+        "predictions": [
+          {
+            "disease_name": "Epilepsy-microcephaly-skeletal dysplasia syndrome (Battaglia-Neri syndrome)",
+            "confidence": "high",
+            "rank": 1
+          },
+          {
+            "disease_name": "Phosphoglycerate dehydrogenase (PHGDH) deficiency",
+            "confidence": "medium",
+            "rank": 2
+          },
+          {
+            "disease_name": "Progressive myoclonic epilepsy with dystonia",
+            "confidence": "medium",
+            "rank": 3
+          },
+          {
+            "disease_name": "Neuronal ceroid lipofuscinosis (CLN6-related)",
+            "confidence": "low",
+            "rank": 4
+          }
+        ],
+        "top1_confidence": "high"
+      },
+      {
+        "case_id": "curated_672",
+        "target": "Pallister-Hall syndrome",
+        "rarity": "ultra-rare",
+        "correct_rank": null,
+        "predictions": [
+          {
+            "disease_name": "Pai syndrome",
+            "confidence": "high",
+            "rank": 1
+          },
+          {
+            "disease_name": "Microbrachycephaly-ptosis-cleft lip syndrome",
+            "confidence": "medium",
+            "rank": 2
+          },
+          {
+            "disease_name": "Orofaciodigital syndrome type 5",
+            "confidence": "medium",
+            "rank": 3
+          },
+          {
+            "disease_name": "Holoprosencephaly spectrum disorder",
+            "confidence": "low",
+            "rank": 4
+          }
+        ],
+        "top1_confidence": "high"
+      },
+      {
+        "case_id": "curated_1606",
+        "target": "1p36 deletion syndrome",
+        "rarity": "ultra-rare",
+        "correct_rank": null,
+        "predictions": [
+          {
+            "disease_name": "X-linked intellectual disability-global development delay-facial dysmorphism-sacral caudal remnant syndrome",
+            "confidence": "medium",
+            "rank": 1
+          },
+          {
+            "disease_name": "Microcephaly-corpus callosum hypoplasia-intellectual disability-facial dysmorphism syndrome",
+            "confidence": "medium",
+            "rank": 2
+          },
+          {
+            "disease_name": "Temtamy syndrome",
+            "confidence": "low-medium",
+            "rank": 3
+          },
+          {
+            "disease_name": "Isolated corpus callosum agenesis with additional features",
+            "confidence": "low",
+            "rank": 4
+          },
+          {
+            "disease_name": "Novel or uncharacterized syndrome",
+            "confidence": "medium",
+            "rank": 5
+          }
+        ],
+        "top1_confidence": "medium"
+      },
+      {
+        "case_id": "curated_506",
+        "target": "Leigh syndrome",
+        "rarity": "ultra-rare",
+        "correct_rank": 1,
+        "predictions": [
+          {
+            "disease_name": "Leigh syndrome",
+            "confidence": "high",
+            "rank": 1
+          },
+          {
+            "disease_name": "Congenital lactic acidosis, Saguenay-Lac-Saint-Jean type",
+            "confidence": "medium",
+            "rank": 2
+          },
+          {
+            "disease_name": "Fatal infantile lactic acidosis with methylmalonic aciduria",
+            "confidence": "low",
+            "rank": 3
+          },
+          {
+            "disease_name": "Pyruvate dehydrogenase complex deficiency",
+            "confidence": "medium",
+            "rank": 4
+          }
+        ],
+        "top1_confidence": "high"
+      },
+      {
+        "case_id": "curated_280",
+        "target": "Wolf-Hirschhorn syndrome",
+        "rarity": "ultra-rare",
+        "correct_rank": 1,
+        "predictions": [
+          {
+            "disease_name": "Wolf-Hirschhorn syndrome",
+            "confidence": "high",
+            "rank": 1
+          },
+          {
+            "disease_name": "Non-specific early-onset epileptic encephalopathy",
+            "confidence": "medium",
+            "rank": 2
+          },
+          {
+            "disease_name": "2p21 microdeletion syndrome",
+            "confidence": "low",
+            "rank": 3
+          }
+        ],
+        "top1_confidence": "high"
+      }
+    ]
+  ],
+  "n_runs": 2
+}

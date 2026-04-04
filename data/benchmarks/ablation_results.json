@@ -1,0 +1,2471 @@
+{
+  "no_reranker": {
+    "metrics": {
+      "all": {
+        "top1": 0.5272727272727272,
+        "top3": 0.6181818181818182,
+        "top5": 0.6363636363636364,
+        "mrr": 0.5681818181818182,
+        "retrieval_recall_20": 0.6181818181818182,
+        "n": 55
+      },
+      "well_known": {
+        "top1": 0.9333333333333333,
+        "top3": 1.0,
+        "top5": 1.0,
+        "mrr": 0.9555555555555556,
+        "retrieval_recall_20": 1.0,
+        "n": 15
+      },
+      "ultra_rare": {
+        "top1": 0.375,
+        "top3": 0.475,
+        "top5": 0.5,
+        "mrr": 0.4229166666666667,
+        "retrieval_recall_20": 0.475,
+        "n": 40
+      }
+    },
+    "cases": [
+      {
+        "case_id": "test_001",
+        "rank": 1,
+        "rarity": "rare",
+        "retrieval_recall_20": true
+      },
+      {
+        "case_id": "test_002",
+        "rank": 1,
+        "rarity": "rare",
+        "retrieval_recall_20": true
+      },
+      {
+        "case_id": "test_003",
+        "rank": 3,
+        "rarity": "uncommon",
+        "retrieval_recall_20": true
+      },
+      {
+        "case_id": "test_004",
+        "rank": 1,
+        "rarity": "rare",
+        "retrieval_recall_20": true
+      },
+      {
+        "case_id": "test_005",
+        "rank": 1,
+        "rarity": "rare",
+        "retrieval_recall_20": true
+      },
+      {
+        "case_id": "nejm_001",
+        "rank": 1,
+        "rarity": "rare",
+        "retrieval_recall_20": true
+      },
+      {
+        "case_id": "nejm_002",
+        "rank": 1,
+        "rarity": "rare",
+        "retrieval_recall_20": true
+      },
+      {
+        "case_id": "nejm_003",
+        "rank": 1,
+        "rarity": "uncommon",
+        "retrieval_recall_20": true
+      },
+      {
+        "case_id": "nejm_004",
+        "rank": 1,
+        "rarity": "rare",
+        "retrieval_recall_20": true
+      },
+      {
+        "case_id": "nejm_005",
+        "rank": 1,
+        "rarity": "rare",
+        "retrieval_recall_20": true
+      },
+      {
+        "case_id": "nejm_006",
+        "rank": 1,
+        "rarity": "rare",
+        "retrieval_recall_20": true
+      },
+      {
+        "case_id": "nejm_007",
+        "rank": 1,
+        "rarity": "rare",
+        "retrieval_recall_20": true
+      },
+      {
+        "case_id": "nejm_008",
+        "rank": 1,
+        "rarity": "rare",
+        "retrieval_recall_20": true
+      },
+      {
+        "case_id": "nejm_009",
+        "rank": 1,
+        "rarity": "uncommon",
+        "retrieval_recall_20": true
+      },
+      {
+        "case_id": "nejm_010",
+        "rank": 1,
+        "rarity": "rare",
+        "retrieval_recall_20": true
+      },
+      {
+        "case_id": "curated_235",
+        "rank": null,
+        "rarity": "ultra-rare",
+        "retrieval_recall_20": false
+      },
+      {
+        "case_id": "curated_2273",
+        "rank": 4,
+        "rarity": "ultra-rare",
+        "retrieval_recall_20": true
+      },
+      {
+        "case_id": "curated_3455",
+        "rank": 1,
+        "rarity": "ultra-rare",
+        "retrieval_recall_20": true
+      },
+      {
+        "case_id": "curated_819",
+        "rank": null,
+        "rarity": "ultra-rare",
+        "retrieval_recall_20": false
+      },
+      {
+        "case_id": "curated_550",
+        "rank": 1,
+        "rarity": "ultra-rare",
+        "retrieval_recall_20": true
+      },
+      {
+        "case_id": "curated_2044",
+        "rank": 1,
+        "rarity": "ultra-rare",
+        "retrieval_recall_20": true
+      },
+      {
+        "case_id": "curated_709",
+        "rank": null,
+        "rarity": "ultra-rare",
+        "retrieval_recall_20": false
+      },
+      {
+        "case_id": "curated_2308",
+        "rank": null,
+        "rarity": "ultra-rare",
+        "retrieval_recall_20": false
+      },
+      {
+        "case_id": "curated_2745",
+        "rank": null,
+        "rarity": "ultra-rare",
+        "retrieval_recall_20": false
+      },
+      {
+        "case_id": "curated_221",
+        "rank": 2,
+        "rarity": "ultra-rare",
+        "retrieval_recall_20": true
+      },
+      {
+        "case_id": "curated_740",
+        "rank": null,
+        "rarity": "ultra-rare",
+        "retrieval_recall_20": true
+      },
+      {
+        "case_id": "curated_99226",
+        "rank": 3,
+        "rarity": "ultra-rare",
+        "retrieval_recall_20": true
+      },
+      {
+        "case_id": "curated_3261",
+        "rank": null,
+        "rarity": "ultra-rare",
+        "retrieval_recall_20": false
+      },
+      {
+        "case_id": "curated_466768",
+        "rank": null,
+        "rarity": "ultra-rare",
+        "retrieval_recall_20": false
+      },
+      {
+        "case_id": "curated_900",
+        "rank": null,
+        "rarity": "ultra-rare",
+        "retrieval_recall_20": false
+      },
+      {
+        "case_id": "curated_2495",
+        "rank": null,
+        "rarity": "ultra-rare",
+        "retrieval_recall_20": false
+      },
+      {
+        "case_id": "curated_356961",
+        "rank": 1,
+        "rarity": "ultra-rare",
+        "retrieval_recall_20": true
+      },
+      {
+        "case_id": "curated_2162",
+        "rank": 1,
+        "rarity": "ultra-rare",
+        "retrieval_recall_20": true
+      },
+      {
+        "case_id": "curated_2710",
+        "rank": 1,
+        "rarity": "ultra-rare",
+        "retrieval_recall_20": true
+      },
+      {
+        "case_id": "curated_818",
+        "rank": 1,
+        "rarity": "ultra-rare",
+        "retrieval_recall_20": true
+      },
+      {
+        "case_id": "curated_3107",
+        "rank": null,
+        "rarity": "ultra-rare",
+        "retrieval_recall_20": false
+      },
+      {
+        "case_id": "curated_261349",
+        "rank": null,
+        "rarity": "ultra-rare",
+        "retrieval_recall_20": false
+      },
+      {
+        "case_id": "curated_828",
+        "rank": 2,
+        "rarity": "ultra-rare",
+        "retrieval_recall_20": false
+      },
+      {
+        "case_id": "curated_464306",
+        "rank": 1,
+        "rarity": "ultra-rare",
+        "retrieval_recall_20": true
+      },
+      {
+        "case_id": "curated_273",
+        "rank": null,
+        "rarity": "ultra-rare",
+        "retrieval_recall_20": false
+      },
+      {
+        "case_id": "curated_175",
+        "rank": 1,
+        "rarity": "ultra-rare",
+        "retrieval_recall_20": true
+      },
+      {
+        "case_id": "curated_845",
+        "rank": 1,
+        "rarity": "ultra-rare",
+        "retrieval_recall_20": true
+      },
+      {
+        "case_id": "curated_567",
+        "rank": 1,
+        "rarity": "ultra-rare",
+        "retrieval_recall_20": false
+      },
+      {
+        "case_id": "curated_534",
+        "rank": 1,
+        "rarity": "ultra-rare",
+        "retrieval_recall_20": true
+      },
+      {
+        "case_id": "curated_64",
+        "rank": null,
+        "rarity": "ultra-rare",
+        "retrieval_recall_20": false
+      },
+      {
+        "case_id": "curated_744",
+        "rank": null,
+        "rarity": "ultra-rare",
+        "retrieval_recall_20": true
+      },
+      {
+        "case_id": "curated_800",
+        "rank": 1,
+        "rarity": "ultra-rare",
+        "retrieval_recall_20": true
+      },
+      {
+        "case_id": "curated_821",
+        "rank": null,
+        "rarity": "ultra-rare",
+        "retrieval_recall_20": false
+      },
+      {
+        "case_id": "curated_84",
+        "rank": 1,
+        "rarity": "ultra-rare",
+        "retrieval_recall_20": false
+      },
+      {
+        "case_id": "curated_500150",
+        "rank": null,
+        "rarity": "ultra-rare",
+        "retrieval_recall_20": false
+      },
+      {
+        "case_id": "curated_199",
+        "rank": null,
+        "rarity": "ultra-rare",
+        "retrieval_recall_20": false
+      },
+      {
+        "case_id": "curated_672",
+        "rank": null,
+        "rarity": "ultra-rare",
+        "retrieval_recall_20": false
+      },
+      {
+        "case_id": "curated_1606",
+        "rank": null,
+        "rarity": "ultra-rare",
+        "retrieval_recall_20": false
+      },
+      {
+        "case_id": "curated_506",
+        "rank": 3,
+        "rarity": "ultra-rare",
+        "retrieval_recall_20": true
+      },
+      {
+        "case_id": "curated_280",
+        "rank": 1,
+        "rarity": "ultra-rare",
+        "retrieval_recall_20": true
+      }
+    ],
+    "complete": true
+  },
+  "no_llm_queries": {
+    "metrics": {
+      "all": {
+        "top1": 0.5272727272727272,
+        "top3": 0.5636363636363636,
+        "top5": 0.5818181818181818,
+        "mrr": 0.55,
+        "retrieval_recall_20": 0.509090909090909,
+        "n": 55
+      },
+      "well_known": {
+        "top1": 1.0,
+        "top3": 1.0,
+        "top5": 1.0,
+        "mrr": 1.0,
+        "retrieval_recall_20": 0.7333333333333333,
+        "n": 15
+      },
+      "ultra_rare": {
+        "top1": 0.35,
+        "top3": 0.4,
+        "top5": 0.425,
+        "mrr": 0.38125,
+        "retrieval_recall_20": 0.425,
+        "n": 40
+      }
+    },
+    "cases": [
+      {
+        "case_id": "test_001",
+        "rank": 1,
+        "rarity": "rare",
+        "retrieval_recall_20": true
+      },
+      {
+        "case_id": "test_002",
+        "rank": 1,
+        "rarity": "rare",
+        "retrieval_recall_20": true
+      },
+      {
+        "case_id": "test_003",
+        "rank": 1,
+        "rarity": "uncommon",
+        "retrieval_recall_20": true
+      },
+      {
+        "case_id": "test_004",
+        "rank": 1,
+        "rarity": "rare",
+        "retrieval_recall_20": true
+      },
+      {
+        "case_id": "test_005",
+        "rank": 1,
+        "rarity": "rare",
+        "retrieval_recall_20": true
+      },
+      {
+        "case_id": "nejm_001",
+        "rank": 1,
+        "rarity": "rare",
+        "retrieval_recall_20": false
+      },
+      {
+        "case_id": "nejm_002",
+        "rank": 1,
+        "rarity": "rare",
+        "retrieval_recall_20": false
+      },
+      {
+        "case_id": "nejm_003",
+        "rank": 1,
+        "rarity": "uncommon",
+        "retrieval_recall_20": true
+      },
+      {
+        "case_id": "nejm_004",
+        "rank": 1,
+        "rarity": "rare",
+        "retrieval_recall_20": false
+      },
+      {
+        "case_id": "nejm_005",
+        "rank": 1,
+        "rarity": "rare",
+        "retrieval_recall_20": false
+      },
+      {
+        "case_id": "nejm_006",
+        "rank": 1,
+        "rarity": "rare",
+        "retrieval_recall_20": true
+      },
+      {
+        "case_id": "nejm_007",
+        "rank": 1,
+        "rarity": "rare",
+        "retrieval_recall_20": true
+      },
+      {
+        "case_id": "nejm_008",
+        "rank": 1,
+        "rarity": "rare",
+        "retrieval_recall_20": true
+      },
+      {
+        "case_id": "nejm_009",
+        "rank": 1,
+        "rarity": "uncommon",
+        "retrieval_recall_20": true
+      },
+      {
+        "case_id": "nejm_010",
+        "rank": 1,
+        "rarity": "rare",
+        "retrieval_recall_20": true
+      },
+      {
+        "case_id": "curated_235",
+        "rank": null,
+        "rarity": "ultra-rare",
+        "retrieval_recall_20": false
+      },
+      {
+        "case_id": "curated_2273",
+        "rank": 2,
+        "rarity": "ultra-rare",
+        "retrieval_recall_20": true
+      },
+      {
+        "case_id": "curated_3455",
+        "rank": null,
+        "rarity": "ultra-rare",
+        "retrieval_recall_20": true
+      },
+      {
+        "case_id": "curated_819",
+        "rank": null,
+        "rarity": "ultra-rare",
+        "retrieval_recall_20": false
+      },
+      {
+        "case_id": "curated_550",
+        "rank": 1,
+        "rarity": "ultra-rare",
+        "retrieval_recall_20": true
+      },
+      {
+        "case_id": "curated_2044",
+        "rank": 1,
+        "rarity": "ultra-rare",
+        "retrieval_recall_20": true
+      },
+      {
+        "case_id": "curated_709",
+        "rank": null,
+        "rarity": "ultra-rare",
+        "retrieval_recall_20": true
+      },
+      {
+        "case_id": "curated_2308",
+        "rank": null,
+        "rarity": "ultra-rare",
+        "retrieval_recall_20": true
+      },
+      {
+        "case_id": "curated_2745",
+        "rank": null,
+        "rarity": "ultra-rare",
+        "retrieval_recall_20": false
+      },
+      {
+        "case_id": "curated_221",
+        "rank": 1,
+        "rarity": "ultra-rare",
+        "retrieval_recall_20": true
+      },
+      {
+        "case_id": "curated_740",
+        "rank": 1,
+        "rarity": "ultra-rare",
+        "retrieval_recall_20": true
+      },
+      {
+        "case_id": "curated_99226",
+        "rank": null,
+        "rarity": "ultra-rare",
+        "retrieval_recall_20": true
+      },
+      {
+        "case_id": "curated_3261",
+        "rank": null,
+        "rarity": "ultra-rare",
+        "retrieval_recall_20": false
+      },
+      {
+        "case_id": "curated_466768",
+        "rank": null,
+        "rarity": "ultra-rare",
+        "retrieval_recall_20": false
+      },
+      {
+        "case_id": "curated_900",
+        "rank": null,
+        "rarity": "ultra-rare",
+        "retrieval_recall_20": false
+      },
+      {
+        "case_id": "curated_2495",
+        "rank": null,
+        "rarity": "ultra-rare",
+        "retrieval_recall_20": true
+      },
+      {
+        "case_id": "curated_356961",
+        "rank": null,
+        "rarity": "ultra-rare",
+        "retrieval_recall_20": false
+      },
+      {
+        "case_id": "curated_2162",
+        "rank": 1,
+        "rarity": "ultra-rare",
+        "retrieval_recall_20": false
+      },
+      {
+        "case_id": "curated_2710",
+        "rank": 1,
+        "rarity": "ultra-rare",
+        "retrieval_recall_20": true
+      },
+      {
+        "case_id": "curated_818",
+        "rank": 1,
+        "rarity": "ultra-rare",
+        "retrieval_recall_20": false
+      },
+      {
+        "case_id": "curated_3107",
+        "rank": null,
+        "rarity": "ultra-rare",
+        "retrieval_recall_20": false
+      },
+      {
+        "case_id": "curated_261349",
+        "rank": null,
+        "rarity": "ultra-rare",
+        "retrieval_recall_20": false
+      },
+      {
+        "case_id": "curated_828",
+        "rank": 1,
+        "rarity": "ultra-rare",
+        "retrieval_recall_20": false
+      },
+      {
+        "case_id": "curated_464306",
+        "rank": 2,
+        "rarity": "ultra-rare",
+        "retrieval_recall_20": true
+      },
+      {
+        "case_id": "curated_273",
+        "rank": null,
+        "rarity": "ultra-rare",
+        "retrieval_recall_20": false
+      },
+      {
+        "case_id": "curated_175",
+        "rank": 1,
+        "rarity": "ultra-rare",
+        "retrieval_recall_20": false
+      },
+      {
+        "case_id": "curated_845",
+        "rank": 1,
+        "rarity": "ultra-rare",
+        "retrieval_recall_20": true
+      },
+      {
+        "case_id": "curated_567",
+        "rank": 1,
+        "rarity": "ultra-rare",
+        "retrieval_recall_20": false
+      },
+      {
+        "case_id": "curated_534",
+        "rank": 1,
+        "rarity": "ultra-rare",
+        "retrieval_recall_20": true
+      },
+      {
+        "case_id": "curated_64",
+        "rank": null,
+        "rarity": "ultra-rare",
+        "retrieval_recall_20": false
+      },
+      {
+        "case_id": "curated_744",
+        "rank": 4,
+        "rarity": "ultra-rare",
+        "retrieval_recall_20": true
+      },
+      {
+        "case_id": "curated_800",
+        "rank": null,
+        "rarity": "ultra-rare",
+        "retrieval_recall_20": false
+      },
+      {
+        "case_id": "curated_821",
+        "rank": null,
+        "rarity": "ultra-rare",
+        "retrieval_recall_20": false
+      },
+      {
+        "case_id": "curated_84",
+        "rank": 1,
+        "rarity": "ultra-rare",
+        "retrieval_recall_20": false
+      },
+      {
+        "case_id": "curated_500150",
+        "rank": null,
+        "rarity": "ultra-rare",
+        "retrieval_recall_20": true
+      },
+      {
+        "case_id": "curated_199",
+        "rank": null,
+        "rarity": "ultra-rare",
+        "retrieval_recall_20": false
+      },
+      {
+        "case_id": "curated_672",
+        "rank": null,
+        "rarity": "ultra-rare",
+        "retrieval_recall_20": false
+      },
+      {
+        "case_id": "curated_1606",
+        "rank": null,
+        "rarity": "ultra-rare",
+        "retrieval_recall_20": false
+      },
+      {
+        "case_id": "curated_506",
+        "rank": 1,
+        "rarity": "ultra-rare",
+        "retrieval_recall_20": true
+      },
+      {
+        "case_id": "curated_280",
+        "rank": null,
+        "rarity": "ultra-rare",
+        "retrieval_recall_20": false
+      }
+    ],
+    "complete": true
+  },
+  "no_hpo_scorer": {
+    "metrics": {
+      "all": {
+        "top1": 0.45454545454545453,
+        "top3": 0.509090909090909,
+        "top5": 0.5454545454545454,
+        "mrr": 0.49,
+        "retrieval_recall_20": 0.6181818181818182,
+        "n": 55
+      },
+      "well_known": {
+        "top1": 0.9333333333333333,
+        "top3": 0.9333333333333333,
+        "top5": 0.9333333333333333,
+        "mrr": 0.9333333333333333,
+        "retrieval_recall_20": 1.0,
+        "n": 15
+      },
+      "ultra_rare": {
+        "top1": 0.275,
+        "top3": 0.35,
+        "top5": 0.4,
+        "mrr": 0.32375,
+        "retrieval_recall_20": 0.475,
+        "n": 40
+      }
+    },
+    "cases": [
+      {
+        "case_id": "test_001",
+        "rank": 1,
+        "rarity": "rare",
+        "retrieval_recall_20": true
+      },
+      {
+        "case_id": "test_002",
+        "rank": 1,
+        "rarity": "rare",
+        "retrieval_recall_20": true
+      },
+      {
+        "case_id": "test_003",
+        "rank": null,
+        "rarity": "uncommon",
+        "retrieval_recall_20": true
+      },
+      {
+        "case_id": "test_004",
+        "rank": 1,
+        "rarity": "rare",
+        "retrieval_recall_20": true
+      },
+      {
+        "case_id": "test_005",
+        "rank": 1,
+        "rarity": "rare",
+        "retrieval_recall_20": true
+      },
+      {
+        "case_id": "nejm_001",
+        "rank": 1,
+        "rarity": "rare",
+        "retrieval_recall_20": true
+      },
+      {
+        "case_id": "nejm_002",
+        "rank": 1,
+        "rarity": "rare",
+        "retrieval_recall_20": true
+      },
+      {
+        "case_id": "nejm_003",
+        "rank": 1,
+        "rarity": "uncommon",
+        "retrieval_recall_20": true
+      },
+      {
+        "case_id": "nejm_004",
+        "rank": 1,
+        "rarity": "rare",
+        "retrieval_recall_20": true
+      },
+      {
+        "case_id": "nejm_005",
+        "rank": 1,
+        "rarity": "rare",
+        "retrieval_recall_20": true
+      },
+      {
+        "case_id": "nejm_006",
+        "rank": 1,
+        "rarity": "rare",
+        "retrieval_recall_20": true
+      },
+      {
+        "case_id": "nejm_007",
+        "rank": 1,
+        "rarity": "rare",
+        "retrieval_recall_20": true
+      },
+      {
+        "case_id": "nejm_008",
+        "rank": 1,
+        "rarity": "rare",
+        "retrieval_recall_20": true
+      },
+      {
+        "case_id": "nejm_009",
+        "rank": 1,
+        "rarity": "uncommon",
+        "retrieval_recall_20": true
+      },
+      {
+        "case_id": "nejm_010",
+        "rank": 1,
+        "rarity": "rare",
+        "retrieval_recall_20": true
+      },
+      {
+        "case_id": "curated_235",
+        "rank": null,
+        "rarity": "ultra-rare",
+        "retrieval_recall_20": false
+      },
+      {
+        "case_id": "curated_2273",
+        "rank": 2,
+        "rarity": "ultra-rare",
+        "retrieval_recall_20": true
+      },
+      {
+        "case_id": "curated_3455",
+        "rank": null,
+        "rarity": "ultra-rare",
+        "retrieval_recall_20": true
+      },
+      {
+        "case_id": "curated_819",
+        "rank": null,
+        "rarity": "ultra-rare",
+        "retrieval_recall_20": false
+      },
+      {
+        "case_id": "curated_550",
+        "rank": 1,
+        "rarity": "ultra-rare",
+        "retrieval_recall_20": true
+      },
+      {
+        "case_id": "curated_2044",
+        "rank": 1,
+        "rarity": "ultra-rare",
+        "retrieval_recall_20": true
+      },
+      {
+        "case_id": "curated_709",
+        "rank": null,
+        "rarity": "ultra-rare",
+        "retrieval_recall_20": false
+      },
+      {
+        "case_id": "curated_2308",
+        "rank": null,
+        "rarity": "ultra-rare",
+        "retrieval_recall_20": false
+      },
+      {
+        "case_id": "curated_2745",
+        "rank": null,
+        "rarity": "ultra-rare",
+        "retrieval_recall_20": false
+      },
+      {
+        "case_id": "curated_221",
+        "rank": 2,
+        "rarity": "ultra-rare",
+        "retrieval_recall_20": true
+      },
+      {
+        "case_id": "curated_740",
+        "rank": null,
+        "rarity": "ultra-rare",
+        "retrieval_recall_20": false
+      },
+      {
+        "case_id": "curated_99226",
+        "rank": null,
+        "rarity": "ultra-rare",
+        "retrieval_recall_20": true
+      },
+      {
+        "case_id": "curated_3261",
+        "rank": null,
+        "rarity": "ultra-rare",
+        "retrieval_recall_20": false
+      },
+      {
+        "case_id": "curated_466768",
+        "rank": null,
+        "rarity": "ultra-rare",
+        "retrieval_recall_20": false
+      },
+      {
+        "case_id": "curated_900",
+        "rank": null,
+        "rarity": "ultra-rare",
+        "retrieval_recall_20": true
+      },
+      {
+        "case_id": "curated_2495",
+        "rank": null,
+        "rarity": "ultra-rare",
+        "retrieval_recall_20": true
+      },
+      {
+        "case_id": "curated_356961",
+        "rank": null,
+        "rarity": "ultra-rare",
+        "retrieval_recall_20": true
+      },
+      {
+        "case_id": "curated_2162",
+        "rank": 1,
+        "rarity": "ultra-rare",
+        "retrieval_recall_20": true
+      },
+      {
+        "case_id": "curated_2710",
+        "rank": 1,
+        "rarity": "ultra-rare",
+        "retrieval_recall_20": true
+      },
+      {
+        "case_id": "curated_818",
+        "rank": 1,
+        "rarity": "ultra-rare",
+        "retrieval_recall_20": false
+      },
+      {
+        "case_id": "curated_3107",
+        "rank": null,
+        "rarity": "ultra-rare",
+        "retrieval_recall_20": false
+      },
+      {
+        "case_id": "curated_261349",
+        "rank": null,
+        "rarity": "ultra-rare",
+        "retrieval_recall_20": false
+      },
+      {
+        "case_id": "curated_828",
+        "rank": 1,
+        "rarity": "ultra-rare",
+        "retrieval_recall_20": false
+      },
+      {
+        "case_id": "curated_464306",
+        "rank": null,
+        "rarity": "ultra-rare",
+        "retrieval_recall_20": true
+      },
+      {
+        "case_id": "curated_273",
+        "rank": null,
+        "rarity": "ultra-rare",
+        "retrieval_recall_20": false
+      },
+      {
+        "case_id": "curated_175",
+        "rank": 1,
+        "rarity": "ultra-rare",
+        "retrieval_recall_20": true
+      },
+      {
+        "case_id": "curated_845",
+        "rank": 2,
+        "rarity": "ultra-rare",
+        "retrieval_recall_20": true
+      },
+      {
+        "case_id": "curated_567",
+        "rank": 1,
+        "rarity": "ultra-rare",
+        "retrieval_recall_20": false
+      },
+      {
+        "case_id": "curated_534",
+        "rank": 1,
+        "rarity": "ultra-rare",
+        "retrieval_recall_20": true
+      },
+      {
+        "case_id": "curated_64",
+        "rank": null,
+        "rarity": "ultra-rare",
+        "retrieval_recall_20": false
+      },
+      {
+        "case_id": "curated_744",
+        "rank": 4,
+        "rarity": "ultra-rare",
+        "retrieval_recall_20": true
+      },
+      {
+        "case_id": "curated_800",
+        "rank": null,
+        "rarity": "ultra-rare",
+        "retrieval_recall_20": false
+      },
+      {
+        "case_id": "curated_821",
+        "rank": null,
+        "rarity": "ultra-rare",
+        "retrieval_recall_20": false
+      },
+      {
+        "case_id": "curated_84",
+        "rank": 1,
+        "rarity": "ultra-rare",
+        "retrieval_recall_20": false
+      },
+      {
+        "case_id": "curated_500150",
+        "rank": null,
+        "rarity": "ultra-rare",
+        "retrieval_recall_20": false
+      },
+      {
+        "case_id": "curated_199",
+        "rank": null,
+        "rarity": "ultra-rare",
+        "retrieval_recall_20": false
+      },
+      {
+        "case_id": "curated_672",
+        "rank": null,
+        "rarity": "ultra-rare",
+        "retrieval_recall_20": false
+      },
+      {
+        "case_id": "curated_1606",
+        "rank": null,
+        "rarity": "ultra-rare",
+        "retrieval_recall_20": true
+      },
+      {
+        "case_id": "curated_506",
+        "rank": 1,
+        "rarity": "ultra-rare",
+        "retrieval_recall_20": true
+      },
+      {
+        "case_id": "curated_280",
+        "rank": 5,
+        "rarity": "ultra-rare",
+        "retrieval_recall_20": true
+      }
+    ],
+    "complete": true
+  },
+  "no_bm25": {
+    "metrics": {
+      "all": {
+        "top1": 0.509090909090909,
+        "top3": 0.6181818181818182,
+        "top5": 0.6363636363636364,
+        "mrr": 0.5651515151515152,
+        "retrieval_recall_20": 0.509090909090909,
+        "n": 55
+      },
+      "well_known": {
+        "top1": 0.9333333333333333,
+        "top3": 1.0,
+        "top5": 1.0,
+        "mrr": 0.9666666666666667,
+        "retrieval_recall_20": 0.8666666666666667,
+        "n": 15
+      },
+      "ultra_rare": {
+        "top1": 0.35,
+        "top3": 0.475,
+        "top5": 0.5,
+        "mrr": 0.4145833333333333,
+        "retrieval_recall_20": 0.375,
+        "n": 40
+      }
+    },
+    "cases": [
+      {
+        "case_id": "test_001",
+        "rank": 1,
+        "rarity": "rare",
+        "retrieval_recall_20": true
+      },
+      {
+        "case_id": "test_002",
+        "rank": 1,
+        "rarity": "rare",
+        "retrieval_recall_20": true
+      },
+      {
+        "case_id": "test_003",
+        "rank": 2,
+        "rarity": "uncommon",
+        "retrieval_recall_20": true
+      },
+      {
+        "case_id": "test_004",
+        "rank": 1,
+        "rarity": "rare",
+        "retrieval_recall_20": true
+      },
+      {
+        "case_id": "test_005",
+        "rank": 1,
+        "rarity": "rare",
+        "retrieval_recall_20": true
+      },
+      {
+        "case_id": "nejm_001",
+        "rank": 1,
+        "rarity": "rare",
+        "retrieval_recall_20": false
+      },
+      {
+        "case_id": "nejm_002",
+        "rank": 1,
+        "rarity": "rare",
+        "retrieval_recall_20": true
+      },
+      {
+        "case_id": "nejm_003",
+        "rank": 1,
+        "rarity": "uncommon",
+        "retrieval_recall_20": true
+      },
+      {
+        "case_id": "nejm_004",
+        "rank": 1,
+        "rarity": "rare",
+        "retrieval_recall_20": true
+      },
+      {
+        "case_id": "nejm_005",
+        "rank": 1,
+        "rarity": "rare",
+        "retrieval_recall_20": true
+      },
+      {
+        "case_id": "nejm_006",
+        "rank": 1,
+        "rarity": "rare",
+        "retrieval_recall_20": true
+      },
+      {
+        "case_id": "nejm_007",
+        "rank": 1,
+        "rarity": "rare",
+        "retrieval_recall_20": true
+      },
+      {
+        "case_id": "nejm_008",
+        "rank": 1,
+        "rarity": "rare",
+        "retrieval_recall_20": true
+      },
+      {
+        "case_id": "nejm_009",
+        "rank": 1,
+        "rarity": "uncommon",
+        "retrieval_recall_20": false
+      },
+      {
+        "case_id": "nejm_010",
+        "rank": 1,
+        "rarity": "rare",
+        "retrieval_recall_20": true
+      },
+      {
+        "case_id": "curated_235",
+        "rank": null,
+        "rarity": "ultra-rare",
+        "retrieval_recall_20": false
+      },
+      {
+        "case_id": "curated_2273",
+        "rank": 2,
+        "rarity": "ultra-rare",
+        "retrieval_recall_20": true
+      },
+      {
+        "case_id": "curated_3455",
+        "rank": null,
+        "rarity": "ultra-rare",
+        "retrieval_recall_20": true
+      },
+      {
+        "case_id": "curated_819",
+        "rank": null,
+        "rarity": "ultra-rare",
+        "retrieval_recall_20": false
+      },
+      {
+        "case_id": "curated_550",
+        "rank": 1,
+        "rarity": "ultra-rare",
+        "retrieval_recall_20": true
+      },
+      {
+        "case_id": "curated_2044",
+        "rank": 1,
+        "rarity": "ultra-rare",
+        "retrieval_recall_20": false
+      },
+      {
+        "case_id": "curated_709",
+        "rank": null,
+        "rarity": "ultra-rare",
+        "retrieval_recall_20": false
+      },
+      {
+        "case_id": "curated_2308",
+        "rank": null,
+        "rarity": "ultra-rare",
+        "retrieval_recall_20": false
+      },
+      {
+        "case_id": "curated_2745",
+        "rank": null,
+        "rarity": "ultra-rare",
+        "retrieval_recall_20": false
+      },
+      {
+        "case_id": "curated_221",
+        "rank": 2,
+        "rarity": "ultra-rare",
+        "retrieval_recall_20": true
+      },
+      {
+        "case_id": "curated_740",
+        "rank": 1,
+        "rarity": "ultra-rare",
+        "retrieval_recall_20": true
+      },
+      {
+        "case_id": "curated_99226",
+        "rank": null,
+        "rarity": "ultra-rare",
+        "retrieval_recall_20": true
+      },
+      {
+        "case_id": "curated_3261",
+        "rank": null,
+        "rarity": "ultra-rare",
+        "retrieval_recall_20": false
+      },
+      {
+        "case_id": "curated_466768",
+        "rank": null,
+        "rarity": "ultra-rare",
+        "retrieval_recall_20": false
+      },
+      {
+        "case_id": "curated_900",
+        "rank": null,
+        "rarity": "ultra-rare",
+        "retrieval_recall_20": false
+      },
+      {
+        "case_id": "curated_2495",
+        "rank": null,
+        "rarity": "ultra-rare",
+        "retrieval_recall_20": false
+      },
+      {
+        "case_id": "curated_356961",
+        "rank": 3,
+        "rarity": "ultra-rare",
+        "retrieval_recall_20": true
+      },
+      {
+        "case_id": "curated_2162",
+        "rank": 1,
+        "rarity": "ultra-rare",
+        "retrieval_recall_20": true
+      },
+      {
+        "case_id": "curated_2710",
+        "rank": 1,
+        "rarity": "ultra-rare",
+        "retrieval_recall_20": true
+      },
+      {
+        "case_id": "curated_818",
+        "rank": 1,
+        "rarity": "ultra-rare",
+        "retrieval_recall_20": false
+      },
+      {
+        "case_id": "curated_3107",
+        "rank": null,
+        "rarity": "ultra-rare",
+        "retrieval_recall_20": false
+      },
+      {
+        "case_id": "curated_261349",
+        "rank": null,
+        "rarity": "ultra-rare",
+        "retrieval_recall_20": false
+      },
+      {
+        "case_id": "curated_828",
+        "rank": 1,
+        "rarity": "ultra-rare",
+        "retrieval_recall_20": false
+      },
+      {
+        "case_id": "curated_464306",
+        "rank": 1,
+        "rarity": "ultra-rare",
+        "retrieval_recall_20": true
+      },
+      {
+        "case_id": "curated_273",
+        "rank": null,
+        "rarity": "ultra-rare",
+        "retrieval_recall_20": false
+      },
+      {
+        "case_id": "curated_175",
+        "rank": 1,
+        "rarity": "ultra-rare",
+        "retrieval_recall_20": false
+      },
+      {
+        "case_id": "curated_845",
+        "rank": 2,
+        "rarity": "ultra-rare",
+        "retrieval_recall_20": true
+      },
+      {
+        "case_id": "curated_567",
+        "rank": 1,
+        "rarity": "ultra-rare",
+        "retrieval_recall_20": false
+      },
+      {
+        "case_id": "curated_534",
+        "rank": 1,
+        "rarity": "ultra-rare",
+        "retrieval_recall_20": true
+      },
+      {
+        "case_id": "curated_64",
+        "rank": null,
+        "rarity": "ultra-rare",
+        "retrieval_recall_20": false
+      },
+      {
+        "case_id": "curated_744",
+        "rank": 2,
+        "rarity": "ultra-rare",
+        "retrieval_recall_20": true
+      },
+      {
+        "case_id": "curated_800",
+        "rank": null,
+        "rarity": "ultra-rare",
+        "retrieval_recall_20": false
+      },
+      {
+        "case_id": "curated_821",
+        "rank": null,
+        "rarity": "ultra-rare",
+        "retrieval_recall_20": false
+      },
+      {
+        "case_id": "curated_84",
+        "rank": 1,
+        "rarity": "ultra-rare",
+        "retrieval_recall_20": false
+      },
+      {
+        "case_id": "curated_500150",
+        "rank": null,
+        "rarity": "ultra-rare",
+        "retrieval_recall_20": false
+      },
+      {
+        "case_id": "curated_199",
+        "rank": null,
+        "rarity": "ultra-rare",
+        "retrieval_recall_20": false
+      },
+      {
+        "case_id": "curated_672",
+        "rank": 4,
+        "rarity": "ultra-rare",
+        "retrieval_recall_20": false
+      },
+      {
+        "case_id": "curated_1606",
+        "rank": null,
+        "rarity": "ultra-rare",
+        "retrieval_recall_20": false
+      },
+      {
+        "case_id": "curated_506",
+        "rank": 1,
+        "rarity": "ultra-rare",
+        "retrieval_recall_20": true
+      },
+      {
+        "case_id": "curated_280",
+        "rank": 1,
+        "rarity": "ultra-rare",
+        "retrieval_recall_20": true
+      }
+    ],
+    "complete": true
+  },
+  "orphanet_only": {
+    "metrics": {
+      "all": {
+        "top1": 0.509090909090909,
+        "top3": 0.6181818181818182,
+        "top5": 0.6545454545454545,
+        "mrr": 0.5696969696969697,
+        "retrieval_recall_20": 0.6,
+        "n": 55
+      },
+      "well_known": {
+        "top1": 1.0,
+        "top3": 1.0,
+        "top5": 1.0,
+        "mrr": 1.0,
+        "retrieval_recall_20": 0.9333333333333333,
+        "n": 15
+      },
+      "ultra_rare": {
+        "top1": 0.325,
+        "top3": 0.475,
+        "top5": 0.525,
+        "mrr": 0.4083333333333333,
+        "retrieval_recall_20": 0.475,
+        "n": 40
+      }
+    },
+    "cases": [
+      {
+        "case_id": "test_001",
+        "rank": 1,
+        "rarity": "rare",
+        "retrieval_recall_20": true
+      },
+      {
+        "case_id": "test_002",
+        "rank": 1,
+        "rarity": "rare",
+        "retrieval_recall_20": true
+      },
+      {
+        "case_id": "test_003",
+        "rank": 1,
+        "rarity": "uncommon",
+        "retrieval_recall_20": true
+      },
+      {
+        "case_id": "test_004",
+        "rank": 1,
+        "rarity": "rare",
+        "retrieval_recall_20": true
+      },
+      {
+        "case_id": "test_005",
+        "rank": 1,
+        "rarity": "rare",
+        "retrieval_recall_20": true
+      },
+      {
+        "case_id": "nejm_001",
+        "rank": 1,
+        "rarity": "rare",
+        "retrieval_recall_20": true
+      },
+      {
+        "case_id": "nejm_002",
+        "rank": 1,
+        "rarity": "rare",
+        "retrieval_recall_20": true
+      },
+      {
+        "case_id": "nejm_003",
+        "rank": 1,
+        "rarity": "uncommon",
+        "retrieval_recall_20": true
+      },
+      {
+        "case_id": "nejm_004",
+        "rank": 1,
+        "rarity": "rare",
+        "retrieval_recall_20": true
+      },
+      {
+        "case_id": "nejm_005",
+        "rank": 1,
+        "rarity": "rare",
+        "retrieval_recall_20": true
+      },
+      {
+        "case_id": "nejm_006",
+        "rank": 1,
+        "rarity": "rare",
+        "retrieval_recall_20": true
+      },
+      {
+        "case_id": "nejm_007",
+        "rank": 1,
+        "rarity": "rare",
+        "retrieval_recall_20": false
+      },
+      {
+        "case_id": "nejm_008",
+        "rank": 1,
+        "rarity": "rare",
+        "retrieval_recall_20": true
+      },
+      {
+        "case_id": "nejm_009",
+        "rank": 1,
+        "rarity": "uncommon",
+        "retrieval_recall_20": true
+      },
+      {
+        "case_id": "nejm_010",
+        "rank": 1,
+        "rarity": "rare",
+        "retrieval_recall_20": true
+      },
+      {
+        "case_id": "curated_235",
+        "rank": null,
+        "rarity": "ultra-rare",
+        "retrieval_recall_20": false
+      },
+      {
+        "case_id": "curated_2273",
+        "rank": 3,
+        "rarity": "ultra-rare",
+        "retrieval_recall_20": true
+      },
+      {
+        "case_id": "curated_3455",
+        "rank": null,
+        "rarity": "ultra-rare",
+        "retrieval_recall_20": true
+      },
+      {
+        "case_id": "curated_819",
+        "rank": null,
+        "rarity": "ultra-rare",
+        "retrieval_recall_20": false
+      },
+      {
+        "case_id": "curated_550",
+        "rank": 2,
+        "rarity": "ultra-rare",
+        "retrieval_recall_20": true
+      },
+      {
+        "case_id": "curated_2044",
+        "rank": 1,
+        "rarity": "ultra-rare",
+        "retrieval_recall_20": true
+      },
+      {
+        "case_id": "curated_709",
+        "rank": null,
+        "rarity": "ultra-rare",
+        "retrieval_recall_20": false
+      },
+      {
+        "case_id": "curated_2308",
+        "rank": null,
+        "rarity": "ultra-rare",
+        "retrieval_recall_20": false
+      },
+      {
+        "case_id": "curated_2745",
+        "rank": null,
+        "rarity": "ultra-rare",
+        "retrieval_recall_20": false
+      },
+      {
+        "case_id": "curated_221",
+        "rank": 2,
+        "rarity": "ultra-rare",
+        "retrieval_recall_20": true
+      },
+      {
+        "case_id": "curated_740",
+        "rank": 1,
+        "rarity": "ultra-rare",
+        "retrieval_recall_20": true
+      },
+      {
+        "case_id": "curated_99226",
+        "rank": 2,
+        "rarity": "ultra-rare",
+        "retrieval_recall_20": true
+      },
+      {
+        "case_id": "curated_3261",
+        "rank": null,
+        "rarity": "ultra-rare",
+        "retrieval_recall_20": false
+      },
+      {
+        "case_id": "curated_466768",
+        "rank": null,
+        "rarity": "ultra-rare",
+        "retrieval_recall_20": false
+      },
+      {
+        "case_id": "curated_900",
+        "rank": null,
+        "rarity": "ultra-rare",
+        "retrieval_recall_20": false
+      },
+      {
+        "case_id": "curated_2495",
+        "rank": null,
+        "rarity": "ultra-rare",
+        "retrieval_recall_20": true
+      },
+      {
+        "case_id": "curated_356961",
+        "rank": 1,
+        "rarity": "ultra-rare",
+        "retrieval_recall_20": true
+      },
+      {
+        "case_id": "curated_2162",
+        "rank": 1,
+        "rarity": "ultra-rare",
+        "retrieval_recall_20": true
+      },
+      {
+        "case_id": "curated_2710",
+        "rank": 1,
+        "rarity": "ultra-rare",
+        "retrieval_recall_20": true
+      },
+      {
+        "case_id": "curated_818",
+        "rank": 1,
+        "rarity": "ultra-rare",
+        "retrieval_recall_20": false
+      },
+      {
+        "case_id": "curated_3107",
+        "rank": null,
+        "rarity": "ultra-rare",
+        "retrieval_recall_20": false
+      },
+      {
+        "case_id": "curated_261349",
+        "rank": null,
+        "rarity": "ultra-rare",
+        "retrieval_recall_20": false
+      },
+      {
+        "case_id": "curated_828",
+        "rank": 2,
+        "rarity": "ultra-rare",
+        "retrieval_recall_20": false
+      },
+      {
+        "case_id": "curated_464306",
+        "rank": 2,
+        "rarity": "ultra-rare",
+        "retrieval_recall_20": true
+      },
+      {
+        "case_id": "curated_273",
+        "rank": null,
+        "rarity": "ultra-rare",
+        "retrieval_recall_20": false
+      },
+      {
+        "case_id": "curated_175",
+        "rank": 1,
+        "rarity": "ultra-rare",
+        "retrieval_recall_20": true
+      },
+      {
+        "case_id": "curated_845",
+        "rank": 1,
+        "rarity": "ultra-rare",
+        "retrieval_recall_20": true
+      },
+      {
+        "case_id": "curated_567",
+        "rank": 1,
+        "rarity": "ultra-rare",
+        "retrieval_recall_20": false
+      },
+      {
+        "case_id": "curated_534",
+        "rank": 1,
+        "rarity": "ultra-rare",
+        "retrieval_recall_20": true
+      },
+      {
+        "case_id": "curated_64",
+        "rank": null,
+        "rarity": "ultra-rare",
+        "retrieval_recall_20": false
+      },
+      {
+        "case_id": "curated_744",
+        "rank": 4,
+        "rarity": "ultra-rare",
+        "retrieval_recall_20": true
+      },
+      {
+        "case_id": "curated_800",
+        "rank": null,
+        "rarity": "ultra-rare",
+        "retrieval_recall_20": false
+      },
+      {
+        "case_id": "curated_821",
+        "rank": null,
+        "rarity": "ultra-rare",
+        "retrieval_recall_20": false
+      },
+      {
+        "case_id": "curated_84",
+        "rank": 1,
+        "rarity": "ultra-rare",
+        "retrieval_recall_20": false
+      },
+      {
+        "case_id": "curated_500150",
+        "rank": null,
+        "rarity": "ultra-rare",
+        "retrieval_recall_20": false
+      },
+      {
+        "case_id": "curated_199",
+        "rank": null,
+        "rarity": "ultra-rare",
+        "retrieval_recall_20": false
+      },
+      {
+        "case_id": "curated_672",
+        "rank": null,
+        "rarity": "ultra-rare",
+        "retrieval_recall_20": false
+      },
+      {
+        "case_id": "curated_1606",
+        "rank": 4,
+        "rarity": "ultra-rare",
+        "retrieval_recall_20": true
+      },
+      {
+        "case_id": "curated_506",
+        "rank": 1,
+        "rarity": "ultra-rare",
+        "retrieval_recall_20": true
+      },
+      {
+        "case_id": "curated_280",
+        "rank": 1,
+        "rarity": "ultra-rare",
+        "retrieval_recall_20": true
+      }
+    ],
+    "complete": true
+  },
+  "full_system": {
+    "metrics": {
+      "all": {
+        "top1": 0.4909090909090909,
+        "top3": 0.6,
+        "top5": 0.6181818181818182,
+        "mrr": 0.55,
+        "n": 55
+      },
+      "well_known": {
+        "top1": 0.9333333333333333,
+        "top3": 0.9333333333333333,
+        "top5": 0.9333333333333333,
+        "mrr": 0.9333333333333333,
+        "n": 15
+      },
+      "ultra_rare": {
+        "top1": 0.325,
+        "top3": 0.475,
+        "top5": 0.5,
+        "mrr": 0.40625,
+        "n": 40
+      }
+    },
+    "cases": [
+      {
+        "case_id": "test_001",
+        "rank": 1,
+        "rarity": "rare"
+      },
+      {
+        "case_id": "test_002",
+        "rank": 1,
+        "rarity": "rare"
+      },
+      {
+        "case_id": "test_003",
+        "rank": null,
+        "rarity": "uncommon"
+      },
+      {
+        "case_id": "test_004",
+        "rank": 1,
+        "rarity": "rare"
+      },
+      {
+        "case_id": "test_005",
+        "rank": 1,
+        "rarity": "rare"
+      },
+      {
+        "case_id": "nejm_001",
+        "rank": 1,
+        "rarity": "rare"
+      },
+      {
+        "case_id": "nejm_002",
+        "rank": 1,
+        "rarity": "rare"
+      },
+      {
+        "case_id": "nejm_003",
+        "rank": 1,
+        "rarity": "uncommon"
+      },
+      {
+        "case_id": "nejm_004",
+        "rank": 1,
+        "rarity": "rare"
+      },
+      {
+        "case_id": "nejm_005",
+        "rank": 1,
+        "rarity": "rare"
+      },
+      {
+        "case_id": "nejm_006",
+        "rank": 1,
+        "rarity": "rare"
+      },
+      {
+        "case_id": "nejm_007",
+        "rank": 1,
+        "rarity": "rare"
+      },
+      {
+        "case_id": "nejm_008",
+        "rank": 1,
+        "rarity": "rare"
+      },
+      {
+        "case_id": "nejm_009",
+        "rank": 1,
+        "rarity": "uncommon"
+      },
+      {
+        "case_id": "nejm_010",
+        "rank": 1,
+        "rarity": "rare"
+      },
+      {
+        "case_id": "curated_235",
+        "rank": null,
+        "rarity": "ultra-rare"
+      },
+      {
+        "case_id": "curated_2273",
+        "rank": 2,
+        "rarity": "ultra-rare"
+      },
+      {
+        "case_id": "curated_3455",
+        "rank": null,
+        "rarity": "ultra-rare"
+      },
+      {
+        "case_id": "curated_819",
+        "rank": null,
+        "rarity": "ultra-rare"
+      },
+      {
+        "case_id": "curated_550",
+        "rank": 1,
+        "rarity": "ultra-rare"
+      },
+      {
+        "case_id": "curated_2044",
+        "rank": 1,
+        "rarity": "ultra-rare"
+      },
+      {
+        "case_id": "curated_709",
+        "rank": null,
+        "rarity": "ultra-rare"
+      },
+      {
+        "case_id": "curated_2308",
+        "rank": null,
+        "rarity": "ultra-rare"
+      },
+      {
+        "case_id": "curated_2745",
+        "rank": null,
+        "rarity": "ultra-rare"
+      },
+      {
+        "case_id": "curated_221",
+        "rank": 2,
+        "rarity": "ultra-rare"
+      },
+      {
+        "case_id": "curated_740",
+        "rank": 1,
+        "rarity": "ultra-rare"
+      },
+      {
+        "case_id": "curated_99226",
+        "rank": null,
+        "rarity": "ultra-rare"
+      },
+      {
+        "case_id": "curated_3261",
+        "rank": null,
+        "rarity": "ultra-rare"
+      },
+      {
+        "case_id": "curated_466768",
+        "rank": null,
+        "rarity": "ultra-rare"
+      },
+      {
+        "case_id": "curated_900",
+        "rank": null,
+        "rarity": "ultra-rare"
+      },
+      {
+        "case_id": "curated_2495",
+        "rank": null,
+        "rarity": "ultra-rare"
+      },
+      {
+        "case_id": "curated_356961",
+        "rank": 2,
+        "rarity": "ultra-rare"
+      },
+      {
+        "case_id": "curated_2162",
+        "rank": 1,
+        "rarity": "ultra-rare"
+      },
+      {
+        "case_id": "curated_2710",
+        "rank": 1,
+        "rarity": "ultra-rare"
+      },
+      {
+        "case_id": "curated_818",
+        "rank": 1,
+        "rarity": "ultra-rare"
+      },
+      {
+        "case_id": "curated_3107",
+        "rank": null,
+        "rarity": "ultra-rare"
+      },
+      {
+        "case_id": "curated_261349",
+        "rank": null,
+        "rarity": "ultra-rare"
+      },
+      {
+        "case_id": "curated_828",
+        "rank": 1,
+        "rarity": "ultra-rare"
+      },
+      {
+        "case_id": "curated_464306",
+        "rank": 2,
+        "rarity": "ultra-rare"
+      },
+      {
+        "case_id": "curated_273",
+        "rank": null,
+        "rarity": "ultra-rare"
+      },
+      {
+        "case_id": "curated_175",
+        "rank": 1,
+        "rarity": "ultra-rare"
+      },
+      {
+        "case_id": "curated_845",
+        "rank": 1,
+        "rarity": "ultra-rare"
+      },
+      {
+        "case_id": "curated_567",
+        "rank": 1,
+        "rarity": "ultra-rare"
+      },
+      {
+        "case_id": "curated_534",
+        "rank": 1,
+        "rarity": "ultra-rare"
+      },
+      {
+        "case_id": "curated_64",
+        "rank": null,
+        "rarity": "ultra-rare"
+      },
+      {
+        "case_id": "curated_744",
+        "rank": 2,
+        "rarity": "ultra-rare"
+      },
+      {
+        "case_id": "curated_800",
+        "rank": 2,
+        "rarity": "ultra-rare"
+      },
+      {
+        "case_id": "curated_821",
+        "rank": null,
+        "rarity": "ultra-rare"
+      },
+      {
+        "case_id": "curated_84",
+        "rank": 1,
+        "rarity": "ultra-rare"
+      },
+      {
+        "case_id": "curated_500150",
+        "rank": null,
+        "rarity": "ultra-rare"
+      },
+      {
+        "case_id": "curated_199",
+        "rank": null,
+        "rarity": "ultra-rare"
+      },
+      {
+        "case_id": "curated_672",
+        "rank": 4,
+        "rarity": "ultra-rare"
+      },
+      {
+        "case_id": "curated_1606",
+        "rank": null,
+        "rarity": "ultra-rare"
+      },
+      {
+        "case_id": "curated_506",
+        "rank": 1,
+        "rarity": "ultra-rare"
+      },
+      {
+        "case_id": "curated_280",
+        "rank": null,
+        "rarity": "ultra-rare"
+      }
+    ],
+    "complete": true
+  },
+  "pubmed_only": {
+    "cases": [
+      {
+        "case_id": "test_001",
+        "rank": 1,
+        "rarity": "rare",
+        "retrieval_recall_20": true
+      },
+      {
+        "case_id": "test_002",
+        "rank": 1,
+        "rarity": "rare",
+        "retrieval_recall_20": true
+      },
+      {
+        "case_id": "test_003",
+        "rank": 1,
+        "rarity": "uncommon",
+        "retrieval_recall_20": false
+      },
+      {
+        "case_id": "test_004",
+        "rank": 1,
+        "rarity": "rare",
+        "retrieval_recall_20": true
+      },
+      {
+        "case_id": "test_005",
+        "rank": 1,
+        "rarity": "rare",
+        "retrieval_recall_20": false
+      },
+      {
+        "case_id": "nejm_001",
+        "rank": 1,
+        "rarity": "rare",
+        "retrieval_recall_20": false
+      },
+      {
+        "case_id": "nejm_002",
+        "rank": 1,
+        "rarity": "rare",
+        "retrieval_recall_20": false
+      },
+      {
+        "case_id": "nejm_003",
+        "rank": 1,
+        "rarity": "uncommon",
+        "retrieval_recall_20": true
+      },
+      {
+        "case_id": "nejm_004",
+        "rank": 1,
+        "rarity": "rare",
+        "retrieval_recall_20": false
+      },
+      {
+        "case_id": "nejm_005",
+        "rank": 1,
+        "rarity": "rare",
+        "retrieval_recall_20": true
+      },
+      {
+        "case_id": "nejm_006",
+        "rank": 1,
+        "rarity": "rare",
+        "retrieval_recall_20": false
+      },
+      {
+        "case_id": "nejm_007",
+        "rank": 1,
+        "rarity": "rare",
+        "retrieval_recall_20": true
+      },
+      {
+        "case_id": "nejm_008",
+        "rank": 1,
+        "rarity": "rare",
+        "retrieval_recall_20": false
+      },
+      {
+        "case_id": "nejm_009",
+        "rank": 1,
+        "rarity": "uncommon",
+        "retrieval_recall_20": false
+      },
+      {
+        "case_id": "nejm_010",
+        "rank": 1,
+        "rarity": "rare",
+        "retrieval_recall_20": false
+      },
+      {
+        "case_id": "curated_235",
+        "rank": null,
+        "rarity": "ultra-rare",
+        "retrieval_recall_20": false
+      },
+      {
+        "case_id": "curated_2273",
+        "rank": null,
+        "rarity": "ultra-rare",
+        "retrieval_recall_20": true
+      },
+      {
+        "case_id": "curated_3455",
+        "rank": null,
+        "rarity": "ultra-rare",
+        "retrieval_recall_20": true
+      },
+      {
+        "case_id": "curated_819",
+        "rank": null,
+        "rarity": "ultra-rare",
+        "retrieval_recall_20": false
+      },
+      {
+        "case_id": "curated_550",
+        "rank": 2,
+        "rarity": "ultra-rare",
+        "retrieval_recall_20": true
+      },
+      {
+        "case_id": "curated_2044",
+        "rank": 1,
+        "rarity": "ultra-rare",
+        "retrieval_recall_20": false
+      },
+      {
+        "case_id": "curated_709",
+        "rank": null,
+        "rarity": "ultra-rare",
+        "retrieval_recall_20": false
+      },
+      {
+        "case_id": "curated_2308",
+        "rank": null,
+        "rarity": "ultra-rare",
+        "retrieval_recall_20": false
+      },
+      {
+        "case_id": "curated_2745",
+        "rank": null,
+        "rarity": "ultra-rare",
+        "retrieval_recall_20": false
+      },
+      {
+        "case_id": "curated_221",
+        "rank": 1,
+        "rarity": "ultra-rare",
+        "retrieval_recall_20": false
+      },
+      {
+        "case_id": "curated_740",
+        "rank": 2,
+        "rarity": "ultra-rare",
+        "retrieval_recall_20": true
+      },
+      {
+        "case_id": "curated_99226",
+        "rank": null,
+        "rarity": "ultra-rare",
+        "retrieval_recall_20": false
+      },
+      {
+        "case_id": "curated_3261",
+        "rank": null,
+        "rarity": "ultra-rare",
+        "retrieval_recall_20": false
+      },
+      {
+        "case_id": "curated_466768",
+        "rank": null,
+        "rarity": "ultra-rare",
+        "retrieval_recall_20": false
+      },
+      {
+        "case_id": "curated_900",
+        "rank": null,
+        "rarity": "ultra-rare",
+        "retrieval_recall_20": false
+      },
+      {
+        "case_id": "curated_2495",
+        "rank": null,
+        "rarity": "ultra-rare",
+        "retrieval_recall_20": false
+      },
+      {
+        "case_id": "curated_356961",
+        "rank": null,
+        "rarity": "ultra-rare",
+        "retrieval_recall_20": false
+      },
+      {
+        "case_id": "curated_2162",
+        "rank": 1,
+        "rarity": "ultra-rare",
+        "retrieval_recall_20": false
+      },
+      {
+        "case_id": "curated_2710",
+        "rank": 1,
+        "rarity": "ultra-rare",
+        "retrieval_recall_20": true
+      },
+      {
+        "case_id": "curated_818",
+        "rank": 1,
+        "rarity": "ultra-rare",
+        "retrieval_recall_20": false
+      },
+      {
+        "case_id": "curated_3107",
+        "rank": null,
+        "rarity": "ultra-rare",
+        "retrieval_recall_20": false
+      },
+      {
+        "case_id": "curated_261349",
+        "rank": null,
+        "rarity": "ultra-rare",
+        "retrieval_recall_20": false
+      },
+      {
+        "case_id": "curated_828",
+        "rank": 1,
+        "rarity": "ultra-rare",
+        "retrieval_recall_20": false
+      },
+      {
+        "case_id": "curated_464306",
+        "rank": null,
+        "rarity": "ultra-rare",
+        "retrieval_recall_20": false
+      },
+      {
+        "case_id": "curated_273",
+        "rank": null,
+        "rarity": "ultra-rare",
+        "retrieval_recall_20": false
+      },
+      {
+        "case_id": "curated_175",
+        "rank": 1,
+        "rarity": "ultra-rare",
+        "retrieval_recall_20": false
+      },
+      {
+        "case_id": "curated_845",
+        "rank": 2,
+        "rarity": "ultra-rare",
+        "retrieval_recall_20": false
+      },
+      {
+        "case_id": "curated_567",
+        "rank": 1,
+        "rarity": "ultra-rare",
+        "retrieval_recall_20": false
+      },
+      {
+        "case_id": "curated_534",
+        "rank": 1,
+        "rarity": "ultra-rare",
+        "retrieval_recall_20": true
+      },
+      {
+        "case_id": "curated_64",
+        "rank": null,
+        "rarity": "ultra-rare",
+        "retrieval_recall_20": false
+      },
+      {
+        "case_id": "curated_744",
+        "rank": 2,
+        "rarity": "ultra-rare",
+        "retrieval_recall_20": true
+      },
+      {
+        "case_id": "curated_800",
+        "rank": null,
+        "rarity": "ultra-rare",
+        "retrieval_recall_20": false
+      },
+      {
+        "case_id": "curated_821",
+        "rank": null,
+        "rarity": "ultra-rare",
+        "retrieval_recall_20": false
+      },
+      {
+        "case_id": "curated_84",
+        "rank": 1,
+        "rarity": "ultra-rare",
+        "retrieval_recall_20": false
+      },
+      {
+        "case_id": "curated_500150",
+        "rank": null,
+        "rarity": "ultra-rare",
+        "retrieval_recall_20": false
+      },
+      {
+        "case_id": "curated_199",
+        "rank": null,
+        "rarity": "ultra-rare",
+        "retrieval_recall_20": false
+      },
+      {
+        "case_id": "curated_672",
+        "rank": null,
+        "rarity": "ultra-rare",
+        "retrieval_recall_20": false
+      },
+      {
+        "case_id": "curated_1606",
+        "rank": null,
+        "rarity": "ultra-rare",
+        "retrieval_recall_20": false
+      },
+      {
+        "case_id": "curated_506",
+        "rank": 1,
+        "rarity": "ultra-rare",
+        "retrieval_recall_20": true
+      },
+      {
+        "case_id": "curated_280",
+        "rank": null,
+        "rarity": "ultra-rare",
+        "retrieval_recall_20": false
+      }
+    ],
+    "complete": true,
+    "metrics": {
+      "all": {
+        "top1": 0.4727272727272727,
+        "top3": 0.5454545454545454,
+        "top5": 0.5454545454545454,
+        "mrr": 0.509090909090909,
+        "retrieval_recall_20": 0.2545454545454545,
+        "n": 55
+      },
+      "well_known": {
+        "top1": 1.0,
+        "top3": 1.0,
+        "top5": 1.0,
+        "mrr": 1.0,
+        "retrieval_recall_20": 0.4,
+        "n": 15
+      },
+      "ultra_rare": {
+        "top1": 0.275,
+        "top3": 0.375,
+        "top5": 0.375,
+        "mrr": 0.325,
+        "retrieval_recall_20": 0.2,
+        "n": 40
+      }
+    }
+  }
+}

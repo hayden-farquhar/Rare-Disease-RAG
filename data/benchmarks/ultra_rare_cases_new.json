@@ -1,0 +1,743 @@
+[
+  {
+    "case_id": "curated_29822",
+    "pmc_id": "38151627",
+    "title": "Curated: Spontaneous periodic hypothermia",
+    "clinical_vignette": "A 53-year-old woman presents with a 5-year history of recurrent episodes of spontaneous hypothermia. She reports experiencing sudden drops in body temperature to 32-34\u00b0C (89.6-93.2\u00b0F) lasting several hours, occurring unpredictably multiple times per month. These episodes are not preceded by obvious triggers and are unresponsive to standard antipyretic medications.\n\nHer past medical history is significant for refractory epilepsy, for which she underwent a partial right parieto-occipital lobectomy in 2003. Since the surgery, she has been seizure-free on antiepileptic medications.\n\nPhysical examination during a hypothermic episode reveals core body temperature of 33\u00b0C with shivering and altered mental status that resolves as temperature normalizes. Routine laboratory studies, including thyroid function tests, cortisol levels, and infectious workup, are all normal. Sepsis and other systemic causes of hypothermia have been excluded.\n\nBrain MRI reveals an unexpected finding: absence of the splenium of the corpus callosum. Additionally, there is evidence of pituitary hyperplasia. Neuroimaging shows no acute intracranial pathology or mass lesions.\n\nWhat is your diagnostic consideration, and what anatomical relationship might explain this patient's presentation?",
+    "final_diagnosis": "Spontaneous periodic hypothermia",
+    "orpha_code": "29822",
+    "rarity": "ultra-rare",
+    "key_discriminating_features": [
+      "Recurrent spontaneous hypothermia",
+      "Refractory epilepsy",
+      "Prior parieto-occipital lobectomy",
+      "Absent corpus callosum splenium",
+      "Pituitary hyperplasia",
+      "Altered mental status during episodes",
+      "Normal thyroid and cortisol function",
+      "Unpredictable temperature drops"
+    ],
+    "difficulty_rating": "hard",
+    "aliases": [
+      "Episodic spontaneous hypothermia",
+      "Shapiro syndrome"
+    ],
+    "source": "pmc_curated"
+  },
+  {
+    "case_id": "curated_1501",
+    "pmc_id": "41883883",
+    "title": "Curated: Adrenocortical carcinoma",
+    "clinical_vignette": "A 61-year-old man undergoes abdominal MRI for evaluation of gallstones. Imaging incidentally reveals a left adrenal mass measuring 6 cm. The patient reports no symptoms related to the adrenal gland\u2014no hypertension, palpitations, weight loss, or constitutional symptoms.\n\nLaboratory evaluation is performed:\n- 24-hour urine metanephrines: normal\n- Plasma free metanephrines: normal\n- 1 mg dexamethasone suppression test: normal cortisol suppression\n- ACTH level: normal\n- Aldosterone-to-renin ratio: normal\n\nDespite the reassuring biochemical workup, the patient is referred to both urology and endocrinology for further evaluation. The multidisciplinary team expresses concern about the mass size and the possibility of malignancy.\n\nAfter careful consideration of the imaging characteristics and size of the lesion, the team recommends surgical intervention. The patient undergoes left adrenalectomy.\n\nPathological examination of the 6.5 cm specimen reveals an unexpected diagnosis.\n\nWhat is your differential diagnosis for this adrenal mass, and what factors influenced the decision to operate despite normal hormonal studies?",
+    "final_diagnosis": "Adrenocortical carcinoma",
+    "orpha_code": "1501",
+    "rarity": "ultra-rare",
+    "key_discriminating_features": [
+      "6 cm adrenal mass",
+      "incidental finding",
+      "normal metanephrines",
+      "normal cortisol suppression",
+      "normal ACTH",
+      "no clinical symptoms",
+      "size >4 cm",
+      "malignancy concern"
+    ],
+    "difficulty_rating": "hard",
+    "aliases": [
+      "ACC"
+    ],
+    "source": "pmc_curated"
+  },
+  {
+    "case_id": "curated_85284",
+    "pmc_id": "24090718",
+    "title": "Curated: BRESEK syndrome",
+    "clinical_vignette": "A 5-month-old male presents with multiple congenital anomalies and developmental concerns. Since birth, he has displayed distinctive skin findings: follicular ichthyosis affecting his trunk and extremities, complete absence of scalp and body hair, and marked photophobia requiring protective eyewear. Developmental assessment reveals global developmental delay across motor and cognitive domains.\n\nNeuroimaging identified structural brain anomalies. Physical examination reveals characteristic facial features and skeletal abnormalities. The patient has a history of Hirschsprung disease requiring surgical intervention and was found to have bilateral kidney hypoplasia on renal ultrasound.\n\nLaboratory investigations show severe hypogammaglobulinemia with markedly reduced immunoglobulin levels across multiple classes. Additionally, the patient was diagnosed with a congenital rectourethral fistula discovered during evaluation of urinary symptoms.\n\nGenetic testing identified a pathogenic mutation (p.R429H) in the MBTPS2 gene. The constellation of findings\u2014follicular ichthyosis, complete alopecia, photophobia, developmental delay, brain anomalies, Hirschsprung disease, renal hypoplasia, immunodeficiency, and urogenital malformation\u2014suggests a single unifying genetic diagnosis.\n\nWhat is your differential diagnosis, and what additional clinical features might you anticipate in this condition?",
+    "final_diagnosis": "BRESEK syndrome",
+    "orpha_code": "85284",
+    "rarity": "ultra-rare",
+    "key_discriminating_features": [
+      "Follicular ichthyosis",
+      "Complete alopecia",
+      "Photophobia",
+      "Global developmental delay",
+      "Brain structural anomalies",
+      "Hirschsprung disease",
+      "Bilateral kidney hypoplasia",
+      "Severe hypogammaglobulinemia",
+      "Rectourethral fistula",
+      "MBTPS2 gene mutation"
+    ],
+    "difficulty_rating": "hard",
+    "aliases": [
+      "BRESHECK syndrome"
+    ],
+    "source": "pmc_curated"
+  },
+  {
+    "case_id": "curated_555874",
+    "pmc_id": "37505902",
+    "title": "Curated: Congenital tricuspid valve dysplasia",
+    "clinical_vignette": "A 4-year-old boy presents with a cardiac murmur detected on routine physical examination. He has been asymptomatic with normal growth and development, though his parents report mild exercise intolerance during vigorous play. On auscultation, a holosystolic murmur is heard at the left lower sternal border, increasing with inspiration.\n\nTransthoracic echocardiography reveals severe tricuspid regurgitation with an unusual valve morphology. The tricuspid valve appears to have four distinct leaflets rather than the typical three, with abnormal leaflet tissue and commissural anatomy. The tricuspid annulus measures 28 mm (Z-score +2.5). Right atrial enlargement is noted with an RA area of 18 cm\u00b2. The right ventricular systolic pressure is estimated at 35 mmHg based on the regurgitant jet.\n\nTwo-dimensional imaging shows the four leaflets originating from the annulus with irregular coaptation. Three-dimensional reconstruction provides detailed visualization of the valve complex, including the annular geometry, individual leaflet morphology, and subvalvular apparatus. The papillary muscles and chordae tendineae appear structurally abnormal.\n\nRight heart catheterization confirms moderate elevation in right atrial pressure. The patient is referred for surgical evaluation given the severity of regurgitation and progressive right heart dilation. What is the underlying valve pathology, and how should this guide surgical planning?",
+    "final_diagnosis": "Congenital tricuspid valve dysplasia",
+    "orpha_code": "555874",
+    "rarity": "ultra-rare",
+    "key_discriminating_features": [
+      "Holosystolic murmur at left lower sternal border",
+      "Murmur increases with inspiration",
+      "Severe tricuspid regurgitation",
+      "Four leaflets instead of three",
+      "Abnormal leaflet tissue and commissural anatomy",
+      "Right atrial enlargement",
+      "Abnormal papillary muscles and chordae tendineae",
+      "Asymptomatic with mild exercise intolerance"
+    ],
+    "difficulty_rating": "hard",
+    "aliases": [],
+    "source": "pmc_curated"
+  },
+  {
+    "case_id": "curated_2369",
+    "pmc_id": "41056657",
+    "title": "Curated: Limb body wall complex",
+    "clinical_vignette": "A 32-year-old G2P1L1 woman presents to antenatal clinic at 31 weeks and 3 days gestation with one week of mild lower abdominal pain. Obstetric ultrasound reveals a single fetus with estimated gestational age concordant with dates. A 3.3 cm anterior chest wall defect is identified with partial cardiac herniation. Additionally, herniation of the liver, bowel, kidney, and urinary bladder is noted. Thoracolumbar kyphotic deformity is also visualized on imaging.\n\nThe radiological findings suggest a severe midline developmental defect involving multiple anatomical structures. The constellation of findings includes:\n- Sternal and anterior diaphragmatic involvement\n- Pericardial defect with cardiac herniation\n- Abdominal wall defect with visceral herniation\n- Associated spinal deformity\n\nA multidisciplinary team including obstetrics, pediatrics, surgery, and radiology convenes to discuss management options. The severity of the malformation and its associated complications are reviewed. Comprehensive antenatal counseling is provided regarding prognosis, morbidity, and mortality risks. The patient receives psychological support and remains emotionally stable throughout follow-up.\n\nWhat is your differential diagnosis for this constellation of findings, and how would you counsel this patient regarding management options?",
+    "final_diagnosis": "Limb body wall complex",
+    "orpha_code": "2369",
+    "rarity": "ultra-rare",
+    "key_discriminating_features": [
+      "anterior chest wall defect",
+      "cardiac herniation",
+      "pericardial defect",
+      "multiple visceral herniation",
+      "thoracolumbar kyphosis",
+      "midline developmental defect",
+      "sternal and diaphragmatic involvement",
+      "abdominal wall defect"
+    ],
+    "difficulty_rating": "hard",
+    "aliases": [
+      "LBWC syndrome",
+      "Body stalk anomaly"
+    ],
+    "source": "pmc_curated"
+  },
+  {
+    "case_id": "curated_77259",
+    "pmc_id": "40209771",
+    "title": "Curated: Gaucher disease type 1",
+    "clinical_vignette": "A 28-year-old woman presents with progressive fatigue and abdominal distension over the past two years. She reports easy bruising and occasional bone pain. Physical examination reveals hepatosplenomegaly, with the liver edge palpable 4 cm below the costal margin and spleen tip easily felt on inspiration.\n\nLaboratory studies show pancytopenia: hemoglobin 9.2 g/dL, platelet count 85,000/\u03bcL, and WBC 3,200/\u03bcL. Bone marrow examination reveals numerous large, round to ovoid cells with abundant cytoplasm displaying characteristic onion-skin-like striations. These cells appear occasionally binucleated or multinucleated with rough chromatin. Histologic sections confirm similar findings with bluish-gray cytoplasmic staining.\n\nBiochemical analysis demonstrates decreased enzymatic activity and elevated glucosylsphingosine levels in peripheral blood leukocytes. Genetic sequencing of the patient's DNA identifies two distinct mutations on chromosome 1: one inherited from her mother and one from her father.\n\nThe patient's parents are asymptomatic carriers. She has no neurological symptoms, normal cognitive function, and no evidence of central nervous system involvement.\n\nWhat is your diagnosis, and what genetic mutations would you expect to find?",
+    "final_diagnosis": "Gaucher disease type 1",
+    "orpha_code": "77259",
+    "rarity": "ultra-rare",
+    "key_discriminating_features": [
+      "Progressive fatigue and abdominal distension",
+      "Hepatosplenomegaly",
+      "Pancytopenia",
+      "Easy bruising",
+      "Bone pain",
+      "Gaucher cells with onion-skin striations",
+      "Decreased glucocerebrosidase activity",
+      "Elevated glucosylsphingosine levels",
+      "Autosomal recessive inheritance",
+      "Non-neuronopathic phenotype"
+    ],
+    "difficulty_rating": "hard",
+    "aliases": [
+      "Non-cerebral juvenile Gaucher disease"
+    ],
+    "source": "pmc_curated"
+  },
+  {
+    "case_id": "curated_83600",
+    "pmc_id": "33884450",
+    "title": "Curated: Encephalitis lethargica",
+    "clinical_vignette": "A 58-year-old woman presented with a two-week history of progressive rigidity, bradykinesia, and tremor following confirmed SARS-CoV-2 infection. She had no prior parkinsonian symptoms or family history of movement disorders. Neurological examination revealed marked cogwheel rigidity, postural instability, and bradykinesia affecting all limbs. Brain MRI showed nonspecific white matter changes. Cerebrospinal fluid analysis revealed elevated protein (78 mg/dL) and mild lymphocytic pleocytosis (22 cells/\u03bcL). DaT-SPECT imaging demonstrated reduced striatal dopamine uptake bilaterally.\n\nFDG-PET/CT revealed an unusual pattern: cortical hypometabolism with striking hypermetabolism in the brainstem, mesial temporal lobes, and basal ganglia. Oligoclonal bands were detected in CSF, suggesting immune-mediated inflammation.\n\nA 72-year-old man presented similarly with rapid-onset parkinsonism and cognitive decline following COVID-19. He exhibited severe rigidity and akinesia with minimal response to levodopa. MRI showed cortical atrophy. FDG-PET/CT demonstrated the same distinctive metabolic pattern as the first patient: cortical hypometabolism with brainstem and basal ganglia hypermetabolism.\n\nBoth patients received immunotherapy without clinical improvement. Their presentations raise concern about a post-infectious neurological syndrome with prominent movement disorder features and characteristic brain imaging findings.\n\nWhat is your diagnostic consideration?",
+    "final_diagnosis": "Encephalitis lethargica",
+    "orpha_code": "83600",
+    "rarity": "ultra-rare",
+    "key_discriminating_features": [
+      "Post-COVID parkinsonism",
+      "Rapid onset after SARS-CoV-2",
+      "Reduced striatal dopamine uptake",
+      "Brainstem hypermetabolism",
+      "Cortical hypometabolism",
+      "CSF oligoclonal bands",
+      "Levodopa-resistant rigidity",
+      "Immune-mediated inflammation"
+    ],
+    "difficulty_rating": "hard",
+    "aliases": [
+      "Von Economo encephalitis"
+    ],
+    "source": "pmc_curated"
+  },
+  {
+    "case_id": "curated_822",
+    "pmc_id": "41808699",
+    "title": "Curated: Hereditary spherocytosis",
+    "clinical_vignette": "A 76-year-old man with advanced lung adenocarcinoma is undergoing treatment with pembrolizumab. His past medical history includes resolved hepatitis B infection, ulcerative colitis currently in remission, and a known but asymptomatic hemolytic condition.\n\nDuring his third month of immunotherapy, he develops jaundice and malaise. Laboratory studies reveal:\n- AST: 892 U/L\n- ALT: 1,240 U/L\n- Total bilirubin: 4.2 mg/dL\n- INR: 1.8\n\nViral hepatitis serologies are negative. Abdominal ultrasound shows no cirrhosis, portal hypertension, or biliary obstruction. Given the severity of liver dysfunction, a percutaneous liver biopsy is performed, demonstrating moderate lobular necroinflammation with preserved bile duct architecture.\n\nPembrolizumab is held. Based on the biopsy findings, prednisolone is initiated at 0.3 mg/kg/day. Within two weeks, transaminases decline significantly (AST: 180 U/L, ALT: 320 U/L), and bilirubin normalizes over four weeks.\n\nThe patient's clinical course raises important questions: How should the severity of histopathological findings guide corticosteroid dosing in this setting? What factors should influence the decision to rechallenge with immunotherapy? How do pre-existing conditions affect management decisions?",
+    "final_diagnosis": "Hereditary spherocytosis",
+    "orpha_code": "822",
+    "rarity": "ultra-rare",
+    "key_discriminating_features": [
+      "Pembrolizumab-induced hepatotoxicity",
+      "Elevated transaminases (AST 892, ALT 1240)",
+      "Hyperbilirubinemia with coagulopathy",
+      "Lobular necroinflammation on biopsy",
+      "Negative viral hepatitis serologies",
+      "Rapid response to corticosteroids",
+      "Pre-existing ulcerative colitis",
+      "Resolved hepatitis B infection"
+    ],
+    "difficulty_rating": "hard",
+    "aliases": [
+      "Minkowski-Chauffard disease"
+    ],
+    "source": "pmc_curated"
+  },
+  {
+    "case_id": "curated_370927",
+    "pmc_id": "38805916",
+    "title": "Curated: SSR4-CDG",
+    "clinical_vignette": "A 3-year-old boy presents with developmental concerns. He achieved independent sitting at 18 months and walking at 2.5 years. Speech development is significantly delayed with only a few intelligible words. On examination, he has microcephaly (head circumference 46 cm, <3rd percentile), generalized hypotonia, and distinctive facial features including a broad nasal bridge and characteristic facial appearance. His weight is at the 10th percentile with a history of feeding difficulties.\n\nDevelopmental testing reveals moderate intellectual disability. Brain MRI shows no structural abnormalities. Standard metabolic screening, including plasma amino acids and urine organic acids, is unremarkable. Serum transferrin isoelectric focusing is normal.\n\nThe patient has additional features including mild skeletal abnormalities on radiographs, occasional seizures controlled with medication, and significant behavioral difficulties with poor social interaction. His mother reports he has always been a \"floppy baby\" with poor muscle tone.\n\nA maternal uncle had similar developmental delay and intellectual disability, suggesting possible X-linked inheritance.\n\nWhat is your diagnostic approach? What genetic and biochemical testing would you pursue? How would you counsel the family regarding prognosis and management?",
+    "final_diagnosis": "SSR4-CDG",
+    "orpha_code": "370927",
+    "rarity": "ultra-rare",
+    "key_discriminating_features": [
+      "Microcephaly",
+      "Developmental delay",
+      "Hypotonia",
+      "Speech delay",
+      "Intellectual disability",
+      "Distinctive facial features",
+      "X-linked inheritance pattern",
+      "Seizures"
+    ],
+    "difficulty_rating": "hard",
+    "aliases": [
+      "CDG syndrome type Iy",
+      "CDG-Iy",
+      "CDG1Y",
+      "Carbohydrate deficient glycoprotein syndrome type Iy",
+      "Congenital disorder of glycosylation type 1y",
+      "Congenital disorder of glycosylation type Iy"
+    ],
+    "source": "pmc_curated"
+  },
+  {
+    "case_id": "curated_298",
+    "pmc_id": "40826089",
+    "title": "Curated: Mitochondrial neurogastrointestinal encephalomyopathy",
+    "clinical_vignette": "A 32-year-old woman presents with a 5-year history of progressive gastrointestinal dysfunction and neurological decline. She reports chronic abdominal pain, severe gastroparesis with early satiety, and recurrent episodes of pseudo-obstruction requiring multiple hospitalizations. She has experienced progressive weight loss (18 kg over 3 years) despite adequate caloric intake via nasogastric feeding.\n\nNeurologically, she demonstrates distal lower extremity weakness and sensory loss consistent with peripheral neuropathy on electrophysiological testing. Brain MRI reveals diffuse white matter changes and leukoencephalopathy. Fundoscopic examination shows ophthalmoplegia.\n\nLaboratory studies show elevated serum lactate (3.2 mmol/L, normal <2) and pyruvate levels. Muscle biopsy demonstrates ragged red fibers, cytochrome c oxidase-deficient fibers, and enhanced succinate dehydrogenase activity in blood vessel walls\u2014findings suggestive of mitochondrial pathology.\n\nFamily history is significant: her parents are consanguineous, and her younger brother has similar gastrointestinal and neurological symptoms. Two asymptomatic siblings carry genetic variants identified on screening.\n\nGenetic testing reveals two different pathogenic variants in the same gene, inherited in trans configuration from her carrier parents. In silico analysis confirms both variants are highly conserved and likely compromise protein function and structural integrity.\n\nWhat is your diagnosis, and what is the underlying molecular mechanism?",
+    "final_diagnosis": "Mitochondrial neurogastrointestinal encephalomyopathy",
+    "orpha_code": "298",
+    "rarity": "ultra-rare",
+    "key_discriminating_features": [
+      "Progressive gastrointestinal dysfunction",
+      "Severe gastroparesis with pseudo-obstruction",
+      "Progressive neurological decline",
+      "Distal peripheral neuropathy",
+      "Leukoencephalopathy with white matter changes",
+      "Ophthalmoplegia",
+      "Elevated lactate and pyruvate",
+      "Ragged red fibers on muscle biopsy",
+      "Cytochrome c oxidase deficiency",
+      "Consanguineous parents with autosomal recessive inheritance"
+    ],
+    "difficulty_rating": "hard",
+    "aliases": [
+      "MNGIE"
+    ],
+    "source": "pmc_curated"
+  },
+  {
+    "case_id": "curated_306731",
+    "pmc_id": "41185661",
+    "title": "Curated: Sydenham chorea",
+    "clinical_vignette": "A 12-year-old boy from a low-income family presents with a 3-week history of involuntary jerking movements of his arms and legs that worsen with stress and disappear during sleep. His mother reports he has become clumsy, dropping objects and struggling with schoolwork. There is no history of recent trauma or fever, though she recalls he had a sore throat approximately 2 months ago that resolved without treatment.\n\nOn examination, you observe purposeless, irregular movements of his extremities and facial grimacing. His gait is unsteady. Notably, he has no joint swelling or complaints of arthralgia. Cardiac auscultation reveals normal heart sounds with no murmurs appreciated.\n\nLaboratory investigations show an ESR of 48 mm/hr and ASO titer of 800 IU/mL. ECG is unremarkable. However, 2D echocardiography demonstrates mild mitral valve thickening with restricted leaflet motion and trace mitral regurgitation.\n\nThe patient is nutritionally compromised with evidence of protein-calorie malnutrition. His family lives 40 kilometers from the nearest healthcare facility.\n\nWhat is your diagnosis, and what are your immediate management priorities? How would you address the long-term implications of his cardiac findings?",
+    "final_diagnosis": "Sydenham chorea",
+    "orpha_code": "306731",
+    "rarity": "ultra-rare",
+    "key_discriminating_features": [
+      "involuntary jerking movements worse with stress",
+      "movements disappear during sleep",
+      "recent pharyngitis 2 months prior",
+      "elevated ESR and elevated ASO titer",
+      "mitral valve thickening with restricted leaflet motion",
+      "trace mitral regurgitation on echocardiography",
+      "chorea with facial grimacing and gait disturbance",
+      "absence of arthralgia and joint swelling"
+    ],
+    "difficulty_rating": "hard",
+    "aliases": [],
+    "source": "pmc_curated"
+  },
+  {
+    "case_id": "curated_2897",
+    "pmc_id": "41480426",
+    "title": "Curated: Pityriasis rubra pilaris",
+    "clinical_vignette": "A 57-year-old man presents with an eight-year history of progressive skin disease affecting 70% of his body surface area. He was initially diagnosed with a common papulosquamous disorder and treated with topical corticosteroids, topical calcineurin inhibitors, sulfasalazine, and methotrexate\u2014all with minimal benefit.\n\nOn examination, he displays distinctive orange-red scaly plaques distributed across his scalp, trunk, upper and lower extremities, buttocks, and genitals. In several areas, the plaques have coalesced into confluent patches. The clinical presentation prompted reconsideration of the initial diagnosis.\n\nThree punch biopsies were obtained to clarify the diagnosis. The patient's past medical history is notable for asthma, currently managed with dupilumab.\n\nGiven the extensive disease burden and failure of conventional systemic therapies, the decision was made to initiate a biologic agent targeting IL-23. The patient received guselkumab 100 mg subcutaneously as a loading dose.\n\nRemarkably, he noted clinical improvement after the first injection and achieved complete skin clearance following the second dose four weeks later. At one-year follow-up, he maintained full clearance on maintenance therapy with guselkumab 100 mg subcutaneously every eight weeks, while continuing his dupilumab for asthma management.\n\nWhat diagnosis would explain this clinical presentation and dramatic response to IL-23 inhibition?",
+    "final_diagnosis": "Pityriasis rubra pilaris",
+    "orpha_code": "2897",
+    "rarity": "ultra-rare",
+    "key_discriminating_features": [
+      "Orange-red scaly plaques",
+      "Extensive body surface area involvement (70%)",
+      "Scalp, trunk, buttocks, genitals distribution",
+      "Coalescent confluent patches",
+      "Resistance to conventional systemic therapies",
+      "Dramatic response to IL-23 inhibition",
+      "Complete clearance with guselkumab"
+    ],
+    "difficulty_rating": "hard",
+    "aliases": [],
+    "source": "pmc_curated"
+  },
+  {
+    "case_id": "curated_263487",
+    "pmc_id": "38987656",
+    "title": "Curated: COG5-CDG",
+    "clinical_vignette": "A 3-year-old Tunisian boy presents with global developmental delay and severe hypotonia since infancy. He has not achieved independent sitting and demonstrates minimal purposeful movement. His parents are consanguineous and report similar developmental concerns in no other family members.\n\nOn examination, he displays generalized muscle weakness with axial hypotonia. Notably, he has progressive ichthyosis affecting his trunk and extremities, with scaling and erythema. Ophthalmologic evaluation reveals visual impairment with nystagmus and optic nerve hypoplasia. Brain MRI shows cerebellar atrophy and delayed myelination.\n\nLaboratory studies demonstrate elevated transaminases (ALT 85 U/L, AST 92 U/L) and mildly elevated creatine kinase at 320 U/L. Metabolic screening including amino acids, organic acids, and very long-chain fatty acids are unremarkable. Standard genetic testing for common developmental delay etiologies returns negative results.\n\nThe constellation of multisystem involvement\u2014progressive neurologic deterioration, cutaneous manifestations, visual abnormalities, and hepatic involvement\u2014without clear etiology prompts further investigation. The consanguineous background and autosomal recessive inheritance pattern are notable.\n\nWhat genetic mechanism might explain this complex phenotype, and what diagnostic approach would you pursue?",
+    "final_diagnosis": "COG5-CDG",
+    "orpha_code": "263487",
+    "rarity": "ultra-rare",
+    "key_discriminating_features": [
+      "global developmental delay",
+      "severe hypotonia",
+      "progressive ichthyosis",
+      "cerebellar atrophy",
+      "optic nerve hypoplasia with nystagmus",
+      "elevated transaminases",
+      "delayed myelination",
+      "consanguineous parents"
+    ],
+    "difficulty_rating": "hard",
+    "aliases": [
+      "CDG syndrome type IIi",
+      "CDG-IIi",
+      "CDG2I",
+      "Carbohydrate deficient glycoprotein syndrome type IIi",
+      "Congenital disorder of glycosylation type IIi",
+      "Congenital disorder of glycosylation type 2i"
+    ],
+    "source": "pmc_curated"
+  },
+  {
+    "case_id": "curated_99926",
+    "pmc_id": "41442441",
+    "title": "Curated: Gestational choriocarcinoma",
+    "clinical_vignette": "A 32-year-old primigravida delivered her first child via vacuum extraction due to weak contractions and fetal distress. The newborn exhibited severe anemia (hemoglobin significantly reduced) with markedly elevated alpha-fetoprotein and fetal hemoglobin levels, consistent with significant fetomaternal hemorrhage. \n\nPlacental histopathology revealed an unexpected malignant lesion localized within the placental tissue itself. Postpartum laboratory studies showed persistently elevated human chorionic gonadotropin (hCG) levels, prompting concern for metastatic disease. Imaging studies were performed to exclude maternal or fetal metastases.\n\nThe patient underwent six courses of multiagent chemotherapy (EMA-CO regimen) without complications, adverse effects, or evidence of metastatic spread. HCG levels normalized with treatment.\n\nRemarkably, ten months after completing chemotherapy, the patient spontaneously conceived. She delivered a healthy male infant at 38+5 weeks gestation; placental examination showed no evidence of recurrent malignancy.\n\nAt five-year follow-up, both children demonstrated normal development. The mother had no clinical or biochemical evidence of recurrence or metastatic disease.\n\n**Clinical Questions:**\n1. What diagnosis explains the placental pathology and elevated tumor markers?\n2. What is the significance of the fetal anemia and elevated fetal hemoglobin?\n3. What factors determine prognosis and treatment response in this condition?\n4. What counseling regarding future pregnancies is appropriate?",
+    "final_diagnosis": "Gestational choriocarcinoma",
+    "orpha_code": "99926",
+    "rarity": "ultra-rare",
+    "key_discriminating_features": [
+      "Malignant placental lesion",
+      "Elevated hCG",
+      "Elevated alpha-fetoprotein",
+      "Elevated fetal hemoglobin",
+      "Severe fetomaternal hemorrhage",
+      "Chemotherapy-responsive disease",
+      "Normalized tumor markers post-treatment",
+      "Successful subsequent pregnancy"
+    ],
+    "difficulty_rating": "hard",
+    "aliases": [],
+    "source": "pmc_curated"
+  },
+  {
+    "case_id": "curated_1446",
+    "pmc_id": "18664089",
+    "title": "Curated: Ring chromosome 22 syndrome",
+    "clinical_vignette": "A 4-year-old boy is referred for developmental evaluation. His parents report significant developmental delay, with minimal speech development and inability to walk independently. On examination, he demonstrates generalized hypotonia and hyperactivity. Physical findings include microcephaly (head circumference 2.5 standard deviations below mean), dysplastic ears that are notably enlarged, and mild facial dysmorphism.\n\nDevelopmental testing confirms global developmental delay across all domains. The child has not yet acquired meaningful language skills despite age-appropriate hearing. Motor milestones are significantly delayed; he achieved independent sitting at 18 months and remains unable to walk without assistance.\n\nBrain MRI reveals an unexpected finding: a cerebellar arachnoid cyst in the posterior fossa, measuring 1.2 cm in greatest dimension, without mass effect.\n\nInitial metabolic screening and thyroid function are normal. Karyotype analysis is ordered given the constellation of findings. FISH analysis using locus-specific probes for chromosome 22 regions shows intact 22q11.2 sequences but notably absent 22q13.3 material.\n\nWhat chromosomal abnormality best explains this clinical presentation, and what additional genetic counseling should be provided to the family?",
+    "final_diagnosis": "Ring chromosome 22 syndrome",
+    "orpha_code": "1446",
+    "rarity": "ultra-rare",
+    "key_discriminating_features": [
+      "Global developmental delay",
+      "Microcephaly",
+      "Hypotonia",
+      "Dysplastic enlarged ears",
+      "Minimal speech development",
+      "Delayed motor milestones",
+      "22q13.3 deletion"
+    ],
+    "difficulty_rating": "hard",
+    "aliases": [
+      "Ring chromosome 22",
+      "Ring 22",
+      "r(22) syndrome"
+    ],
+    "source": "pmc_curated"
+  },
+  {
+    "case_id": "curated_98964",
+    "pmc_id": "20806046",
+    "title": "Curated: Lattice corneal dystrophy type I",
+    "clinical_vignette": "# Clinical Vignette\n\nYou are evaluating three unrelated Chilean families with a hereditary corneal condition. Seven patients (5 females, 2 males) present with bilateral, symmetric corneal changes.\n\n**Family One:** Three patients with symptom onset between ages 6-15 years. **Family Two:** One patient with onset at age 5 years; notably, neither parent is affected. **Family Three:** One patient with symptom onset at age 21 years.\n\n**Clinical Findings:**\nAll patients demonstrate progressive corneal opacities beginning with central subepithelial needlelike deposits and polymorphic anterior stromal opacities. Visual acuity ranges from 1.0 to 0.05. Four patients (ages 24, 45, 47, and 50 years) have required corneal transplantation\u2014two bilaterally and two unilaterally.\n\n**Distinguishing Feature:** The Family Three patient shows a notably different phenotype: yellowish discoloration in the anterior stroma with fewer but thicker corneal lines compared to Families One and Two.\n\n**Genetic Testing:**\nFamilies One and Two carry an identical heterozygous mutation at codon 124 (exon 4). Family Two's mutation is de novo. Family Three carries a different heterozygous mutation in exon 13.\n\n**Question:** What is the likely diagnosis, and what explains the phenotypic variation between Family Three and the other two families?",
+    "final_diagnosis": "Lattice corneal dystrophy type I",
+    "orpha_code": "98964",
+    "rarity": "ultra-rare",
+    "key_discriminating_features": [
+      "bilateral symmetric corneal opacities",
+      "progressive anterior stromal involvement",
+      "subepithelial needlelike deposits",
+      "polymorphic stromal opacities",
+      "childhood to early adult onset",
+      "heterozygous mutations in different exons",
+      "phenotypic variation with different mutations",
+      "corneal transplantation requirement"
+    ],
+    "difficulty_rating": "hard",
+    "aliases": [
+      "Biber-Haab-Dimmer dystrophy",
+      "Classic lattice corneal dystrophy",
+      "LCD1",
+      "LCDI",
+      "Lattice corneal dystrophy type 1"
+    ],
+    "source": "pmc_curated"
+  },
+  {
+    "case_id": "curated_280779",
+    "pmc_id": "40662278",
+    "title": "Curated: Cutaneous collagenous vasculopathy",
+    "clinical_vignette": "A 40-year-old woman presents with a 10-year history of progressive vascular lesions affecting her extremities, trunk, and forearms. She reports associated discomfort with the lesions and seeks treatment for both symptomatic relief and cosmetic concerns.\n\nOn examination, she demonstrates widespread dilated capillaries and small vessels distributed across multiple body areas. The lesions appear as fine, red linear markings with areas of erythema. Vital signs are stable, and systemic examination reveals no other significant abnormalities.\n\nDermatologic workup, including skin biopsy, reveals thickened vessel walls with collagen deposition in the dermis, consistent with a microangiopathy. Laboratory studies and imaging studies are unremarkable, with no evidence of systemic disease or secondary causes identified.\n\nGiven the extensive distribution and symptomatic nature of her condition, the patient is offered laser therapy. She undergoes six treatment sessions with a 595-nanometer pulsed dye laser over a 14-month period, with individualized parameters adjusted for optimal results.\n\nFollowing treatment, the patient demonstrates significant improvement in erythema and vessel visibility across all treated areas. Associated discomfort resolves substantially, and she reports high satisfaction with cosmetic outcomes. Clinical response is sustained at follow-up evaluation.\n\nWhat is your diagnosis?",
+    "final_diagnosis": "Cutaneous collagenous vasculopathy",
+    "orpha_code": "280779",
+    "rarity": "ultra-rare",
+    "key_discriminating_features": [
+      "Progressive vascular lesions",
+      "Widespread distribution (extremities, trunk, forearms)",
+      "Fine red linear markings",
+      "Dilated capillaries and small vessels",
+      "Thickened vessel walls with dermal collagen deposition",
+      "Microangiopathy on biopsy",
+      "No systemic disease",
+      "Responsive to pulsed dye laser"
+    ],
+    "difficulty_rating": "hard",
+    "aliases": [
+      "CCV"
+    ],
+    "source": "pmc_curated"
+  },
+  {
+    "case_id": "curated_90281",
+    "pmc_id": "41808655",
+    "title": "Curated: Discoid lupus erythematosus",
+    "clinical_vignette": "A 20-year-old woman presents with a 7-year history of a persistent erythematous plaque on her nose that has significantly impacted her quality of life. The lesion is well-demarcated, slightly indurated, and shows signs of scaling. She reports that the rash worsens with sun exposure.\n\nPrevious treatments with systemic antimalarials and various topical agents have provided minimal benefit. Physical examination reveals the characteristic plaque confined to sun-exposed facial skin with no involvement of other body areas or mucous membranes.\n\nLaboratory workup shows negative systemic markers, and a skin biopsy with direct immunofluorescence demonstrates interface dermatitis with a granular IgG and complement deposition pattern at the dermal-epidermal junction, consistent with an autoimmune etiology.\n\nGiven the patient's facial location and previous intolerance to prolonged topical corticosteroid use, conventional treatment options are limited. She is started on a combination regimen including hydroxychloroquine and a novel topical phosphodiesterase-4 inhibitor ointment applied once daily.\n\nAfter two months of treatment, marked clinical improvement is noted with significant reduction in erythema and plaque thickness. At seven-month follow-up, the lesion remains in remission with minimal residual changes. The hydroxychloroquine dose has been successfully reduced without recurrence.\n\nWhat is your diagnostic impression, and what factors support this diagnosis?",
+    "final_diagnosis": "Discoid lupus erythematosus",
+    "orpha_code": "90281",
+    "rarity": "ultra-rare",
+    "key_discriminating_features": [
+      "Localized facial erythematous plaque",
+      "Sun-exposed distribution",
+      "Interface dermatitis on biopsy",
+      "Granular IgG and complement deposition",
+      "Negative systemic markers",
+      "Response to hydroxychloroquine",
+      "Chronic course with quality of life impact",
+      "No mucosal involvement"
+    ],
+    "difficulty_rating": "hard",
+    "aliases": [],
+    "source": "pmc_curated"
+  },
+  {
+    "case_id": "curated_141127",
+    "pmc_id": "40201883",
+    "title": "Curated: Congenital tracheal stenosis",
+    "clinical_vignette": "A 75-year-old woman presents for preoperative evaluation prior to planned surgery for esophagogastric junction cancer. She reports a 15-year history of asthma but denies current dyspnea or stridor. Physical examination is unremarkable. Preoperative chest X-ray demonstrates subtle narrowing of the trachea, though the finding is not definitively characterized.\n\nGeneral anesthesia is induced for surgery. The anesthesiologist attempts oral endotracheal intubation with a double-lumen tube but encounters unexpected resistance and is unable to advance the tube. Bronchoscopic examination reveals marked tracheal narrowing beginning at the level of the first rib attachment. The tracheal rings appear abnormally formed, creating a complete ring-like structure that significantly reduces the luminal diameter.\n\nIntubation is successfully accomplished using a 7-mm single-lumen tube, and anesthesia is maintained with a bronchial blocker. The patient tolerates the procedure without complications.\n\nWhat structural abnormality of the trachea explains this patient's difficult intubation? Why might this condition have remained undiagnosed until adulthood despite its congenital nature? What preoperative imaging or clinical features should have raised suspicion for this diagnosis?",
+    "final_diagnosis": "Congenital tracheal stenosis",
+    "orpha_code": "141127",
+    "rarity": "ultra-rare",
+    "key_discriminating_features": [
+      "Complete tracheal rings",
+      "Tracheal narrowing at first rib",
+      "Difficult intubation with resistance",
+      "Long-standing asthma history",
+      "Subtle CXR tracheal narrowing",
+      "Abnormally formed tracheal rings",
+      "Reduced tracheal luminal diameter",
+      "Congenital tracheal stenosis"
+    ],
+    "difficulty_rating": "hard",
+    "aliases": [],
+    "source": "pmc_curated"
+  },
+  {
+    "case_id": "curated_1827",
+    "pmc_id": "1733166",
+    "title": "Curated: Acromelic frontonasal dysplasia",
+    "clinical_vignette": "A 38-week male fetus is delivered stillborn. Prenatal ultrasound had noted polyhydramnios and abnormal head morphology. On external examination, the infant displays a distinctive facial appearance with a broad nasal bridge, hypertelorism, and a midline nasal defect with a small proboscis-like projection between the eyes. The anterior fontanelle is markedly enlarged.\n\nPalpation reveals a soft, fluctuant mass at the occiput measuring approximately 3 cm in diameter. Neuroimaging confirms herniation of brain tissue through a defect in the occipital bone.\n\nExamination of the lower extremities reveals bilateral preaxial polydactyly of the feet, with six toes on each foot arranged in a radial pattern. The great toes are duplicated and positioned medially.\n\nMRI of the head demonstrates absence of the corpus callosum and a Dandy-Walker variant with hypoplasia of the cerebellar vermis. The lateral ventricles are moderately dilated.\n\nThe combination of midline facial clefting, occipital neural tube defect, and preaxial foot polydactyly suggests a single underlying developmental field defect. The parents report no family history of similar conditions, and genetic testing for common chromosomal abnormalities is negative.\n\nWhat is the most likely diagnosis?",
+    "final_diagnosis": "Acromelic frontonasal dysplasia",
+    "orpha_code": "1827",
+    "rarity": "ultra-rare",
+    "key_discriminating_features": [
+      "Midline facial clefting with proboscis",
+      "Hypertelorism with broad nasal bridge",
+      "Occipital encephalocele",
+      "Bilateral preaxial polydactyly of feet",
+      "Absent corpus callosum",
+      "Dandy-Walker variant",
+      "Polyhydramnios",
+      "Enlarged anterior fontanelle"
+    ],
+    "difficulty_rating": "hard",
+    "aliases": [
+      "Acromelic frontonasal dysostosis",
+      "AFND",
+      "Toriello syndrome"
+    ],
+    "source": "pmc_curated"
+  },
+  {
+    "case_id": "curated_94068",
+    "pmc_id": "37950831",
+    "title": "Curated: Spondyloepiphyseal dysplasia congenita",
+    "clinical_vignette": "A 16-year-old boy with a known skeletal dysplasia presents with progressive spinal deformity and neurological symptoms. Physical examination reveals severe short stature, a prominent thoracic kyphosis with associated scoliosis, and limited cervical range of motion. He reports progressive upper extremity weakness and numbness over the past 6 months.\n\nImaging studies demonstrate a severe thoracic kyphoscoliosis measuring 78\u00b0 in the coronal plane and 65\u00b0 in the sagittal plane. MRI of the cervical spine shows atlantoaxial instability with anterior atlantodental interval of 8 mm and evidence of cervical myelopathy with T2 signal changes at the C1-C2 level. Neurological examination confirms hyperreflexia and mild weakness in bilateral lower extremities.\n\nThe surgical team recognizes that direct fusion of the thoracic deformity carries significant neurological risk given the existing myelopathy and cervical instability. They propose a staged preoperative protocol: initial cervical stabilization with external immobilization combined with gradual spinal elongation using a specialized casting technique to progressively correct the thoracic deformity over several months before definitive surgical fusion.\n\nHow would you approach the preoperative management of this complex spinal deformity while minimizing neurological complications?",
+    "final_diagnosis": "Spondyloepiphyseal dysplasia congenita",
+    "orpha_code": "94068",
+    "rarity": "ultra-rare",
+    "key_discriminating_features": [
+      "Skeletal dysplasia with severe short stature",
+      "Thoracic kyphoscoliosis (78\u00b0 coronal, 65\u00b0 sagittal)",
+      "Atlantoaxial instability (ADI 8mm)",
+      "Cervical myelopathy with T2 signal changes",
+      "Progressive upper extremity weakness and numbness",
+      "Hyperreflexia with lower extremity weakness",
+      "Staged preoperative protocol with cervical stabilization",
+      "Gradual spinal elongation via specialized casting"
+    ],
+    "difficulty_rating": "hard",
+    "aliases": [
+      "Congenital spondyloepiphyseal dysplasia",
+      "SEDC",
+      "Spranger-Wiedemann disease"
+    ],
+    "source": "pmc_curated"
+  },
+  {
+    "case_id": "curated_79394",
+    "pmc_id": "40545863",
+    "title": "Curated: Congenital ichthyosiform erythroderma",
+    "clinical_vignette": "A 3-month-old Japanese infant presents with generalized erythema and scaling that began shortly after birth. The parents report the child was born with a collodion membrane appearance, which subsequently shed. Physical examination reveals diffuse erythema and fine scaling affecting approximately 80% of the body surface area, with particular involvement of flexural areas and the face. The skin barrier appears compromised, with increased transepidermal water loss measured at 35 g/m\u00b2/hour (normal <10 g/m\u00b2/hour).\n\nLaboratory evaluation shows normal inflammatory markers and no evidence of systemic involvement. Genetic testing identifies a homozygous 92-base-pair duplication in a gene encoding a transacylase critical for skin barrier lipid synthesis. Lipidomic analysis of stratum corneum samples reveals a distinctive pattern: markedly reduced levels of specialized acylated lipids and protein-bound lipid species, with accumulation of non-acylated lipid precursors.\n\nThe clinical presentation is consistent with a primary epidermal differentiation disorder. The genetic finding and lipid profile suggest a defect in the synthesis of essential barrier lipids. The patient's Japanese ethnicity and the specific genetic variant identified suggest this may represent a previously unreported genetic cause in this population.\n\nWhat is your diagnosis, and what does the lipid profile tell you about the underlying pathophysiology?",
+    "final_diagnosis": "Congenital ichthyosiform erythroderma",
+    "orpha_code": "79394",
+    "rarity": "ultra-rare",
+    "key_discriminating_features": [
+      "Collodion membrane at birth",
+      "Generalized erythema and scaling",
+      "Flexural predominance",
+      "Elevated transepidermal water loss",
+      "Homozygous transacylase gene duplication",
+      "Reduced acylated lipids in stratum corneum",
+      "Accumulation of non-acylated lipid precursors",
+      "Normal inflammatory markers"
+    ],
+    "difficulty_rating": "hard",
+    "aliases": [
+      "CIE",
+      "Erythrodermic ichthyosis",
+      "Non-bullous congenital ichthyosiform erythroderma"
+    ],
+    "source": "pmc_curated"
+  },
+  {
+    "case_id": "curated_199318",
+    "pmc_id": "28345786",
+    "title": "Curated: 15q13.3 microdeletion syndrome",
+    "clinical_vignette": "A 6-year-old girl presents with severe global developmental delay and absent speech. She has experienced multiple seizures since infancy that have proven resistant to standard antiepileptic medications. On examination, she demonstrates generalized muscular hypotonia and ataxia affecting her gait and coordination. Subtle facial dysmorphic features are noted but not distinctive. \n\nHer developmental history reveals she never achieved meaningful language milestones and has required ongoing therapy for motor skills with minimal progress. Neuroimaging shows normal brain structure with no obvious corpus callosum abnormalities.\n\nGenetic testing was pursued given the severity and complexity of her presentation. Next-generation sequencing identified a de novo nonsense mutation in a gene known to be involved in neurodevelopmental disorders. Additionally, chromosomal microarray detected a de novo microdeletion on chromosome 15q13.3 involving a gene associated with seizure disorders and developmental delay.\n\nThe patient's parents have normal development and unremarkable medical histories. The combination of severe seizures, profound developmental delay, absent speech, hypotonia, and ataxia is more severe than typically expected from either genetic finding alone.\n\nWhat is your diagnostic interpretation of this case, and how might the presence of two independent genetic abnormalities explain the clinical severity?",
+    "final_diagnosis": "15q13.3 microdeletion syndrome",
+    "orpha_code": "199318",
+    "rarity": "ultra-rare",
+    "key_discriminating_features": [
+      "severe global developmental delay",
+      "absent speech",
+      "drug-resistant seizures",
+      "generalized hypotonia",
+      "ataxia",
+      "de novo nonsense mutation",
+      "de novo 15q13.3 microdeletion",
+      "compound genetic abnormalities"
+    ],
+    "difficulty_rating": "hard",
+    "aliases": [
+      "Del(15)(q13.3)",
+      "Monosomy 15q13.3"
+    ],
+    "source": "pmc_curated"
+  },
+  {
+    "case_id": "curated_210272",
+    "pmc_id": "39144852",
+    "title": "Curated: Mal de d\u00e9barquement",
+    "clinical_vignette": "A 28-year-old male presents with a six-month history of persistent sensation that the ground is moving beneath him. He describes a bobbing, rocking, and swaying feeling that began immediately after returning from a fishing expedition on a boat. The sensation has been constant and significantly impacts his daily functioning and quality of life.\n\nNotably, the patient reports that his symptoms temporarily improve when he engages in activities involving motion, such as driving his car or using a swing. However, these activities only provide relief while he is actively moving; symptoms return once the motion ceases.\n\nThe patient has undergone extensive medical evaluation including neuroimaging and laboratory studies with multiple physicians, all of which have been unremarkable. He denies vertigo, hearing loss, tinnitus, or focal neurological deficits. Neurological examination is normal, including cranial nerves, motor and sensory testing, coordination, and gait assessment. Vestibular testing has been performed without significant abnormalities.\n\nThe patient is frustrated by the lack of diagnosis and concerned about the chronicity of his symptoms. He is seeking clarification regarding the etiology of his persistent sensation of movement and guidance on management strategies.\n\nWhat is your diagnostic consideration, and what additional history would be most helpful in establishing the diagnosis?",
+    "final_diagnosis": "Mal de d\u00e9barquement",
+    "orpha_code": "210272",
+    "rarity": "ultra-rare",
+    "key_discriminating_features": [
+      "Persistent sensation of ground movement",
+      "Bobbing, rocking, swaying feeling",
+      "Onset after boat exposure",
+      "Six-month duration",
+      "Symptom relief with active motion",
+      "Symptoms recur when motion stops",
+      "Normal neuroimaging and labs",
+      "Normal vestibular testing"
+    ],
+    "difficulty_rating": "hard",
+    "aliases": [
+      "Disembarkment syndrome",
+      "MdD",
+      "MdDS",
+      "Sickness of disembarkment"
+    ],
+    "source": "pmc_curated"
+  },
+  {
+    "case_id": "curated_2268",
+    "pmc_id": "41359419",
+    "title": "Curated: ICF syndrome",
+    "clinical_vignette": "A 3-year-old girl presents with a history of recurrent severe infections beginning at 12 months of age, including multiple episodes of pneumonia and otitis media requiring hospitalization. She has significant developmental delay, with speech limited to single words and gross motor skills at an 18-month level. Physical examination reveals distinctive facial features including a broad nasal bridge, hypertelorism, and micrognathia.\n\nLaboratory evaluation shows lymphopenia with absolute lymphocyte count of 800/\u03bcL (normal 1500-4500). Immunoglobulin levels are reduced: IgG 320 mg/dL, IgA 18 mg/dL, and IgM 35 mg/dL. Flow cytometry demonstrates decreased CD4+ T cells at 15% and reduced B cell populations.\n\nCytogenetic analysis of peripheral blood reveals striking centromeric instability with excessive chromosome breaks and rearrangements, particularly affecting chromosomes 1, 9, and 16. Notably, these abnormalities are present in approximately 5-10% of metaphases examined.\n\nWhole genome methylation analysis demonstrates global DNA hypomethylation with a distinctive pattern affecting pericentromeric regions and satellite DNA sequences.\n\nGenetic testing identifies a homozygous missense variant in a gene encoding a transcription factor containing zinc finger domains. The variant affects a conserved protein-protein interaction domain.\n\nWhat is your diagnosis, and what is the underlying molecular mechanism?",
+    "final_diagnosis": "ICF syndrome",
+    "orpha_code": "2268",
+    "rarity": "ultra-rare",
+    "key_discriminating_features": [
+      "Recurrent severe infections from 12 months",
+      "Lymphopenia with reduced CD4+ T cells",
+      "Hypogammaglobulinemia (IgG, IgA, IgM)",
+      "Developmental delay with speech/motor delay",
+      "Distinctive facial features (broad nasal bridge, hypertelorism, micrognathia)",
+      "Centromeric instability with chromosome breaks",
+      "Global DNA hypomethylation",
+      "Homozygous zinc finger transcription factor variant"
+    ],
+    "difficulty_rating": "hard",
+    "aliases": [
+      "Immunodeficiency-centromeric instability-facial dysmorphism syndrome",
+      "Immunodeficiency-centromeric instability-facial anomalies syndrome"
+    ],
+    "source": "pmc_curated"
+  },
+  {
+    "case_id": "curated_2070",
+    "pmc_id": "41801837",
+    "title": "Curated: Eosinophilic gastroenteritis",
+    "clinical_vignette": "A 68-year-old Chinese man presents with recurrent episodes of severe abdominal pain over the past year. His initial presentation included acute pancreatitis with elevated lipase (850 U/L) and amylase (920 U/L). CT imaging showed pancreatic edema and peripancreatic fat stranding. Laboratory workup revealed persistent peripheral eosinophilia (8.2% of WBC differential). Notably, despite having no gastrointestinal symptoms, upper endoscopy performed during his first admission revealed mucosal inflammation with eosinophilic infiltration in the stomach and small bowel.\n\nOne year later, he presents again with recurrent acute pancreatitis. Repeat imaging demonstrates progressive pancreatic duct dilation (5mm). Extensive workup excludes gallstones, alcohol use, hypertriglyceridemia, and autoimmune causes. Endoscopic ultrasound-guided fine-needle aspiration of the pancreas is performed, revealing approximately 15 eosinophils per high-power field on histology.\n\nThe patient's peripheral eosinophilia persists at 7.8%. Serum IgE levels are mildly elevated. Imaging shows resolution of pancreatic duct dilation and clinical improvement within weeks of initiating immunomodulatory therapy.\n\nWhat diagnosis unifies his recurrent pancreatitis, persistent eosinophilia, concurrent gastrointestinal findings, and dramatic response to corticosteroids?",
+    "final_diagnosis": "Eosinophilic gastroenteritis",
+    "orpha_code": "2070",
+    "rarity": "ultra-rare",
+    "key_discriminating_features": [
+      "Recurrent acute pancreatitis",
+      "Persistent peripheral eosinophilia",
+      "Eosinophilic infiltration on endoscopy",
+      "Pancreatic duct dilation",
+      "Eosinophils on pancreatic FNA",
+      "Elevated serum IgE",
+      "Response to corticosteroids",
+      "Exclusion of other pancreatitis causes"
+    ],
+    "difficulty_rating": "hard",
+    "aliases": [
+      "EGE",
+      "Eosinophilic enteritis",
+      "Eosinophilic gastroenterocolitis"
+    ],
+    "source": "pmc_curated"
+  },
+  {
+    "case_id": "curated_968",
+    "pmc_id": "2703235",
+    "title": "Curated: Acromesomelic dysplasia, Hunter-Thompson type",
+    "clinical_vignette": "A 4-year-old boy and his 6-year-old sister present with severe short stature and limb shortening noted since infancy. Both children have normal trunk proportions but markedly shortened limbs, with the lower extremities more severely affected than the upper. Physical examination reveals bilateral elbow dislocations and ankle dislocations in both siblings. The boy additionally has bilateral hip and knee dislocations, while his sister's hips and knees appear clinically stable.\n\nAnthropometric measurements show limb lengths approximately 60% of expected for age. The middle and distal segments of the limbs are disproportionately shortened compared to proximal segments. Radiographs demonstrate severe skeletal dysplasia affecting primarily the limbs and joints, with relatively normal vertebral bodies and pelvis. Intelligence and facial features are normal in both children.\n\nThe parents are unaffected and non-consanguineous. There is no family history of skeletal dysplasia beyond these two siblings. Biochemical markers of bone metabolism are normal. The clinical presentation is distinctive but shares some features with other severe short-limb dwarfing conditions.\n\nWhat is your diagnosis, and what genetic pattern would you anticipate in this family?",
+    "final_diagnosis": "Acromesomelic dysplasia, Hunter-Thompson type",
+    "orpha_code": "968",
+    "rarity": "ultra-rare",
+    "key_discriminating_features": [
+      "severe short stature",
+      "limb shortening since infancy",
+      "disproportionate shortening distal > proximal segments",
+      "bilateral elbow dislocations",
+      "bilateral ankle dislocations",
+      "variable joint involvement between siblings",
+      "normal trunk proportions",
+      "normal intelligence and facial features"
+    ],
+    "difficulty_rating": "hard",
+    "aliases": [
+      "Acromesomelic dwarfism"
+    ],
+    "source": "pmc_curated"
+  },
+  {
+    "case_id": "curated_352731",
+    "pmc_id": "41060149",
+    "title": "Curated: Oculocutaneous albinism type 1",
+    "clinical_vignette": "A 35-year-old patient presents with lifelong visual complaints and a distinctive clinical appearance. Physical examination reveals fair skin, light-colored hair, and notably reduced iris pigmentation with a translucent appearance. The patient reports photophobia and nystagmus since childhood.\n\nComprehensive ophthalmologic evaluation demonstrates normal retinal architecture on standard light microscopy and optical coherence tomography. Visual acuity is mildly reduced, and the patient exhibits characteristic horizontal nystagmus. Electroretinography shows reduced amplitudes, particularly affecting cone function.\n\nElectron microscopic examination of retinal tissue reveals an unexpected finding: photoreceptor synaptic ribbons\u2014the presynaptic structures responsible for continuous neurotransmitter release\u2014are markedly abnormal. Rather than their typical elongated, electron-dense appearance, the ribbons appear fragmented and significantly reduced in size. Some fragments remain anchored at active zones, while others float freely within the cytoplasm.\n\nGenetic sequencing of the RIBEYE gene, which encodes the primary structural protein of synaptic ribbons, reveals only common polymorphisms also found in unaffected controls\u2014no pathogenic mutations are identified.\n\nThe patient's clinical presentation, combined with these distinctive retinal ultrastructural findings, suggests a systemic metabolic disorder affecting melanin production that secondarily impacts synaptic ribbon architecture. What diagnosis would explain this constellation of findings?",
+    "final_diagnosis": "Oculocutaneous albinism type 1",
+    "orpha_code": "352731",
+    "rarity": "ultra-rare",
+    "key_discriminating_features": [
+      "fair skin and light hair",
+      "reduced iris pigmentation",
+      "photophobia",
+      "nystagmus",
+      "reduced visual acuity",
+      "abnormal synaptic ribbons",
+      "reduced cone function on ERG",
+      "oculocutaneous albinism"
+    ],
+    "difficulty_rating": "hard",
+    "aliases": [
+      "OCA1"
+    ],
+    "source": "pmc_curated"
+  },
+  {
+    "case_id": "curated_139411",
+    "pmc_id": "41112161",
+    "title": "Curated: Carney triad",
+    "clinical_vignette": "A 15-year-old girl with no significant medical or family history was admitted for COVID-19 pneumonia. Routine chest X-ray incidentally demonstrated a nodular opacity in the left lower lobe. High-resolution CT confirmed a 55-mm nodule with coarse calcification in the left lower lobe and additionally revealed multiple gastric lesions.\n\nUpper endoscopy identified three distinct gastric tumors: a 10-mm lesion in the fornix and two tumors (10-mm and 30-mm) in the upper gastric body. Endoscopic ultrasound-guided fine needle biopsy of the gastric lesions revealed spindle cell neoplasms consistent with gastrointestinal stromal tumors (GISTs).\n\nLaboratory studies and immunohistochemistry confirmed KIT and DOG1 positivity. Genetic testing was notable for SDHA mutations. The patient had no history of adrenal masses or other endocrinopathies on screening.\n\nGiven the constellation of findings\u2014multiple gastric GISTs in a young patient, pulmonary nodule with characteristic calcification, and genetic findings\u2014a syndromic presentation was suspected.\n\nThe surgical team performed laparoscopic-assisted endoscopic cooperative resection of all three gastric tumors using full-thickness resection techniques to preserve gastric function. Three months later, thoracoscopic left lower lobectomy was performed for the pulmonary lesion. At three-year follow-up, there is no evidence of recurrence.\n\nWhat diagnosis unifies these clinical findings, and what are the key management considerations for this patient?",
+    "final_diagnosis": "Carney triad",
+    "orpha_code": "139411",
+    "rarity": "ultra-rare",
+    "key_discriminating_features": [
+      "Multiple gastric GISTs",
+      "Young age at presentation",
+      "SDHA mutation",
+      "Pulmonary nodule with coarse calcification",
+      "KIT and DOG1 positive",
+      "Syndromic GIST presentation",
+      "Spindle cell neoplasms"
+    ],
+    "difficulty_rating": "hard",
+    "aliases": [],
+    "source": "pmc_curated"
+  },
+  {
+    "case_id": "curated_750",
+    "pmc_id": "40985600",
+    "title": "Curated: Pseudoachondroplasia",
+    "clinical_vignette": "A 29-year-old man presents with a history of left hip pain and limited abduction since childhood. Physical examination reveals mild leg length discrepancy (0.8 cm) and restricted hip abduction bilaterally. His mother and maternal grandmother both underwent hip surgery in their 20s for similar complaints, though detailed records are unavailable.\n\nRadiographs show bilateral hip dysplasia with acetabular angles of 28\u00b0 on the left and 26\u00b0 on the right (normal <20\u00b0). Center-edge angles measure 18\u00b0 bilaterally. No other skeletal abnormalities are noted on full-body imaging. Height and body proportions are normal. Spine examination is unremarkable.\n\nLaboratory studies are unremarkable. Whole-exome sequencing identifies a heterozygous missense variant in exon 10 of a gene encoding a cartilage oligomeric matrix protein (c.1133A>C, p.D378A). This variant is absent from population databases and demonstrates high conservation across species (REVEL score: 0.84). The same variant is identified in his mother and maternal grandmother, perfectly co-segregating with hip disease across three generations.\n\nAdditional genetic testing reveals variants in other genes associated with hip development, but these do not explain the clear familial pattern observed.\n\nWhat is your diagnostic interpretation, and what does this genetic finding suggest about the underlying pathophysiology?",
+    "final_diagnosis": "Pseudoachondroplasia",
+    "orpha_code": "750",
+    "rarity": "ultra-rare",
+    "key_discriminating_features": [
+      "Bilateral hip dysplasia",
+      "Elevated acetabular angles",
+      "Reduced center-edge angles",
+      "Childhood-onset hip pain",
+      "Restricted hip abduction",
+      "Autosomal dominant inheritance",
+      "COMP gene missense variant",
+      "High conservation pathogenic variant"
+    ],
+    "difficulty_rating": "hard",
+    "aliases": [
+      "Pseudoachondroplastic dysplasia",
+      "Pseudoachondroplastic spondyloepiphyseal dysplasia"
+    ],
+    "source": "pmc_curated"
+  }
+]
