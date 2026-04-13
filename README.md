@@ -2,9 +2,9 @@
 
 Replication code and data for:
 
-> **Retrieval-augmented generation improves diagnostic accuracy for ultra-rare diseases**
+> **Retrieval quality, not model capability, constrains RAG-assisted rare disease diagnosis: ablation and error analysis on 85 clinical vignettes**
 >
-> Hayden Farquhar. *npj Digital Medicine* (submitted).
+> Hayden Farquhar. Preprint: [Zenodo (DOI: 10.5281/zenodo.19477877)](https://doi.org/10.5281/zenodo.19477877).
 
 ## Overview
 
@@ -176,11 +176,11 @@ If you use this code or data, please cite:
 
 ```bibtex
 @article{farquhar2026rag,
-  title={Retrieval-augmented generation improves diagnostic accuracy for ultra-rare diseases},
+  title={Retrieval quality, not model capability, constrains {RAG}-assisted rare disease diagnosis: ablation and error analysis on 85 clinical vignettes},
   author={Farquhar, Hayden},
-  journal={npj Digital Medicine},
   year={2026},
-  note={submitted}
+  doi={10.5281/zenodo.19477877},
+  note={Preprint}
 }
 ```
 
